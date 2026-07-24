@@ -67,8 +67,8 @@ Exam Director
 {% hint style="danger" %}
 ### Đề thi
 
-* Chỉ mở đề theo đúng thời điểm quy định.
-* Chỉ phát đúng đề cho đúng phòng thi.
+* Chỉ phát đúng thời điểm quy định.
+* Phát đúng đề theo từng cjap
 * Không giải thích nội dung đề thi cho thí sinh.
 {% endhint %}
 
