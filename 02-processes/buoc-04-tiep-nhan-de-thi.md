@@ -24,20 +24,22 @@ layout:
 Tiếp nhận, kiểm tra và lưu trữ an toàn lô đề thi từ ÖSD cho đến ngày tổ chức kỳ thi.
 
 {% columns %}
-{% column %}
-📅 **Thời điểm** Trước ngày thi 2–3 tuần
+{% column width="33.33333333333333%" %}
+#### 📅 **Thời điểm**&#x20;
+
+Trước ngày thi 2–3 tuần
+{% endcolumn %}
+
+{% column width="33.33333333333333%" %}
+#### 👤 **Phụ trách**&#x20;
+
+[Exam Operations Officer](../03-roles/exam-operations-officer.md) ·&#x20;
 {% endcolumn %}
 
 {% column %}
-👤 **Ai chịu trách nhiệm** Quyết định & kế hoạch: [Exam Operations Officer](../03-roles/exam-operations-officer.md) · Thực hiện: [Exam Coordinator](../03-roles/exam-coordinator.md)
-{% endcolumn %}
+#### ✅ **Phê duyệt**&#x20;
 
-{% column %}
-✅ **Phê duyệt** [Exam Director](../03-roles/exam-director.md)
-{% endcolumn %}
-
-{% column %}
-🔒 **Khu vực lưu trữ** Phòng kho · 02 két sắt
+[Exam Director](../03-roles/exam-director.md)
 {% endcolumn %}
 {% endcolumns %}
 
@@ -45,13 +47,14 @@ Tiếp nhận, kiểm tra và lưu trữ an toàn lô đề thi từ ÖSD cho đ
 
 ### 👥 Vai trò & Trách nhiệm
 
-| Vai trò | Trách nhiệm |
-| --- | --- |
-| [Exam Operations Officer](../03-roles/exam-operations-officer.md) | Lập kế hoạch tiếp nhận lô đề thi và quyết định phương án xử lý. |
-| [Exam Coordinator](../03-roles/exam-coordinator.md) | Theo dõi, tiếp nhận và lưu trữ lô đề thi. |
-| [Exam Director](../03-roles/exam-director.md) | Theo dõi tiến độ, phê duyệt việc mở niêm phong và xử lý các tình huống phát sinh. |
+| Vai trò                                                           | Trách nhiệm                                                                       |
+| ----------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| [Exam Operations Officer](../03-roles/exam-operations-officer.md) | Theo dõi, tiếp nhận và lưu trữ lô đề thi.                                         |
+| [Exam Director](../03-roles/exam-director.md)                     | Theo dõi tiến độ, phê duyệt việc mở niêm phong và xử lý các tình huống phát sinh. |
 
-### 📋 Chuẩn bị
+{% hint style="info" %}
+### Chuẩn bị&#x20;
+{% endhint %}
 
 {% columns %}
 {% column %}
@@ -124,27 +127,21 @@ Nếu phát hiện bất thường, thực hiện theo hướng dẫn tại mụ
 {% hint style="info" %}
 ### 🔐 Quy định bảo mật
 
-**Ai được tiếp cận**
-Chỉ [Exam Operations Officer](../03-roles/exam-operations-officer.md) và [Exam Director](../03-roles/exam-director.md).
+**Ai được tiếp cận** Chỉ [Exam Operations Officer](../03-roles/exam-operations-officer.md) và [Exam Director](../03-roles/exam-director.md).
 
-**Chìa khóa / Phòng lưu trữ**
-Đề thi lưu trong phòng kho, trang bị 02 két sắt. Chỉ 03 nhân sự Exam Operations Team được biết chìa khóa và mật khẩu.
+**Chìa khóa / Phòng lưu trữ** Đề thi lưu trong phòng kho, trang bị 02 két sắt. Chỉ 03 nhân sự Exam Operations Team được biết chìa khóa và mật khẩu.
 
-**Mở niêm phong**
-Chỉ mở niêm phong khi có Exam Director trực tiếp giám sát và cho phép.
+**Mở niêm phong** Chỉ mở niêm phong khi có Exam Director trực tiếp giám sát và cho phép.
 {% endhint %}
 
 {% hint style="danger" %}
 ### ⚠️ Xử lý tình huống
 
-**DHL giao thiếu kiện**
-Báo ngay Exam Director → liên hệ DHL xác minh và xử lý → theo dõi đến khi nhận đủ lô đề thi.
+**DHL giao thiếu kiện** Báo ngay Exam Director → liên hệ DHL xác minh và xử lý → theo dõi đến khi nhận đủ lô đề thi.
 
-**Kiện hàng rách/móp**
-Chụp ảnh hiện trạng → báo ngay Exam Director → liên hệ DHL xử lý theo quy định.
+**Kiện hàng rách/móp** Chụp ảnh hiện trạng → báo ngay Exam Director → liên hệ DHL xử lý theo quy định.
 
-**Giao hàng trễ**
-Chủ động liên hệ DHL cập nhật tiến độ → thúc đẩy giao hàng → báo cáo Exam Director đến khi nhận thành công.
+**Giao hàng trễ** Chủ động liên hệ DHL cập nhật tiến độ → thúc đẩy giao hàng → báo cáo Exam Director đến khi nhận thành công.
 {% endhint %}
 {% endcolumn %}
 {% endcolumns %}
@@ -192,13 +189,13 @@ Chủ động liên hệ DHL cập nhật tiến độ → thúc đẩy giao hà
 {% columns %}
 {% column %}
 {% content-ref url="buoc-03-sap-xep-lich-thi.md" %}
-[Bước trước: Sắp xếp lịch thi chi tiết](buoc-03-sap-xep-lich-thi.md)
+[buoc-03-sap-xep-lich-thi.md](buoc-03-sap-xep-lich-thi.md)
 {% endcontent-ref %}
 {% endcolumn %}
 
 {% column %}
 {% content-ref url="buoc-05-phan-cong-va-csvc.md" %}
-[Bước tiếp theo: Phân công nhân sự & chuẩn bị CSVC](buoc-05-phan-cong-va-csvc.md)
+[buoc-05-phan-cong-va-csvc.md](buoc-05-phan-cong-va-csvc.md)
 {% endcontent-ref %}
 {% endcolumn %}
 {% endcolumns %}
