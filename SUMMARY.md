@@ -14,8 +14,7 @@
 
 * [Tổng quan quy trình](02-processes/tong-quan-quy-trinh.md)
 * [Bước 1 — Lập kế hoạch & đăng ký](02-processes/buoc-01-lap-ke-hoach-dang-ky.md)
-* [Bước 2.1 — Quản lý đăng ký kỳ thi](02-processes/buoc-02-1-quan-ly-dang-ky.md)
-* [Bước 2.2 — Truyền thông cho kỳ thi](02-processes/buoc-02-2-truyen-thong.md)
+* [Bước 2 — Quản lý đăng ký và truyền thông cho kỳ thi](02-processes/buoc-02-quan-ly-va-truyen-thong.md)
 * [Bước 3 — Sắp xếp lịch thi chi tiết](02-processes/buoc-03-sap-xep-lich-thi.md)
 * [Bước 4 — Tiếp nhận đề thi](02-processes/buoc-04-tiep-nhan-de-thi.md)
 * [Bước 5 — Phân công nhân sự & CSVC](02-processes/buoc-05-phan-cong-va-csvc.md)
