@@ -68,11 +68,11 @@ Operation Handbook được xây dựng nhằm:
 {% endcontent-ref %}
 
 {% content-ref url="03-roles/exam-operations-team.md" %}
-[exam-operations-officer.md](03-roles/exam-operations-team.md)
+[exam-operations-team.md](03-roles/exam-operations-team.md)
 {% endcontent-ref %}
 
-{% content-ref url="03-roles/giam-thi.md" %}
-[giam-thi.md](03-roles/invigilator.md)
+{% content-ref url="03-roles/invigilator.md" %}
+[invigilator.md](03-roles/invigilator.md)
 {% endcontent-ref %}
 {% endcolumn %}
 
