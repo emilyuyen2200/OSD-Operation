@@ -37,7 +37,7 @@ Trước ngày thi 1,5–2 tháng
 
 ---
 
-## 🔀 Luồng thực hiện
+## 🔀 Các bước thực hiện
 
 | ① | ② | ③ | ④ |
 | --- | --- | --- | --- |
