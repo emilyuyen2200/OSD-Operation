@@ -26,8 +26,8 @@ description: Mẫu biên bản Protokol ghi nhận diễn biến buổi thi — 
 
 ## Tài liệu liên quan
 
-{% content-ref url="../02-processes/buoc-07-to-chuc-ky-thi.md" %}
-[Bước 7 — Tổ chức Kỳ thi](../02-processes/buoc-07-to-chuc-ky-thi.md)
+{% content-ref url="../02-processes/buoc-07-to-chuc-ky-thi/README.md" %}
+[Bước 7 — Tổ chức Kỳ thi](../02-processes/buoc-07-to-chuc-ky-thi/README.md)
 {% endcontent-ref %}
 
 {% content-ref url="../02-processes/buoc-09-dong-goi-ban-giao.md" %}
