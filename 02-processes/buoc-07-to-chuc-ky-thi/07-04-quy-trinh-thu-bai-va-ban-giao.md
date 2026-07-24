@@ -1,4 +1,7 @@
 ---
+description: >-
+  Thu nhận, kiểm đếm và bàn giao bài thi cùng hồ sơ của từng phòng thi, đảm bảo
+  đầy đủ trước khi chuyển sang quy trình đối soát.
 layout:
   width: wide
   title:
@@ -19,9 +22,9 @@ layout:
     visible: true
 ---
 
-# 07-04. Quy trình thu bài & bàn giao
+# 07-04. Quy trình Thu bài & Bàn giao
 
-Thu nhận, kiểm đếm và bàn giao bài thi cùng hồ sơ của từng phòng thi, đảm bảo đầy đủ trước khi chuyển sang quy trình đối soát.
+
 
 {% columns %}
 {% column %}
@@ -39,7 +42,7 @@ Invigilator
 {% column %}
 #### ✅ Phê duyệt
 
-Exam Director
+Exam Coordinator
 {% endcolumn %}
 {% endcolumns %}
 
@@ -47,18 +50,18 @@ Exam Director
 
 ### 👥 Vai trò & Trách nhiệm
 
-| Vai trò | Trách nhiệm |
-| --- | --- |
+| Vai trò     | Trách nhiệm                                                            |
+| ----------- | ---------------------------------------------------------------------- |
 | Invigilator | Thu bài, kiểm đếm và bàn giao đầy đủ bài thi cùng hồ sơ của phòng thi. |
 
 ### 📋 Chuẩn bị
 
-- 📄 Attendance List.
-- 📄 Protokoll.
-- 📄 Bài thi.
-- 📄 Phiếu đánh giá (Speaking).
-- 💾 USB ghi âm (Speaking).
-- 📦 Túi đựng bài thi theo quy định.
+* 📄 Attendance List.
+* 📄 Protokoll.
+* 📄 Bài thi.
+* 📄 Phiếu đánh giá (Speaking).
+* 💾 USB ghi âm (Speaking).
+* 📦 Túi đựng bài thi theo quy định.
 
 ***
 
@@ -67,17 +70,17 @@ Exam Director
 {% hint style="danger" %}
 ### Kiểm đếm
 
-- Kiểm đếm toàn bộ bài thi và hồ sơ trước khi bàn giao.
-- Đối chiếu với danh sách thí sinh tham dự.
-- Báo ngay nếu phát hiện thiếu hoặc sai lệch.
+* Kiểm đếm toàn bộ bài thi và hồ sơ trước khi bàn giao.
+* Đối chiếu với danh sách thí sinh tham dự.
+* Báo ngay nếu phát hiện thiếu hoặc sai lệch.
 {% endhint %}
 
 {% hint style="danger" %}
 ### Bàn giao
 
-- Chỉ bàn giao khi đã hoàn tất kiểm đếm.
-- Hồ sơ của từng phòng thi phải được bàn giao riêng, không trộn lẫn.
-- Không để bài thi ngoài phạm vi kiểm soát trong quá trình bàn giao.
+* Chỉ bàn giao khi đã hoàn tất kiểm đếm.
+* Hồ sơ của từng phòng thi phải được bàn giao riêng, không trộn lẫn.
+* Không để bài thi ngoài phạm vi kiểm soát trong quá trình bàn giao.
 {% endhint %}
 
 ***
@@ -85,7 +88,6 @@ Exam Director
 ## 📖 Hướng dẫn thực hiện
 
 {% stepper %}
-
 {% step %}
 ### Thu bài thi
 
@@ -109,7 +111,6 @@ Sắp xếp bài thi và các biểu mẫu theo đúng quy định trước khi 
 
 Bàn giao toàn bộ bài thi và hồ sơ cho Exam Coordinator để tiếp tục quy trình đối soát.
 {% endstep %}
-
 {% endstepper %}
 
 ***
@@ -119,10 +120,10 @@ Bàn giao toàn bộ bài thi và hồ sơ cho Exam Coordinator để tiếp t�
 {% hint style="info" %}
 ### Checklist hoàn thành
 
-- [ ] Đã thu đầy đủ bài thi.
-- [ ] Đã kiểm đếm bài thi và hồ sơ.
-- [ ] Đã đối chiếu với danh sách thí sinh.
-- [ ] Đã hoàn tất bàn giao.
+* [ ] Đã thu đầy đủ bài thi.
+* [ ] Đã kiểm đếm bài thi và hồ sơ.
+* [ ] Đã đối chiếu với danh sách thí sinh.
+* [ ] Đã hoàn tất bàn giao.
 {% endhint %}
 {% endcolumn %}
 
@@ -130,8 +131,8 @@ Bàn giao toàn bộ bài thi và hồ sơ cho Exam Coordinator để tiếp t�
 {% hint style="success" %}
 ### Hoàn thành khi
 
-- Toàn bộ bài thi và hồ sơ đã được bàn giao.
-- Sẵn sàng chuyển sang **Bước 08. Đối soát bài thi & đề thi**.
+* Toàn bộ bài thi và hồ sơ đã được bàn giao.
+* Sẵn sàng chuyển sang **Bước 08. Đối soát bài thi & đề thi**.
 {% endhint %}
 {% endcolumn %}
 {% endcolumns %}
@@ -139,14 +140,15 @@ Bàn giao toàn bộ bài thi và hồ sơ cho Exam Coordinator để tiếp t�
 {% hint style="warning" %}
 ### Lưu ý
 
-- Quy trình này chỉ mô tả luồng thu bài và bàn giao.
-- Hướng dẫn thao tác chi tiết được trình bày trong **Role Guide – Invigilator**.
+* Quy trình này chỉ mô tả luồng thu bài và bàn giao.
+* Hướng dẫn thao tác chi tiết được trình bày trong **Role Guide – Invigilator**.
 {% endhint %}
 
 ***
 
 ## 📎 Tài liệu liên quan
 
-{% content-ref url="../08-doi-soat-bai-thi-va-de-thi/README.md" %}
-[README.md](../08-doi-soat-bai-thi-va-de-thi/README.md)
+{% content-ref url="../../quy-trinh-to-chuc-thi-osd/buoc-8-doi-soat-bai-thi-de-thi/" %}
+[buoc-8-doi-soat-bai-thi-de-thi](../../quy-trinh-to-chuc-thi-osd/buoc-8-doi-soat-bai-thi-de-thi/)
 {% endcontent-ref %}
+
