@@ -22,11 +22,11 @@
 | Danh sách giữ đồ | Bước 7 | Cần soạn |
 | Danh sách thi các kỹ năng | Bước 3 | Cần soạn |
 | Protokol | Bước 7, 9 | Cần soạn |
-| Checklist Phân công Nhân sự | Bước 5 | Cần soạn |
-| Checklist Hồ sơ & Biểu mẫu Phòng thi | Bước 5 | Cần soạn |
-| Checklist Thiết bị | Bước 5 | Cần soạn |
-| Checklist Setup Phòng thi | Bước 5 | Cần soạn |
-| Checklist Phần mềm & Hệ thống | Bước 5 | Cần soạn |
+| Checklist Phân công Nhân sự | Bước 5 | [Xem](./checklist-phan-cong-nhan-su.md)|
+| Checklist Hồ sơ & Biểu mẫu Phòng thi | Bước 5 | [Xem](./checklist-ho-so-bieu-mau-phong-thi.md)|
+| Checklist Thiết bị | Bước 5 | [Xem](./checklist-thiet-bi.md) |
+| Checklist Setup Phòng thi | Bước 5 | [Xem](./checklist-setup-phong-thi.md) |
+| Checklist Phần mềm & Hệ thống | Bước 5 | [Xem](./checklist-phan-mem-va-he-thong.md) |
 
 ## Nhóm 3 — Ngày thi & Bàn giao
 
