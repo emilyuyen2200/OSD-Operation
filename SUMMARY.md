@@ -18,7 +18,7 @@
 * [Invigilator](03-roles/invigilator.md)
 * [Examiner](03-roles/examiner.md)
 * [Exam Operations Team](03-roles/exam-operations-team.md)
-  * [Bộ phận Kỹ thuật](03-roles/ho-tro-ky-thuat.md)
+  * [Technical Team](03-roles/technical-team.md)
   * [Welcome Officer](03-roles/welcome-officer.md)
   * [Check-in Officer](03-roles/check-in-officer.md)
   * [Locker Officer](03-roles/locker-officer.md)
