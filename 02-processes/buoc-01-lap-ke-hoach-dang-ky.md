@@ -6,9 +6,9 @@ layout:
   description:
     visible: true
   tableOfContents:
-    visible: true
+    visible: false
   outline:
-    visible: true
+    visible: false
   pagination:
     visible: true
   metadata:
@@ -66,8 +66,8 @@ Xác định thời gian tổ chức, trình độ mở thi và hoàn tất đă
 ## 📖 Hướng dẫn thực hiện
 
 {% columns %}
-{% column %}
-### ① Xác định thời gian tổ chức
+{% column valign="middle" %}
+### ① Xác định thời gian   tổ chức
 
 * Trao đổi với Exam Director để thống nhất thời gian tổ chức.
 * Kiểm tra lịch các kỳ thi đã lên kế hoạch.
@@ -84,6 +84,7 @@ Xác định thời gian tổ chức, trình độ mở thi và hoàn tất đă
 * Xác định các trình độ sẽ tổ chức.
 * Kiểm tra nhu cầu đăng ký dự kiến.
 * Thống nhất danh sách trình độ với Exam Director.
+*
 
 {% hint style="info" %}
 **Kết quả:** Danh sách trình độ được phê duyệt.
@@ -107,34 +108,40 @@ Xác định thời gian tổ chức, trình độ mở thi và hoàn tất đă
 
 {% columns %}
 {% column %}
-### ☑️ Checklist hoàn thành
+{% hint style="info" %}
+### Checklist hoàn thành
 
 * [ ] Đã xác định ngày tổ chức kỳ thi.
 * [ ] Đã xác định các trình độ mở thi.
 * [ ] Đã được Exam Director phê duyệt.
 * [ ] Đã đăng ký kỳ thi với ÖSD.
 * [ ] Đã lưu xác nhận đăng ký.
+{% endhint %}
 {% endcolumn %}
 
 {% column %}
-### ✅ Hoàn thành khi
-
 {% hint style="success" %}
+### Hoàn thành khi
+
 * Kế hoạch kỳ thi được Exam Director phê duyệt.
 * Kỳ thi được đăng ký thành công với ÖSD.
 * Sẵn sàng triển khai bước **Quản lý đăng ký kỳ thi**.
-{% endhint %}
-{% endcolumn %}
 
-{% column %}
-### ⚠️ Lưu ý
+
+
+
+{% endhint %}
+
+
+{% endcolumn %}
+{% endcolumns %}
 
 {% hint style="warning" %}
+### &#x20;Lưu ý
+
 * Chỉ công bố thông tin kỳ thi sau khi nhận xác nhận từ ÖSD.
 * Lưu toàn bộ email và tài liệu xác nhận để đối chiếu khi cần.
 {% endhint %}
-{% endcolumn %}
-{% endcolumns %}
 
 ***
 
