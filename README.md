@@ -1,34 +1,10 @@
----
-title: Operation Handbook
-description: Hướng dẫn vận hành công tác tổ chức kỳ thi ÖSD tại Phuong Nam Education.
----
-
 # Operation Handbook
 
-**Phuong Nam Education (PNE)**\
-**Hướng dẫn vận hành công tác tổ chức kỳ thi ÖSD**
-
-Operation Handbook là tài liệu hướng dẫn vận hành chính thức dành cho toàn bộ nhân sự tham gia công tác tổ chức kỳ thi ÖSD tại Phuong Nam Education.
-
-Handbook giúp chuẩn hóa quy trình làm việc, thống nhất cách phối hợp giữa các bộ phận và là tài liệu tham chiếu trong toàn bộ vòng đời của một kỳ thi.
-
-{% hint style="danger" %}
-**Phạm vi áp dụng** — Handbook áp dụng cho toàn bộ hoạt động chuẩn bị, tổ chức và tổng kết kỳ thi ÖSD tại Phuong Nam Education.
+{% hint style="success" %}
+**Đang áp dụng chính thức** — Đây là nguồn thông tin duy nhất về quy trình vận hành của doanh nghiệp.
 {% endhint %}
 
-## Thông tin tài liệu
-
-| Thuộc tính | Thông tin |
-| --- | --- |
-| Đơn vị | Exam Operations |
-| Chủ sở hữu | Exam Director |
-| Quản lý | Exam Coordinator |
-| Phiên bản | 1.1 |
-| Trạng thái | Active |
-| Cập nhật | 24/07/2026 |
-
 ## Mục đích
-
 Operation Handbook được xây dựng nhằm:
 
 - Chuẩn hóa quy trình tổ chức kỳ thi theo tiêu chuẩn của PNE.
@@ -37,107 +13,68 @@ Operation Handbook được xây dựng nhằm:
 - Lưu trữ và cập nhật kinh nghiệm vận hành giữa các kỳ thi.
 - Hỗ trợ đào tạo, hướng dẫn và bàn giao công việc cho nhân sự mới.
 
-## Đối tượng sử dụng
+<h2 align="center">Bạn cần tìm gì?</h2>
 
-Handbook được sử dụng bởi:
+<p align="center">Chọn nhóm bên dưới, hoặc dùng ô tìm kiếm (Ctrl+K / Cmd+K) để tra nhanh theo từ khóa.</p>
 
-- [Exam Director](03-roles/exam-director.md)
-- [Exam Coordinator](03-roles/exam-coordinator.md)
-- Exam Operations Team
-- [Giám thị](03-roles/giam-thi.md)
-- [Giám khảo](03-roles/giam-khao.md)
-- [Marketing](03-roles/marketing.md)
-- Bộ phận Học vụ
-- Các bộ phận liên quan đến công tác tổ chức kỳ thi
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody>
+<tr><td><h3>🌱</h3></td><td><h4><strong>Tổng quan</strong></h4></td><td>Mục tiêu & cách dùng handbook</td><td><a href="./00-overview/muc-tieu-va-cach-su-dung.md">./00-overview/muc-tieu-va-cach-su-dung.md</a></td></tr>
+<tr><td><h3>📜</h3></td><td><h4><strong>Quy chế</strong></h4></td><td>Khung quy định nền tảng</td><td><a href="./01-policies/ban-hanh-quy-che.md">./01-policies/ban-hanh-quy-che.md</a></td></tr>
+<tr><td><h3>🗂️</h3></td><td><h4><strong>Quy trình Tổ chức thi</strong></h4></td><td>12 bước, từ lập kế hoạch tới tổng kết</td><td><a href="./02-processes/00-tong-quan.md">./02-processes/00-tong-quan.md</a></td></tr>
+<tr><td><h3>👥</h3></td><td><h4><strong>Vai trò & Phân quyền</strong></h4></td><td>Ai chịu trách nhiệm việc gì</td><td><a href="./03-roles/exam-director.md">./03-roles/exam-director.md</a></td></tr>
+<tr><td><h3>📋</h3></td><td><h4><strong>Mẫu biểu & Checklist</strong></h4></td><td>Biên bản, Protokol, sơ đồ phòng thi...</td><td><a href="./04-templates-checklists/danh-muc-mau-bieu.md">./04-templates-checklists/danh-muc-mau-bieu.md</a></td></tr>
+<tr><td><h3>⚠️</h3></td><td><h4><strong>Rủi ro & Dự phòng</strong></h4></td><td>Mất điện, lỗi phần mềm, sự cố đề thi...</td><td><a href="./05-risk-management/risk-register.md">./05-risk-management/risk-register.md</a></td></tr>
+<tr><td><h3>📖</h3></td><td><h4><strong>Thuật ngữ</strong></h4></td><td>PIC, RACI, Protokol, KQN...</td><td><a href="./06-glossary/thuat-ngu.md">./06-glossary/thuat-ngu.md</a></td></tr>
+</tbody></table>
 
-## Bắt đầu sử dụng
+---
 
-Nếu đây là lần đầu sử dụng Handbook, hãy tham khảo theo thứ tự sau:
+{% columns %}
+{% column %}
+### 🚀 Đang chuẩn bị kỳ thi?
 
-1. [Tổng quan quy trình tổ chức kỳ thi](02-processes/00-tong-quan.md)
-2. [Vai trò và trách nhiệm (Bảng phân công)](02-processes/bang-phan-cong.md)
-3. Quy trình (SOP) *(chưa có tài liệu riêng — hiện dùng chung với các bước trong Tổng quan quy trình)*
-4. Hướng dẫn công việc (Work Instruction) *(chưa có tài liệu riêng)*
-5. Checklist *(chưa tách riêng — hiện gộp trong Danh mục biểu mẫu)*
-6. [Biểu mẫu](04-templates-checklists/danh-muc-mau-bieu.md)
-
-## Khi nào nên sử dụng
-
-Tham khảo Handbook khi:
-
-- Chuẩn bị tham gia một kỳ thi.
-- Được phân công một vai trò hoặc nhiệm vụ mới.
-- Cần thực hiện một nghiệp vụ cụ thể.
-- Cần rà soát lại quy trình trước khi triển khai.
-- Cần sử dụng biểu mẫu hoặc checklist.
-- Phát sinh tình huống cần tham khảo hướng dẫn xử lý.
-
-## Tra cứu nhanh
-
-| Tôi muốn... | Tham khảo |
-| --- | --- |
-| Hiểu toàn bộ quy trình tổ chức kỳ thi | [Tổng quan quy trình](02-processes/00-tong-quan.md) |
-| Biết trách nhiệm của mình | [Bảng phân công](02-processes/bang-phan-cong.md) |
-| Thực hiện một công việc | SOP *(chưa có tài liệu riêng)* |
-| Xem hướng dẫn chi tiết | Work Instruction *(chưa có tài liệu riêng)* |
-| Sử dụng biểu mẫu | [Danh mục biểu mẫu](04-templates-checklists/danh-muc-mau-bieu.md) |
-| Kiểm tra đầu việc | Checklist *(chưa tách riêng khỏi Danh mục biểu mẫu)* |
-| Tra cứu thuật ngữ | [Thuật ngữ & Viết tắt](06-glossary/thuat-ngu.md) |
-| Xử lý sự cố | [Quản lý rủi ro](05-risk-management/risk-register.md) |
-
-## Cấu trúc Handbook
-
-```
-Operation Handbook
-│
-├── Giới thiệu
-├── Tổng quan quy trình
-├── Vai trò & Phân quyền
-├── Quy trình (SOP)                    — chưa có tài liệu riêng
-├── Hướng dẫn công việc (Work Instruction) — chưa có tài liệu riêng
-├── Biểu mẫu
-├── Checklist                          — chưa tách riêng khỏi Biểu mẫu
-├── Quản lý rủi ro
-├── Thuật ngữ
-└── Phụ lục                            — chưa có
-```
-
-## Nguyên tắc cập nhật
-
-Để đảm bảo tính thống nhất của Handbook:
-
-- Chỉ cập nhật khi nội dung đã được xác nhận và phê duyệt.
-- Không tạo tài liệu mới nếu nội dung đã tồn tại trong Handbook.
-- Mọi thay đổi cần được Exam Director hoặc Exam Coordinator xem xét trước khi ban hành.
-- Lịch sử cập nhật phải được ghi nhận trong từng tài liệu.
-
-## Tài liệu liên quan
-
-{% content-ref url="02-processes/00-tong-quan.md" %}
-[Tổng quan quy trình tổ chức kỳ thi](02-processes/00-tong-quan.md)
+{% content-ref url="./02-processes/buoc-05-phan-cong-va-csvc.md" %}
+[Bước 5 — Phân công nhân sự & CSVC](./02-processes/buoc-05-phan-cong-va-csvc.md)
 {% endcontent-ref %}
 
-{% content-ref url="04-templates-checklists/danh-muc-mau-bieu.md" %}
-[Danh mục biểu mẫu](04-templates-checklists/danh-muc-mau-bieu.md)
+{% content-ref url="./02-processes/buoc-07-to-chuc-ky-thi.md" %}
+[Bước 7 — Tổ chức Kỳ thi](./02-processes/buoc-07-to-chuc-ky-thi.md)
 {% endcontent-ref %}
 
-{% content-ref url="06-glossary/thuat-ngu.md" %}
-[Thuật ngữ & Viết tắt](06-glossary/thuat-ngu.md)
+{% content-ref url="./05-risk-management/risk-register.md" %}
+[Xử lý sự cố khẩn cấp](./05-risk-management/risk-register.md)
+{% endcontent-ref %}
+{% endcolumn %}
+
+{% column %}
+### 👤 Vai trò của bạn
+
+{% content-ref url="./03-roles/exam-coordinator.md" %}
+[Exam Coordinator](./03-roles/exam-coordinator.md)
 {% endcontent-ref %}
 
-{% content-ref url="05-risk-management/risk-register.md" %}
-[Quản lý rủi ro](05-risk-management/risk-register.md)
+{% content-ref url="./03-roles/exam-operations-officer.md" %}
+[Exam Operations Officer](./03-roles/exam-operations-officer.md)
 {% endcontent-ref %}
 
-## Lịch sử cập nhật
+{% content-ref url="./03-roles/invigilator.md" %}
+[Invigilator](./03-roles/invigilator.md)
+{% endcontent-ref %}
+{% endcolumn %}
 
-| Phiên bản | Ngày | Nội dung |
-| --- | --- | --- |
-| 1.1 | 24/07/2026 | Chuẩn hóa cấu trúc và văn phong theo tiêu chuẩn Operation Handbook của PNE. |
-| 1.0 | 23/07/2026 | Khởi tạo tài liệu. |
+{% column %}
+### 🆕 Mới nhất
 
-{% hint style="info" %}
-Đây là tài liệu nội bộ của **Phuong Nam Education (PNE)**. Mọi quy trình, hướng dẫn và biểu mẫu trong Handbook được quản lý theo phiên bản và chỉ được cập nhật sau khi được phê duyệt.
-{% endhint %}
+{% content-ref url="./02-processes/00-tong-quan.md" %}
+[Tổng quan quy trình & RACI](./02-processes/00-tong-quan.md)
+{% endcontent-ref %}
 
-<p align="center"><strong>Phuong Nam Education</strong><br><em>Operation Handbook — ÖSD Examination Operations</em></p>
+{% content-ref url="./04-templates-checklists/danh-muc-mau-bieu.md" %}
+[Danh mục mẫu biểu](./04-templates-checklists/danh-muc-mau-bieu.md)
+{% endcontent-ref %}
+{% endcolumn %}
+{% endcolumns %}
+
+---
+
+> 📌 Muốn hiểu cách handbook này được tổ chức (quy ước đặt tên, metadata...)? Xem [Hệ thống](./99-he-thong/frontmatter-schema.md).
