@@ -40,7 +40,7 @@
   * [07-02. Quy trình phòng thi Viết](02-processes/buoc-07-to-chuc-ky-thi/07-02-quy-trinh-phong-thi-Viet.md)
   * [07-03. Quy trình phòng thi Nói](02-processes/buoc-07-to-chuc-ky-thi/07-03-quy-trinh-phong-thi-Noi.md)
   * [07-04. Quy trình Thu bài & Bàn giao](02-processes/buoc-07-to-chuc-ky-thi/07-04-quy-trinh-thu-bai-va-ban-giao.md)
-* [Bước 8 — Đối soát](02-processes/buoc-08-doi-soat/readme.md)
+* [Bước 8 — Đối soát](02-processes/buoc-08-doi-soat/readme)
   * [08-01. Đối soát bài thi Viết](02-processes/buoc-08-doi-soat/01-doi-soat-bai-thi-viet.md)
   * [08-02. Đối soát bài thi Nói](02-processes/buoc-08-doi-soat/02-doi-soat-bai-thi-noi.md)
   * [08-03. Quản lý bài thi nhận kết quả nhanh](02-processes/buoc-08-doi-soat/03-quan-ly-bai-thi-nhan-ket-qua-nhanh.md)
