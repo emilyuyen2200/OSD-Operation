@@ -13,27 +13,8 @@ last_updated: 2026-07-24
 Tài liệu này mô tả toàn bộ quy trình tổ chức một kỳ thi ÖSD tại Phuong Nam Education, từ giai đoạn lập kế hoạch đến lưu trữ và cải tiến sau kỳ thi.
 
 
-![Quy trình Tổ chức kỳ thi ÖSD](.gitbook/assets/Quy Trinh To Chuc Ky Thi OSD-selection.png)
-
-{% hint style="info" %}
-Tài liệu này giúp xác định bước tiếp theo trước khi tham khảo hướng dẫn chi tiết của từng bước.
-{% endhint %}
-
-{% columns %}
-{% column %}
-### Phạm vi áp dụng
-
-✅ Áp dụng cho toàn bộ quá trình tổ chức kỳ thi ÖSD tại Phuong Nam Education.
-{% endcolumn %}
-
-{% column %}
-### Điều kiện trước khi bắt đầu
-
-✅ Quy chế tổ chức kỳ thi đã được ban hành.
-
-✅ Kỳ thi đã được phê duyệt và mở đăng ký.
-{% endcolumn %}
-{% endcolumns %}
+![Quy trình Tổ chức kỳ thi ÖSD](../.gitbook/assets/Quy%20Trinh%20To%20Chuc%20Ky%20Thi%20OSD-selection.png)
+ 
 
 ## 12 bước trong quy trình
 
