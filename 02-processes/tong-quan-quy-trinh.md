@@ -8,6 +8,24 @@ last_updated: 2026-07-24T00:00:00.000Z
 description: >-
   Tổng quan các giai đoạn trong quy trình tổ chức kỳ thi ÖSD tại Phuong Nam
   Education.
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # Tổng quan quy trình
@@ -38,7 +56,7 @@ Tài liệu này giúp xác định bước tiếp theo trước khi tham khảo
 
 ## 12 bước trong quy trình
 
-<table><thead><tr><th width="84.3125" align="center" valign="middle">Bước</th><th width="290.520751953125">Hoạt động</th><th width="212.9063720703125">Thời điểm</th><th>Ghi chú</th></tr></thead><tbody><tr><td align="center" valign="middle">1</td><td>Lập kế hoạch &#x26; đăng ký kỳ thi</td><td>Trước 1,5–2 tháng</td><td><a href="buoc-01-lap-ke-hoach-dang-ky.md">Xem chi tiết</a></td></tr><tr><td align="center" valign="middle">2.1</td><td>Quản lý đăng ký kỳ thi</td><td>Trước 1,5–2 tháng</td><td><a href="buoc-02-1-quan-ly-dang-ky.md">Xem chi tiết</a></td></tr><tr><td align="center" valign="middle">2.2</td><td>Truyền thông kỳ thi</td><td>Song song với bước 2.1</td><td><a href="buoc-02-2-truyen-thong.md">Xem chi tiết</a></td></tr><tr><td align="center" valign="middle">3</td><td>Sắp xếp lịch thi chi tiết</td><td>Trước 5–7 ngày</td><td><a href="buoc-03-sap-xep-lich-thi.md">Xem chi tiết</a></td></tr><tr><td align="center" valign="middle">4</td><td>Tiếp nhận đề thi</td><td>Trước 2–3 tuần</td><td><a href="buoc-04-tiep-nhan-de-thi.md">Xem chi tiết</a></td></tr><tr><td align="center" valign="middle">5</td><td>Phân công nhân sự &#x26; chuẩn bị cơ sở vật chất</td><td>Trước 1 tuần</td><td><a href="buoc-05-phan-cong-va-csvc.md">Xem chi tiết</a></td></tr><tr><td align="center" valign="middle">6</td><td>Chuẩn bị đề thi</td><td>Trước 1 ngày</td><td><a href="buoc-06-chuan-bi-de-thi.md">Xem chi tiết</a></td></tr><tr><td align="center" valign="middle">7</td><td>Tổ chức kỳ thi</td><td>Trong suốt kỳ thi</td><td><a href="buoc-07-to-chuc-ky-thi.md">Xem chi tiết</a></td></tr><tr><td align="center" valign="middle">8</td><td>Đối soát đề thi và bài thi</td><td>Sau mỗi buổi thi</td><td><a href="buoc-08-doi-soat.md">Xem chi tiết</a></td></tr><tr><td align="center" valign="middle">9</td><td>Đóng gói &#x26; bàn giao bài thi</td><td>Sau ngày thi cuối</td><td><a href="buoc-09-dong-goi-ban-giao.md">Xem chi tiết</a></td></tr><tr><td align="center" valign="middle">10</td><td>Công bố kết quả</td><td>Sau kỳ thi 4–6 tuần</td><td><a href="buoc-10-cong-bo-ket-qua.md">Xem chi tiết</a></td></tr><tr><td align="center" valign="middle">11</td><td>Cấp phát chứng chỉ</td><td>Khoảng 2 tuần sau khi có kết quả</td><td><a href="buoc-11-cap-phat-chung-chi.md">Xem chi tiết</a></td></tr><tr><td align="center" valign="middle">12</td><td>Lưu trữ, tổng kết &#x26; cải tiến</td><td>Sau kỳ thi 2–4 tuần</td><td><a href="buoc-12-luu-tru-tong-ket.md">Xem chi tiết</a></td></tr></tbody></table>
+<table><thead><tr><th width="84.3125" align="center" valign="middle">Bước</th><th width="408.833251953125">Hoạt động</th><th width="324.385498046875">Thời điểm</th><th>Ghi chú</th></tr></thead><tbody><tr><td align="center" valign="middle">1</td><td>Lập kế hoạch &#x26; đăng ký kỳ thi</td><td>Trước 1,5–2 tháng</td><td><a href="buoc-01-lap-ke-hoach-dang-ky.md">Xem chi tiết</a></td></tr><tr><td align="center" valign="middle">2.1</td><td>Quản lý đăng ký kỳ thi</td><td>Trước 1,5–2 tháng</td><td><a href="buoc-02-1-quan-ly-dang-ky.md">Xem chi tiết</a></td></tr><tr><td align="center" valign="middle">2.2</td><td>Truyền thông kỳ thi</td><td>Song song với bước 2.1</td><td><a href="buoc-02-2-truyen-thong.md">Xem chi tiết</a></td></tr><tr><td align="center" valign="middle">3</td><td>Sắp xếp lịch thi chi tiết</td><td>Trước 5–7 ngày</td><td><a href="buoc-03-sap-xep-lich-thi.md">Xem chi tiết</a></td></tr><tr><td align="center" valign="middle">4</td><td>Tiếp nhận đề thi</td><td>Trước 2–3 tuần</td><td><a href="buoc-04-tiep-nhan-de-thi.md">Xem chi tiết</a></td></tr><tr><td align="center" valign="middle">5</td><td>Phân công nhân sự &#x26; chuẩn bị cơ sở vật chất</td><td>Trước 1 tuần</td><td><a href="buoc-05-phan-cong-va-csvc.md">Xem chi tiết</a></td></tr><tr><td align="center" valign="middle">6</td><td>Chuẩn bị đề thi</td><td>Trước 1 ngày</td><td><a href="buoc-06-chuan-bi-de-thi.md">Xem chi tiết</a></td></tr><tr><td align="center" valign="middle">7</td><td>Tổ chức kỳ thi</td><td>Trong suốt kỳ thi</td><td><a href="buoc-07-to-chuc-ky-thi.md">Xem chi tiết</a></td></tr><tr><td align="center" valign="middle">8</td><td>Đối soát đề thi và bài thi</td><td>Sau mỗi buổi thi</td><td><a href="buoc-08-doi-soat.md">Xem chi tiết</a></td></tr><tr><td align="center" valign="middle">9</td><td>Đóng gói &#x26; bàn giao bài thi</td><td>Sau ngày thi cuối</td><td><a href="buoc-09-dong-goi-ban-giao.md">Xem chi tiết</a></td></tr><tr><td align="center" valign="middle">10</td><td>Công bố kết quả</td><td>Sau kỳ thi 4–6 tuần</td><td><a href="buoc-10-cong-bo-ket-qua.md">Xem chi tiết</a></td></tr><tr><td align="center" valign="middle">11</td><td>Cấp phát chứng chỉ</td><td>Khoảng 2 tuần sau khi có kết quả</td><td><a href="buoc-11-cap-phat-chung-chi.md">Xem chi tiết</a></td></tr><tr><td align="center" valign="middle">12</td><td>Lưu trữ, tổng kết &#x26; cải tiến</td><td>Sau kỳ thi 2–4 tuần</td><td><a href="buoc-12-luu-tru-tong-ket.md">Xem chi tiết</a></td></tr></tbody></table>
 
 ## Trình tự thực hiện
 
@@ -57,20 +75,3 @@ Tài liệu này giúp xác định bước tiếp theo trước khi tham khảo
 * Một số hoạt động có thể được triển khai song song theo kế hoạch của kỳ thi.
 * Thời gian thực hiện có thể được điều chỉnh tùy theo quy mô kỳ thi.
 {% endhint %}
-
-## Tài liệu liên quan
-
-{% content-ref url="bang-phan-cong.md" %}
-[bang-phan-cong.md](bang-phan-cong.md)
-{% endcontent-ref %}
-
-* Danh mục SOP _(chưa có tài liệu riêng)_
-* Danh mục Work Instruction _(chưa có tài liệu riêng)_
-
-## Lịch sử cập nhật
-
-| Phiên bản | Ngày       | Nội dung                                                                                                                                    |
-| --------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2.1       | 24/07/2026 | Cập nhật thiết kế: thêm hint, bảng 2 cột Phạm vi/Điều kiện, chuỗi icon Trình tự thực hiện. Đổi "RACI" thành "Bảng phân công" cho nhất quán. |
-| 2.0       | 24/07/2026 | Tách "Bảng phân công" thành file riêng. Biên soạn lại theo văn phong nội bộ PNE.                                                            |
-| 1.0       | 23/07/2026 | Khởi tạo tài liệu.                                                                                                                          |
