@@ -47,18 +47,18 @@ Exam Director
 
 ### 👥 Vai trò & Trách nhiệm
 
-| Vai trò | Trách nhiệm |
-| --- | --- |
+| Vai trò     | Trách nhiệm                                                 |
+| ----------- | ----------------------------------------------------------- |
 | Invigilator | Điều phối và giám sát toàn bộ hoạt động của phòng thi Viết. |
 
 ### 📋 Chuẩn bị
 
-- 📄 Đề thi theo từng kỹ năng.
-- 📄 Attendance List.
-- 📄 Protokoll.
-- 📄 Phiếu trả lời và giấy nháp.
-- 🎧 File nghe và thiết bị phát âm thanh.
-- 🏫 Phòng thi đã hoàn tất setup.
+* 📄 Đề thi theo từng kỹ năng.
+* 📄 Attendance List.
+* 📄 Protokoll.
+* 📄 Phiếu trả lời và giấy nháp.
+* 🎧 File nghe và thiết bị phát âm thanh.
+* 🏫 Phòng thi đã hoàn tất setup.
 
 ***
 
@@ -67,24 +67,24 @@ Exam Director
 {% hint style="danger" %}
 ### Đề thi
 
-- Chỉ mở đề theo đúng thời điểm quy định.
-- Chỉ phát đúng đề cho đúng phòng thi.
-- Không giải thích nội dung đề thi cho thí sinh.
+* Chỉ mở đề theo đúng thời điểm quy định.
+* Chỉ phát đúng đề cho đúng phòng thi.
+* Không giải thích nội dung đề thi cho thí sinh.
 {% endhint %}
 
 {% hint style="danger" %}
 ### Điều hành phòng thi
 
-- Chỉ sử dụng tiếng Đức trong suốt buổi thi.
-- Giám sát liên tục trong thời gian làm bài.
-- Ghi nhận và báo cáo các tình huống phát sinh theo quy định.
+* Chỉ sử dụng tiếng Đức trong suốt buổi thi.
+* Giám sát liên tục trong thời gian làm bài.
+* Ghi nhận và báo cáo các tình huống phát sinh theo quy định.
 {% endhint %}
 
 {% hint style="danger" %}
 ### Kết thúc buổi thi
 
-- Thu đầy đủ bài thi và tài liệu liên quan trước khi thí sinh rời phòng.
-- Kiểm đếm và hoàn tất hồ sơ trước khi bàn giao.
+* Thu đầy đủ bài thi và tài liệu liên quan trước khi thí sinh rời phòng.
+* Kiểm đếm và hoàn tất hồ sơ trước khi bàn giao.
 {% endhint %}
 
 ***
@@ -92,7 +92,6 @@ Exam Director
 ## 📖 Hướng dẫn thực hiện
 
 {% stepper %}
-
 {% step %}
 ### Chuẩn bị phòng thi
 
@@ -122,7 +121,6 @@ Theo dõi toàn bộ quá trình làm bài và xử lý các tình huống phát
 
 Thu bài, kiểm đếm hồ sơ và bàn giao cho quy trình thu bài & đối soát.
 {% endstep %}
-
 {% endstepper %}
 
 ***
@@ -132,11 +130,11 @@ Thu bài, kiểm đếm hồ sơ và bàn giao cho quy trình thu bài & đối 
 {% hint style="info" %}
 ### Checklist hoàn thành
 
-- [ ] Phòng thi đã sẵn sàng.
-- [ ] Thí sinh đã vào đúng vị trí.
-- [ ] Đã phổ biến quy định và phát đề.
-- [ ] Buổi thi diễn ra đúng quy chế.
-- [ ] Đã thu và kiểm đếm đầy đủ bài thi.
+* [ ] Phòng thi đã sẵn sàng.
+* [ ] Thí sinh đã vào đúng vị trí.
+* [ ] Đã phổ biến quy định và phát đề.
+* [ ] Buổi thi diễn ra đúng quy chế.
+* [ ] Đã thu và kiểm đếm đầy đủ bài thi.
 {% endhint %}
 {% endcolumn %}
 
@@ -144,8 +142,8 @@ Thu bài, kiểm đếm hồ sơ và bàn giao cho quy trình thu bài & đối 
 {% hint style="success" %}
 ### Hoàn thành khi
 
-- Toàn bộ bài thi và hồ sơ của phòng thi đã được kiểm đếm.
-- Hoàn tất bàn giao cho quy trình **07-04. Thu bài & bàn giao**.
+* Toàn bộ bài thi và hồ sơ của phòng thi đã được kiểm đếm.
+* Hoàn tất bàn giao cho quy trình **07-04. Thu bài & bàn giao**.
 {% endhint %}
 {% endcolumn %}
 {% endcolumns %}
@@ -153,14 +151,14 @@ Thu bài, kiểm đếm hồ sơ và bàn giao cho quy trình thu bài & đối 
 {% hint style="warning" %}
 ### Lưu ý
 
-- Quy trình này chỉ mô tả luồng vận hành của phòng thi Viết.
-- Hướng dẫn thao tác chi tiết được trình bày trong **Role Guide – Invigilator**.
+* Quy trình này chỉ mô tả luồng vận hành của phòng thi Viết.
+* Hướng dẫn thao tác chi tiết được trình bày trong **Role Guide – Invigilator**.
 {% endhint %}
 
 ***
 
 ## 📎 Tài liệu liên quan
 
-{% content-ref url="04-thu-bai-ban-giao.md" %}
-[04-thu-bai-ban-giao.md](04-thu-bai-ban-giao.md)
+{% content-ref url="07-04-quy-trinh-thu-bai-va-ban-giao.md" %}
+[07-04-quy-trinh-thu-bai-va-ban-giao.md](07-04-quy-trinh-thu-bai-va-ban-giao.md)
 {% endcontent-ref %}
