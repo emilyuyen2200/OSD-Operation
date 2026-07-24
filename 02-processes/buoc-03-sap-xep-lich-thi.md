@@ -25,15 +25,21 @@ Lập lịch thi chi tiết cho từng kỹ năng, phân công nhân sự và ph
 
 {% columns %}
 {% column %}
-📅 **Thời điểm** Trước ngày thi 5–7 ngày
+📅 **Thời điểm**&#x20;
+
+Trước ngày thi 5–7 ngày
 {% endcolumn %}
 
 {% column %}
-👤 **Phụ trách** [Exam Coordinator](../03-roles/exam-coordinator.md)
+👤 **Phụ trách**&#x20;
+
+[Exam Coordinator](../03-roles/exam-coordinator.md)
 {% endcolumn %}
 
 {% column %}
-✅ **Phê duyệt** [Exam Director](../03-roles/exam-director.md)
+✅ **Phê duyệt**&#x20;
+
+[Exam Director](../03-roles/exam-director.md)
 {% endcolumn %}
 {% endcolumns %}
 
@@ -41,13 +47,11 @@ Lập lịch thi chi tiết cho từng kỹ năng, phân công nhân sự và ph
 
 ### 👥 Vai trò & Trách nhiệm
 
-| Vai trò | Trách nhiệm |
-| --- | --- |
-| [Exam Coordinator](../03-roles/exam-coordinator.md) | Lập lịch thi, phân công nhân sự và phát hành lịch thi. |
-| [Exam Operations Officer](../03-roles/exam-operations-officer.md) | Kiểm tra lịch thi, cập nhật theo yêu cầu chỉnh sửa và trình phê duyệt. |
-| [Exam Director](../03-roles/exam-director.md) | Phê duyệt lịch thi cuối cùng. |
+<table><thead><tr><th width="266.5">Vai trò</th><th>Trách nhiệm</th></tr></thead><tbody><tr><td><a href="../03-roles/exam-coordinator.md">Exam Coordinator</a></td><td>Lập lịch thi, phân công nhân sự và phát hành lịch thi.</td></tr><tr><td><a href="../03-roles/exam-operations-officer.md">Exam Operations Officer</a></td><td>Kiểm tra lịch thi, cập nhật theo yêu cầu chỉnh sửa và trình phê duyệt.</td></tr><tr><td><a href="../03-roles/exam-director.md">Exam Director</a></td><td>Phê duyệt lịch thi cuối cùng.</td></tr></tbody></table>
 
-### 📋 Chuẩn bị
+{% hint style="info" %}
+### Chuẩn bị
+{% endhint %}
 
 **Dữ liệu**
 
@@ -64,16 +68,15 @@ Lập lịch thi chi tiết cho từng kỹ năng, phân công nhân sự và ph
 
 ***
 
-## Quy tắc sắp xếp
-
+{% hint style="warning" %}
 ### Lịch thi
 
-{% hint style="warning" %}
 * Hoàn thành lịch thi **Written** trước khi bắt đầu sắp xếp lịch **Speaking**.
 * Ưu tiên bố trí thí sinh thi Written trước, sau đó mới đến Speaking.
 * Đối với trình độ **B2**, hai module Written và Speaking không được tổ chức trong cùng một ngày.
 {% endhint %}
 
+{% hint style="warning" %}
 ### Các kỹ năng/Module Viết
 
 * Phân lịch theo từng trình độ.
@@ -81,26 +84,31 @@ Lập lịch thi chi tiết cho từng kỹ năng, phân công nhân sự và ph
 * Không quy định số lượng tối thiểu.
 * Không sử dụng phòng dự phòng.
 * Không bố trí các thí sinh có **cùng họ** ngồi gần nhau trong cùng phòng thi.
+{% endhint %}
 
+{% hint style="warning" %}
 ### Kỹ năng/Module Nói
 
 * A1 thi cá nhân.
 * A2, B1 và B2 thi theo cặp.
 * Ưu tiên ghép 01 nam và 01 nữ trong cùng một cặp để thuận tiện cho việc nhận diện khi chấm và đối chiếu bản ghi âm.
 * Có thể bổ sung thí sinh standby theo số lượng đăng ký với ÖSD.
+{% endhint %}
 
 ### Phòng thi
 
-| Phòng | Chức năng |
-| --- | --- |
-| 11 | Viết |
-| 12 | Viết |
-| 14 | Nói |
-| 15 | Phòng chuẩn bị |
+| Phòng | Chức năng      |
+| ----- | -------------- |
+| 11    | Viết           |
+| 12    | Viết           |
+| 14    | Nói            |
+| 15    | Phòng chuẩn bị |
 
 ***
 
+{% hint style="info" %}
 ## Hướng dẫn thực hiện
+{% endhint %}
 
 ### 1. Xuất danh sách thí sinh
 
@@ -127,11 +135,11 @@ Lập lịch thi chi tiết cho từng kỹ năng, phân công nhân sự và ph
 **Thời lượng**
 
 | Trình độ | Thời gian chuẩn bị | Thời gian thi |
-| --- | ---: | ---: |
-| A1 | 10 phút | 10 phút |
-| A2 | 10 phút | 15 phút |
-| B1 | 15 phút | 20 phút |
-| B2 | 15 phút | 25 phút |
+| -------- | -----------------: | ------------: |
+| A1       |            10 phút |       10 phút |
+| A2       |            10 phút |       15 phút |
+| B1       |            15 phút |       20 phút |
+| B2       |            15 phút |       25 phút |
 
 **Giám khảo**
 
@@ -181,11 +189,7 @@ Trước khi trình phê duyệt, xác nhận:
 
 ### 6. Trình phê duyệt
 
-| Vai trò | Trách nhiệm |
-| --- | --- |
-| [Exam Operations Officer](../03-roles/exam-operations-officer.md) | Kiểm tra lần cuối. |
-| [Exam Director](../03-roles/exam-director.md) | Phê duyệt lịch thi. |
-| [Exam Operations Officer](../03-roles/exam-operations-officer.md) | Cập nhật lịch thi theo yêu cầu chỉnh sửa (nếu có). |
+<table><thead><tr><th width="268.28515625">Vai trò</th><th>Trách nhiệm</th></tr></thead><tbody><tr><td><a href="../03-roles/exam-operations-officer.md">Exam Operations Officer</a></td><td>Kiểm tra lần cuối.</td></tr><tr><td><a href="../03-roles/exam-director.md">Exam Director</a></td><td>Phê duyệt lịch thi.</td></tr><tr><td><a href="../03-roles/exam-operations-officer.md">Exam Operations Officer</a></td><td>Cập nhật lịch thi theo yêu cầu chỉnh sửa (nếu có).</td></tr></tbody></table>
 
 ### 7. Phát hành lịch thi
 
@@ -258,13 +262,13 @@ Sau khi upload thành công, hệ thống sẽ tự động tạo giấy báo d�
 {% columns %}
 {% column %}
 {% content-ref url="buoc-02-quan-ly-va-truyen-thong.md" %}
-[Bước trước: Quản lý đăng ký & Truyền thông kỳ thi](buoc-02-quan-ly-va-truyen-thong.md)
+[buoc-02-quan-ly-va-truyen-thong.md](buoc-02-quan-ly-va-truyen-thong.md)
 {% endcontent-ref %}
 {% endcolumn %}
 
 {% column %}
 {% content-ref url="buoc-04-tiep-nhan-de-thi.md" %}
-[Bước tiếp theo: Tiếp nhận đề thi](buoc-04-tiep-nhan-de-thi.md)
+[buoc-04-tiep-nhan-de-thi.md](buoc-04-tiep-nhan-de-thi.md)
 {% endcontent-ref %}
 {% endcolumn %}
 {% endcolumns %}
