@@ -119,7 +119,7 @@ Theo dõi toàn bộ quá trình làm bài và xử lý các tình huống phát
 {% step %}
 ### Kết thúc buổi thi
 
-Thu bài, kiểm đếm hồ sơ và bàn giao cho quy trình thu bài & đối soát.
+Kiểm tra, hoàn trả thiết bị. Điền đầy đủ thông tin trên Protokol để đưa lại Exam Coordinator
 {% endstep %}
 {% endstepper %}
 
