@@ -86,109 +86,34 @@ Exam Director
 
 ## 📖 Hướng dẫn thực hiện
 
-{% stepper %}
-{% step %}
-### Đón tiếp thí sinh
+## 📖 Quy trình
 
-Hướng dẫn thí sinh đến khu vực tiếp nhận và chuẩn bị thực hiện các thủ tục trước khi vào khu vực thi.
+<details>
+<summary>① Đón tiếp thí sinh</summary>
 
-**Role Guide**
+Đón tiếp và hướng dẫn thí sinh đến khu vực Check-in.
 
-[Welcome Officer](../03-roles/welcome-officer.md)
+**Phụ trách:** Welcome Officer
 
-{% hint style="info" %}
-**Đầu ra**
+</details>
 
-Thí sinh được hướng dẫn đến đúng khu vực Check-in.
-{% endhint %}
-{% endstep %}
+<details>
+<summary>② Xác nhận thông tin</summary>
 
-{% step %}
-### Xác nhận thông tin
+Xác nhận thông tin dự thi.
 
-Xác nhận thông tin dự thi và hoàn tất thủ tục Check-in.
+**Phụ trách:** Check-in Officer
 
-**Role Guide**
+</details>
 
-[Check-in Officer](../03-roles/check-in-officer.md)
+<details>
+<summary>③ Gửi đồ cá nhân</summary>
 
-{% hint style="info" %}
-**Đầu ra**
+Hướng dẫn gửi đồ.
 
-Thông tin dự thi của thí sinh đã được xác nhận.
-{% endhint %}
-{% endstep %}
+**Phụ trách:** Locker Officer
 
-{% step %}
-### Gửi đồ cá nhân
-
-Hướng dẫn thí sinh gửi các vật dụng không được phép mang vào phòng thi.
-
-**Role Guide**
-
-[Locker Officer](../03-roles/locker-officer.md)
-
-{% hint style="info" %}
-**Đầu ra**
-
-Thí sinh chỉ mang theo các vật dụng được phép vào khu vực thi.
-{% endhint %}
-{% endstep %}
-
-{% step %}
-### Kiểm tra an ninh
-
-Kiểm tra an ninh trước khi thí sinh vào khu vực chờ.
-
-**Role Guide**
-
-[Security Officer](../03-roles/security-officer.md)
-
-{% hint style="info" %}
-**Đầu ra**
-
-Thí sinh hoàn tất kiểm tra an ninh và đủ điều kiện vào khu vực chờ.
-{% endhint %}
-{% endstep %}
-
-{% step %}
-### Điều phối vào khu vực chờ
-
-Điều phối thí sinh đến khu vực chờ theo lịch thi.
-
-**Role Guide**
-
-[Room Coordinator](../03-roles/room-coordinator.md)
-
-{% hint style="info" %}
-**Đầu ra**
-
-Thí sinh được điều phối đến đúng khu vực chờ.
-{% endhint %}
-{% endstep %}
-
-{% step %}
-### Điều phối vào phòng thi
-
-Giám thị gọi tên và hướng dẫn thí sinh vào đúng phòng thi.
-
-**Role Guide**
-
-[Invigilator](../03-roles/invigilator.md)
-
-{% hint style="info" %}
-**Đầu ra**
-
-Toàn bộ thí sinh đã vào đúng phòng thi theo lịch.
-{% endhint %}
-{% endstep %}
-{% endstepper %}
-
-***
-
-{% columns %}
-{% column %}
-{% hint style="info" %}
+</details>
 ### Checklist hoàn thành
 
 * [ ] Đã đón tiếp thí sinh.
