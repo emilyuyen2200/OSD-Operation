@@ -21,25 +21,19 @@ Trước ngày thi 1,5–2 tháng
 
 ---
 
-{% columns %}
-{% column %}
 ### 👥 Vai trò & Trách nhiệm
 
 | Vai trò | Trách nhiệm |
 | --- | --- |
 | [Exam Director](../03-roles/exam-director.md) | Phê duyệt kế hoạch kỳ thi. |
 | [Exam Coordinator](../03-roles/exam-coordinator.md) | Lập kế hoạch và đăng ký kỳ thi với ÖSD. |
-{% endcolumn %}
 
-{% column %}
 ### 📋 Chuẩn bị
 
 - 📄 Kế hoạch tổ chức kỳ thi.
 - 👥 Nhu cầu mở kỳ thi.
 - 📅 Lịch tổ chức dự kiến.
 - 📃 Thông tin đăng ký theo yêu cầu của ÖSD.
-{% endcolumn %}
-{% endcolumns %}
 
 ---
 
