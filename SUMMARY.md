@@ -1,4 +1,4 @@
-# Table of contents
+# Danh mục
 
 * [Trang chủ](README.md)
 
@@ -37,10 +37,17 @@
 * [Bước 11 — Cấp phát chứng chỉ](02-processes/buoc-11-cap-phat-chung-chi.md)
 * [Bước 12 — Lưu trữ, tổng kết & cải tiến](02-processes/buoc-12-luu-tru-tong-ket.md)
 
-
 ## Mẫu biểu & Checklist
 
 * [Danh mục mẫu biểu](04-templates-checklists/danh-muc-mau-bieu.md)
+* [Sơ đồ phòng thi](04-templates-checklists/so-do-phong-thi.md)
+* [Giấy nháp thi](04-templates-checklists/giay-nhap-thi.md)
+* [Kế hoạch kỳ thi](04-templates-checklists/ke-hoach-ky-thi.md)
+* [Tờ phân loại đề thi](04-templates-checklists/to-phan-loai-de-thi.md)
+* [Danh sách check-in](04-templates-checklists/danh-sach-check-in.md)
+* [Danh sách giữ đồ](04-templates-checklists/danh-sach-giu-do.md)
+* [Danh sách thi các kỹ năng](04-templates-checklists/danh-sach-thi-cac-ky-nang.md)
+* [Protokol](04-templates-checklists/protokol.md)
 * [Checklist Phân công Nhân sự](04-templates-checklists/checklist-phan-cong-nhan-su.md)
 * [Checklist Hồ sơ & Biểu mẫu Phòng thi](04-templates-checklists/checklist-ho-so-bieu-mau-phong-thi.md)
 * [Checklist Thiết bị](04-templates-checklists/checklist-thiet-bi.md)
