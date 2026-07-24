@@ -1,31 +1,33 @@
-# BƯỚC 02 · Quản lý đăng ký & Truyền thông kỳ thi
+# Bước 2 — Quản lý đăng ký và truyền thông cho kỳ thi
 
 Bước này gồm hai hoạt động được triển khai **song song** ngay sau khi kế hoạch kỳ thi được phê duyệt:
 
-- **2A. Quản lý đăng ký kỳ thi** — Exam Coordinator phụ trách.
-- **2B. Truyền thông kỳ thi** — Phòng Marketing phụ trách.
+* **2A. Quản lý đăng ký kỳ thi** — Exam Coordinator phụ trách.
+* **2B. Truyền thông kỳ thi** — Phòng Marketing phụ trách.
 
 {% columns %}
 {% column %}
-📅 **Thời điểm**
-Bắt đầu ngay sau khi hoàn thành [Bước 1. Lập kế hoạch kỳ thi](./buoc-01-lap-ke-hoach-dang-ky.md) và kết thúc khi đóng đăng ký.
+📅 **Thời điểm**&#x20;
+
+Bắt đầu ngay sau khi hoàn thành [Bước 1. Lập kế hoạch kỳ thi](buoc-01-lap-ke-hoach-dang-ky.md) và kết thúc khi đóng đăng ký.
 {% endcolumn %}
 
 {% column %}
-👤 **Phụ trách**
-2A: [Exam Coordinator](../03-roles/exam-coordinator.md)
+👤 **Phụ trách**&#x20;
+
+2A: [Exam Coordinator](../03-roles/exam-coordinator.md)&#x20;
+
 2B: [Phòng Marketing](../03-roles/marketing.md)
 {% endcolumn %}
 
 {% column %}
-✅ **Phê duyệt**
+✅ **Phê duyệt**&#x20;
+
 [Exam Director](../03-roles/exam-director.md)
 {% endcolumn %}
 {% endcolumns %}
 
----
-
-## Hai hoạt động triển khai song song
+***
 
 {% columns %}
 {% column %}
@@ -33,15 +35,15 @@ Bắt đầu ngay sau khi hoàn thành [Bước 1. Lập kế hoạch kỳ thi](
 
 **Vai trò**
 
-| Vai trò | Trách nhiệm |
-| --- | --- |
+| Vai trò                                             | Trách nhiệm                                                                             |
+| --------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | [Exam Coordinator](../03-roles/exam-coordinator.md) | Quản lý đăng ký, xử lý hồ sơ, đối soát thanh toán và lập danh sách thí sinh chính thức. |
 
 **Chuẩn bị**
 
-- Kế hoạch kỳ thi đã được phê duyệt.
-- Thông tin kỳ thi đã sẵn sàng để mở đăng ký.
-- Cổng đăng ký hoạt động bình thường.
+* Kế hoạch kỳ thi đã được phê duyệt.
+* Thông tin kỳ thi đã sẵn sàng để mở đăng ký.
+* Cổng đăng ký hoạt động bình thường.
 
 **Hướng dẫn thực hiện**
 
@@ -51,9 +53,9 @@ Bắt đầu ngay sau khi hoàn thành [Bước 1. Lập kế hoạch kỳ thi](
 4. **Đối soát thanh toán** — Kiểm tra trạng thái thanh toán, đối chiếu với thông tin đăng ký.
 5. **Xác nhận đăng ký** — Xác nhận thành công sau khi hồ sơ hợp lệ và thanh toán hoàn tất.
 6. **Báo cáo tiến độ đăng ký** cho Exam Director:
-   - Trước kỳ thi hơn 1 tháng: báo cáo 2 tuần/lần.
-   - Trước kỳ thi 1 tháng: báo cáo số lượng đăng ký với ÖSD.
-   - Trước kỳ thi dưới 1 tháng: cập nhật 3–5 ngày/lần, hoặc hằng ngày khi cần.
+   * Trước kỳ thi hơn 1 tháng: báo cáo 2 tuần/lần.
+   * Trước kỳ thi 1 tháng: báo cáo số lượng đăng ký với ÖSD.
+   * Trước kỳ thi dưới 1 tháng: cập nhật 3–5 ngày/lần, hoặc hằng ngày khi cần.
 7. **Báo cáo lịch thi** — Báo cáo dự kiến phân bổ phòng thi và thời gian thi cho Exam Director.
 8. **Đóng đăng ký** — Đóng cổng đăng ký theo kế hoạch.
 9. **Lập danh sách thí sinh chính thức** — Tổng hợp và hoàn thiện danh sách thí sinh đủ điều kiện.
@@ -61,14 +63,14 @@ Bắt đầu ngay sau khi hoàn thành [Bước 1. Lập kế hoạch kỳ thi](
 {% hint style="info" %}
 **Checklist hoàn thành**
 
-- [ ] Cổng đăng ký đã được mở.
-- [ ] Tất cả hồ sơ đã được kiểm tra.
-- [ ] Hồ sơ thiếu hoặc sai đã được xử lý.
-- [ ] Thanh toán đã được đối soát.
-- [ ] Thí sinh đủ điều kiện đã được xác nhận.
-- [ ] Báo cáo tiến độ đã gửi Exam Director.
-- [ ] Đăng ký đã được đóng.
-- [ ] Danh sách thí sinh chính thức đã hoàn thành.
+* [ ] Cổng đăng ký đã được mở.
+* [ ] Tất cả hồ sơ đã được kiểm tra.
+* [ ] Hồ sơ thiếu hoặc sai đã được xử lý.
+* [ ] Thanh toán đã được đối soát.
+* [ ] Thí sinh đủ điều kiện đã được xác nhận.
+* [ ] Báo cáo tiến độ đã gửi Exam Director.
+* [ ] Đăng ký đã được đóng.
+* [ ] Danh sách thí sinh chính thức đã hoàn thành.
 {% endhint %}
 
 {% hint style="success" %}
@@ -85,15 +87,19 @@ Bắt đầu ngay sau khi hoàn thành [Bước 1. Lập kế hoạch kỳ thi](
 
 **Vai trò**
 
-| Vai trò | Trách nhiệm |
-| --- | --- |
+| Vai trò                                     | Trách nhiệm                                           |
+| ------------------------------------------- | ----------------------------------------------------- |
 | [Phòng Marketing](../03-roles/marketing.md) | Triển khai truyền thông và theo dõi hiệu quả đăng ký. |
+
+
 
 **Chuẩn bị**
 
-- Kế hoạch kỳ thi đã được phê duyệt.
-- Thông tin kỳ thi đã được xác nhận.
-- Nội dung truyền thông đã sẵn sàng.
+* Kế hoạch kỳ thi đã được phê duyệt.
+* Thông tin kỳ thi đã được xác nhận.
+* Nội dung truyền thông đã sẵn sàng.
+
+
 
 **Hướng dẫn thực hiện**
 
@@ -105,10 +111,10 @@ Bắt đầu ngay sau khi hoàn thành [Bước 1. Lập kế hoạch kỳ thi](
 {% hint style="info" %}
 **Checklist hoàn thành**
 
-- [ ] Thông tin kỳ thi đã được cập nhật.
-- [ ] Cổng đăng ký và thanh toán đã hoạt động.
-- [ ] Chiến dịch truyền thông đã triển khai.
-- [ ] Số lượng đăng ký được theo dõi và cập nhật.
+* [ ] Thông tin kỳ thi đã được cập nhật.
+* [ ] Cổng đăng ký và thanh toán đã hoạt động.
+* [ ] Chiến dịch truyền thông đã triển khai.
+* [ ] Số lượng đăng ký được theo dõi và cập nhật.
 {% endhint %}
 
 {% hint style="success" %}
@@ -121,26 +127,26 @@ Bắt đầu ngay sau khi hoàn thành [Bước 1. Lập kế hoạch kỳ thi](
 {% endcolumn %}
 {% endcolumns %}
 
----
+***
 
 ## Tài liệu liên quan
 
 {% columns %}
 {% column %}
-{% content-ref url="./buoc-01-lap-ke-hoach-dang-ky.md" %}
-[Bước trước: Lập kế hoạch kỳ thi](./buoc-01-lap-ke-hoach-dang-ky.md)
+{% content-ref url="buoc-01-lap-ke-hoach-dang-ky.md" %}
+[buoc-01-lap-ke-hoach-dang-ky.md](buoc-01-lap-ke-hoach-dang-ky.md)
 {% endcontent-ref %}
 {% endcolumn %}
 
 {% column %}
-{% content-ref url="./buoc-03-sap-xep-lich-thi.md" %}
-[Bước tiếp theo: Sắp xếp lịch thi chi tiết](./buoc-03-sap-xep-lich-thi.md)
+{% content-ref url="buoc-03-sap-xep-lich-thi.md" %}
+[buoc-03-sap-xep-lich-thi.md](buoc-03-sap-xep-lich-thi.md)
 {% endcontent-ref %}
 {% endcolumn %}
 
 {% column %}
-{% content-ref url="./bang-phan-cong.md" %}
-[Ma trận phân công trách nhiệm (RACI Matrix)](./bang-phan-cong.md)
+{% content-ref url="bang-phan-cong.md" %}
+[bang-phan-cong.md](bang-phan-cong.md)
 {% endcontent-ref %}
 {% endcolumn %}
 {% endcolumns %}
