@@ -2,7 +2,7 @@
 description: Nhận đề, hướng dẫn thí sinh, phát đề, giám sát phòng thi, thu bài và kiểm đếm cho phòng thi Written.
 ---
 
-# 07-02. Quy trình phòng thi Written
+# 07-02. Quy trình phòng thi Nói
 
 {% hint style="warning" %}
 Trang này mới có khung tóm tắt — cần Giám thị/Exam Coordinator bổ sung nội dung chi tiết từng bước trước khi áp dụng chính thức.
