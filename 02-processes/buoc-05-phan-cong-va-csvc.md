@@ -34,7 +34,7 @@ Từ 5 ngày trước kỳ thi
 {% column %}
 #### 👤 **Phụ trách**&#x20;
 
-[Exam Operations Officer](../03-roles/exam-operations-officer.md)
+[Exam Operations Teams](../vai-tro-and-phan-quyen/exam-operations-team/)
 
 [Exam Coordinator](../03-roles/exam-coordinator.md)
 {% endcolumn %}
@@ -50,13 +50,13 @@ Từ 5 ngày trước kỳ thi
 
 ### 👥 Vai trò & Trách nhiệm
 
-| Vai trò                                                           | Trách nhiệm                                  |
-| ----------------------------------------------------------------- | -------------------------------------------- |
-| [Exam Operations Officer](../03-roles/exam-operations-officer.md) | Quyết định phương án, lập kế hoạch chuẩn bị. |
-| [Exam Coordinator](../03-roles/exam-coordinator.md)               | Điều phối thực hiện.                         |
-| [Bộ phận Kỹ thuật](../03-roles/ho-tro-ky-thuat.md)                | Chuẩn bị thiết bị, phần mềm.                 |
-| Các bộ phận liên quan                                             | Thực hiện theo phân công.                    |
-| [Exam Director](../03-roles/exam-director.md)                     | Phê duyệt kế hoạch cuối cùng.                |
+| Vai trò                                                                            | Trách nhiệm                                  |
+| ---------------------------------------------------------------------------------- | -------------------------------------------- |
+| [Exam Operations Officer](/broken/pages/CxKI1Ow9nmr8134TC1vh)                      | Quyết định phương án, lập kế hoạch chuẩn bị. |
+| [Exam Coordinator](../03-roles/exam-coordinator.md)                                | Điều phối thực hiện.                         |
+| [Technical Team](../vai-tro-and-phan-quyen/exam-operations-team/technical-team.md) | Chuẩn bị thiết bị, phần mềm.                 |
+| Các bộ phận liên quan                                                              | Thực hiện theo phân công.                    |
+| [Exam Director](../03-roles/exam-director.md)                                      | Phê duyệt kế hoạch cuối cùng.                |
 
 ***
 
