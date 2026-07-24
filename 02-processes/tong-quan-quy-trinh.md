@@ -11,9 +11,6 @@ last_updated: 2026-07-24
 # Tổng quan quy trình tổ chức kỳ thi
 
 Tài liệu này mô tả toàn bộ quy trình tổ chức một kỳ thi ÖSD tại Phuong Nam Education, từ giai đoạn lập kế hoạch đến lưu trữ và cải tiến sau kỳ thi.
-
-
-![Quy trình Tổ chức kỳ thi ÖSD](../.gitbook/assets/Quy%20Trinh%20To%20Chuc%20Ky%20Thi%20OSD-selection.png)
  
 
 ## 12 bước trong quy trình
