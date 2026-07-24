@@ -16,7 +16,7 @@ Tài liệu này mô tả toàn bộ quy trình tổ chức một kỳ thi ÖSD 
 
 
 
-<figure><img src="../.gitbook/assets/Trình tự tổ chức thi-selection.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/recolored-workflow.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" icon="1" %}
 ### Chuẩn bị kỳ thi
