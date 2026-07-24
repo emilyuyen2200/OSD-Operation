@@ -67,9 +67,9 @@ Exam Director
 {% hint style="danger" %}
 ### Đề thi
 
-- Chỉ phát đề khi bắt đầu thời gian chuẩn bị.
-- Thí sinh không được xem đề trước khi có hiệu lệnh.
-- Không giải thích nội dung đề thi.
+- Chỉ phát đề theo đúng thời điểm quy định.
+- Đối chiếu và phát đúng mã đề cho từng cặp thí sinh.
+- Không giải thích, diễn giải hoặc gợi ý nội dung đề thi.
 {% endhint %}
 
 {% hint style="danger" %}
