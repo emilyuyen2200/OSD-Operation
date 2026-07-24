@@ -1,4 +1,8 @@
 ---
+description: >-
+  Tiếp nhận và điều phối thí sinh từ khi đến điểm thi đến khi vào đúng phòng
+  thi, đảm bảo quy trình diễn ra thống nhất, đúng thời gian và đúng quy chế của
+  ÖSD.
 layout:
   width: wide
   title:
@@ -20,8 +24,6 @@ layout:
 ---
 
 # 07-01. Quy trình tiếp nhận thí sinh
-
-Tiếp nhận và điều phối thí sinh từ khi đến điểm thi đến khi vào đúng phòng thi, đảm bảo quy trình diễn ra thống nhất, đúng thời gian và đúng quy chế của ÖSD.
 
 {% columns %}
 {% column %}
@@ -49,24 +51,24 @@ Exam Director
 
 ### 👥 Vai trò & Trách nhiệm
 
-| Vai trò | Trách nhiệm |
-| --- | --- |
+| Vai trò          | Trách nhiệm                                     |
+| ---------------- | ----------------------------------------------- |
 | Exam Coordinator | Điều phối toàn bộ quy trình tiếp nhận thí sinh. |
-| Welcome Officer | Đón tiếp và hướng dẫn thí sinh. |
-| Check-in Officer | Xác nhận thông tin dự thi. |
-| Locker Officer | Hướng dẫn gửi đồ cá nhân. |
-| Security Officer | Kiểm tra an ninh trước khi vào khu vực thi. |
-| Room Coordinator | Điều phối thí sinh tại khu vực chờ. |
-| Invigilator | Gọi tên và hướng dẫn thí sinh vào phòng thi. |
+| Welcome Officer  | Đón tiếp và hướng dẫn thí sinh.                 |
+| Check-in Officer | Xác nhận thông tin dự thi.                      |
+| Locker Officer   | Hướng dẫn gửi đồ cá nhân.                       |
+| Security Officer | Kiểm tra an ninh trước khi vào khu vực thi.     |
+| Room Coordinator | Điều phối thí sinh tại khu vực chờ.             |
+| Invigilator      | Gọi tên và hướng dẫn thí sinh vào phòng thi.    |
 
 ### 📋 Chuẩn bị
 
-- 📄 Danh sách thí sinh.
-- 📄 Lịch thi.
-- 📄 Danh sách phân phòng.
-- 📄 Danh sách phân công nhân sự.
-- 🏫 Khu vực tiếp nhận đã sẵn sàng.
-- 🚪 Phòng thi đã sẵn sàng đón thí sinh.
+* 📄 Danh sách thí sinh.
+* 📄 Lịch thi.
+* 📄 Danh sách phân phòng.
+* 📄 Danh sách phân công nhân sự.
+* 🏫 Khu vực tiếp nhận đã sẵn sàng.
+* 🚪 Phòng thi đã sẵn sàng đón thí sinh.
 
 ***
 
@@ -75,16 +77,16 @@ Exam Director
 {% hint style="danger" %}
 ### Điều phối thí sinh
 
-- Thí sinh thực hiện đầy đủ các bước của quy trình tiếp nhận.
-- Chỉ chuyển sang bước tiếp theo khi đã hoàn thành bước hiện tại.
-- Điều phối số lượng thí sinh phù hợp với sức chứa của từng khu vực.
+* Thí sinh thực hiện đầy đủ các bước của quy trình tiếp nhận.
+* Chỉ chuyển sang bước tiếp theo khi đã hoàn thành bước hiện tại.
+* Điều phối số lượng thí sinh phù hợp với sức chứa của từng khu vực.
 {% endhint %}
 
 {% hint style="danger" %}
 ### Xử lý tình huống
 
-- Mọi trường hợp phát sinh được xử lý theo quy định hiện hành.
-- Các trường hợp vượt thẩm quyền phải báo ngay cho Exam Coordinator.
+* Mọi trường hợp phát sinh được xử lý theo quy định hiện hành.
+* Các trường hợp vượt thẩm quyền phải báo ngay cho Exam Coordinator.
 {% endhint %}
 
 ***
@@ -158,12 +160,12 @@ Giám thị gọi tên và hướng dẫn thí sinh vào đúng phòng thi theo 
 {% hint style="info" %}
 ### Checklist hoàn thành
 
-- [ ] Đã đón tiếp toàn bộ thí sinh.
-- [ ] Đã hoàn tất Check-in.
-- [ ] Đã hướng dẫn gửi đồ cá nhân.
-- [ ] Đã hoàn tất kiểm tra an ninh.
-- [ ] Đã điều phối thí sinh vào khu vực chờ.
-- [ ] Đã điều phối toàn bộ thí sinh vào đúng phòng thi.
+* [ ] Đã đón tiếp toàn bộ thí sinh.
+* [ ] Đã hoàn tất Check-in.
+* [ ] Đã hướng dẫn gửi đồ cá nhân.
+* [ ] Đã hoàn tất kiểm tra an ninh.
+* [ ] Đã điều phối thí sinh vào khu vực chờ.
+* [ ] Đã điều phối toàn bộ thí sinh vào đúng phòng thi.
 {% endhint %}
 {% endcolumn %}
 
@@ -171,9 +173,9 @@ Giám thị gọi tên và hướng dẫn thí sinh vào đúng phòng thi theo 
 {% hint style="success" %}
 ### Hoàn thành khi
 
-- Toàn bộ thí sinh đã vào đúng phòng thi.
-- Không còn thí sinh tại khu vực tiếp nhận hoặc khu vực chờ.
-- Sẵn sàng triển khai quy trình phòng thi.
+* Toàn bộ thí sinh đã vào đúng phòng thi.
+* Không còn thí sinh tại khu vực tiếp nhận hoặc khu vực chờ.
+* Sẵn sàng triển khai quy trình phòng thi.
 {% endhint %}
 {% endcolumn %}
 {% endcolumns %}
@@ -181,9 +183,9 @@ Giám thị gọi tên và hướng dẫn thí sinh vào đúng phòng thi theo 
 {% hint style="warning" %}
 ### Lưu ý
 
-- Quy trình này mô tả luồng tiếp nhận thí sinh.
-- Hướng dẫn chi tiết của từng vị trí được trình bày trong **Role Guide** tương ứng.
-- Các tình huống phát sinh được xử lý theo quy định của Hội đồng thi.
+* Quy trình này mô tả luồng tiếp nhận thí sinh.
+* Hướng dẫn chi tiết của từng vị trí được trình bày trong **Role Guide** tương ứng.
+* Các tình huống phát sinh được xử lý theo quy định của Hội đồng thi.
 {% endhint %}
 
 ***
@@ -192,21 +194,22 @@ Giám thị gọi tên và hướng dẫn thí sinh vào đúng phòng thi theo 
 
 {% columns %}
 {% column %}
-{% content-ref url="02-phong-thi-viet.md" %}
-[02-phong-thi-viet.md](02-phong-thi-viet.md)
+{% content-ref url="../../quy-trinh-to-chuc-thi-osd/buoc-07-to-chuc-ky-thi/07-02.-quy-trinh-phong-thi-written.md" %}
+[07-02.-quy-trinh-phong-thi-written.md](../../quy-trinh-to-chuc-thi-osd/buoc-07-to-chuc-ky-thi/07-02.-quy-trinh-phong-thi-written.md)
 {% endcontent-ref %}
 
-{% content-ref url="03-phong-thi-noi.md" %}
-[03-phong-thi-noi.md](03-phong-thi-noi.md)
+{% content-ref url="../../quy-trinh-to-chuc-thi-osd/buoc-07-to-chuc-ky-thi/07-03.-quy-trinh-phong-thi-speaking.md" %}
+[07-03.-quy-trinh-phong-thi-speaking.md](../../quy-trinh-to-chuc-thi-osd/buoc-07-to-chuc-ky-thi/07-03.-quy-trinh-phong-thi-speaking.md)
 {% endcontent-ref %}
 {% endcolumn %}
 
 {% column %}
-- Welcome Officer
-- Check-in Officer
-- Locker Officer
-- Security Officer
-- Room Coordinator
-- Invigilator
+* Welcome Officer
+* Check-in Officer
+* Locker Officer
+* Security Officer
+* Room Coordinator
+* Invigilator
 {% endcolumn %}
 {% endcolumns %}
+
