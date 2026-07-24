@@ -7,15 +7,23 @@ Bước này gồm hai hoạt động được triển khai **song song** ngay s
 
 {% columns %}
 {% column %}
-📅 **Thời điểm** Bắt đầu ngay sau khi hoàn thành [Bước 1. Lập kế hoạch kỳ thi](buoc-01-lap-ke-hoach-dang-ky.md) và kết thúc khi đóng đăng ký.
+### 📅 **Thời điểm**&#x20;
+
+Bắt đầu ngay sau khi hoàn thành [Bước 1. Lập kế hoạch kỳ thi](buoc-01-lap-ke-hoach-dang-ky.md) và kết thúc khi đóng đăng ký.
 {% endcolumn %}
 
-{% column %}
-👤 **Phụ trách** 2A: [Exam Coordinator](../03-roles/exam-coordinator.md) 2B: [Phòng Marketing](../03-roles/marketing.md)
+{% column width="33.33333333333333%" %}
+### 👤 **Phụ trách**&#x20;
+
+2A: [Exam Coordinator](../03-roles/exam-coordinator.md)&#x20;
+
+2B: [Phòng Marketing](../03-roles/marketing.md)
 {% endcolumn %}
 
-{% column %}
-✅ **Phê duyệt** [Exam Director](../03-roles/exam-director.md)
+{% column width="33.33333333333333%" %}
+### ✅ **Phê duyệt**&#x20;
+
+[Exam Director](../03-roles/exam-director.md)
 {% endcolumn %}
 {% endcolumns %}
 
