@@ -56,6 +56,15 @@ Trong suốt thời gian diễn ra kỳ thi
 | [Giám khảo](../../03-roles/giam-khao.md) | Tổ chức và đánh giá phần thi Speaking. |
 | Điều phối phòng thi *(chức năng vận hành, do Exam Operations Team đảm nhiệm)* | Điều phối thí sinh và hỗ trợ vận hành tại từng khu vực. |
 
+### 👤 Vai trò vận hành ngày thi (thuộc Exam Operations Team)
+
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody>
+<tr><td><h4>Welcome Officer</h4></td><td>Đón tiếp thí sinh tại khu vực cổng/chờ</td><td><a href="roles/welcome-officer.md">roles/welcome-officer.md</a></td></tr>
+<tr><td><h4>Check-in Officer</h4></td><td>Kiểm tra giấy tờ, điểm danh thí sinh</td><td><a href="roles/check-in-officer.md">roles/check-in-officer.md</a></td></tr>
+<tr><td><h4>Security Officer</h4></td><td>Đảm bảo an ninh khu vực thi</td><td><a href="roles/security-officer.md">roles/security-officer.md</a></td></tr>
+<tr><td><h4>Room Coordinator</h4></td><td>Điều phối hoạt động tại từng phòng thi</td><td><a href="roles/room-coordinator.md">roles/room-coordinator.md</a></td></tr>
+</tbody></table>
+
 ### 📋 Chuẩn bị
 
 {% columns %}
@@ -90,14 +99,14 @@ Trong suốt thời gian diễn ra kỳ thi
 
 * Tuân thủ đúng quy chế thi của ÖSD.
 * Chỉ sử dụng đúng đề thi đã được phân cho từng phòng.
-* Mọi sự cố phải được báo ngay cho Exam Coordinator và Exam Director.
+* Mọi sự cố phải được báo ngay cho Exam Coordinator.
 {% endhint %}
 
 **Check-in**
 
 * Chỉ thí sinh có giấy tờ hợp lệ mới được tham gia kỳ thi.
 * Mỗi thí sinh chỉ được check-in một lần.
-* Chỉ hướng dẫn thí sinh vào khu vực chờ sau khi hoàn tất kiểm tra hồ sơ và kiểm tra an ninh.
+* Chỉ hướng dẫn thí sinh vào khu vực chờ sau khi hoàn tất kiểm tra.
 
 **Written**
 
@@ -122,7 +131,7 @@ Trong suốt thời gian diễn ra kỳ thi
 ## 📖 Bốn quy trình vận hành trong ngày thi
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody>
-<tr><td><h3>🪪</h3></td><td><h4><strong>07-01. Quy trình Check-in</strong></h4></td><td>Tiếp nhận và hướng dẫn thí sinh trước giờ thi</td><td><a href="07-01-quy-trinh-check-in.md">07-01-quy-trinh-check-in.md</a></td></tr>
+<tr><td><h3>🪪</h3></td><td><h4><strong>07-01. Quy trình tiếp nhận thí sinh</strong></h4></td><td>Tiếp nhận và hướng dẫn thí sinh trước giờ thi</td><td><a href="07-01-quy-trinh-tiep-nhan-thi-sinh.md">07-01-quy-trinh-tiep-nhan-thi-sinh.md</a></td></tr>
 <tr><td><h3>✍️</h3></td><td><h4><strong>07-02. Phòng thi Written</strong></h4></td><td>Nhận đề, phát đề, giám sát, thu bài, kiểm đếm</td><td><a href="07-02-quy-trinh-phong-thi-written.md">07-02-quy-trinh-phong-thi-written.md</a></td></tr>
 <tr><td><h3>🎙️</h3></td><td><h4><strong>07-03. Phòng thi Speaking</strong></h4></td><td>Điều phối theo slot, ghi âm, lưu USB</td><td><a href="07-03-quy-trinh-phong-thi-speaking.md">07-03-quy-trinh-phong-thi-speaking.md</a></td></tr>
 <tr><td><h3>📦</h3></td><td><h4><strong>07-04. Thu bài & Bàn giao</strong></h4></td><td>Kiểm đếm, đối chiếu, hoàn thành Protokol, bàn giao</td><td><a href="07-04-quy-trinh-thu-bai-va-ban-giao.md">07-04-quy-trinh-thu-bai-va-ban-giao.md</a></td></tr>
@@ -173,8 +182,8 @@ Trong suốt thời gian diễn ra kỳ thi
 
 {% columns %}
 {% column %}
-{% content-ref url="07-01-quy-trinh-check-in.md" %}
-[07-01. Quy trình Check-in](07-01-quy-trinh-check-in.md)
+{% content-ref url="07-01-quy-trinh-tiep-nhan-thi-sinh.md" %}
+[07-01. Quy trình tiếp nhận thí sinh](07-01-quy-trinh-tiep-nhan-thi-sinh.md)
 {% endcontent-ref %}
 {% endcolumn %}
 
