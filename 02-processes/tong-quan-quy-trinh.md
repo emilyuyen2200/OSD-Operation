@@ -24,7 +24,7 @@ Tài liệu này mô tả toàn bộ quy trình tổ chức một kỳ thi ÖSD 
 {% endstep %}
 
 {% step %}
-### [**2. Quản lý đăng ký & Truyền thông kỳ thi (song song)**](./buoc-02-quan-ly-va-truyen-thong.md)
+### [**2. Quản lý đăng ký & Truyền thông kỳ thi **](./buoc-02-quan-ly-va-truyen-thong.md)
 
 **Thời gian:** Trước 1,5–2 tháng
 **Phụ trách:** [Exam Coordinator](../03-roles/exam-coordinator.md) (2a) / [Marketing Team](../03-roles/marketing.md) (2b)
