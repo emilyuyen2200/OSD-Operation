@@ -88,41 +88,41 @@ Gợi ý thứ tự đọc dành cho người dùng mới.
 {% columns %}
 {% column %}
 {% content-ref url="../02-processes/tong-quan-quy-trinh.md" %}
-[tong-quan-quy-trinh.md](../02-processes/tong-quan-quy-trinh.md)
+[Tổng quan quy trình](../02-processes/tong-quan-quy-trinh.md)
+{% endcontent-ref %}
+
+{% content-ref url="../vai-tro-and-phan-quyen/00-tong-quan.md" %}
+[Vai trò & Trách nhiệm (RACI)](../vai-tro-and-phan-quyen/00-tong-quan.md)
 {% endcontent-ref %}
 
 {% content-ref url="../02-processes/buoc-01-lap-ke-hoach-dang-ky.md" %}
-[buoc-01-lap-ke-hoach-dang-ky.md](../02-processes/buoc-01-lap-ke-hoach-dang-ky.md)
+[Quy trình (SOP)](../02-processes/buoc-01-lap-ke-hoach-dang-ky.md)
 {% endcontent-ref %}
 
-{% content-ref url="../vai-tro-and-phan-quyen/00-tong-quan.md" %}
-[00-tong-quan.md](../vai-tro-and-phan-quyen/00-tong-quan.md)
-{% endcontent-ref %}
-
-{% content-ref url="../vai-tro-and-phan-quyen/00-tong-quan.md" %}
-[00-tong-quan.md](../vai-tro-and-phan-quyen/00-tong-quan.md)
+{% content-ref url="../02-processes/buoc-01-lap-ke-hoach-dang-ky.md" %}
+[Hướng dẫn công việc (WI)](../02-processes/buoc-01-lap-ke-hoach-dang-ky.md)
 {% endcontent-ref %}
 {% endcolumn %}
 
 {% column %}
 {% content-ref url="../04-templates-checklists/danh-muc-mau-bieu.md" %}
-[danh-muc-mau-bieu.md](../04-templates-checklists/danh-muc-mau-bieu.md)
+[Biểu mẫu](../04-templates-checklists/danh-muc-mau-bieu.md)
 {% endcontent-ref %}
 
 {% content-ref url="../04-templates-checklists/danh-muc-mau-bieu.md" %}
-[danh-muc-mau-bieu.md](../04-templates-checklists/danh-muc-mau-bieu.md)
+[Checklist](../04-templates-checklists/danh-muc-mau-bieu.md)
 {% endcontent-ref %}
 
 {% content-ref url="../05-risk-management/risk-register.md" %}
-[risk-register.md](../05-risk-management/risk-register.md)
+[Quản lý rủi ro](../05-risk-management/risk-register.md)
 {% endcontent-ref %}
 
 {% content-ref url="../06-glossary/thuat-ngu.md" %}
-[thuat-ngu.md](../06-glossary/thuat-ngu.md)
+[Thuật ngữ & Viết tắt](../06-glossary/thuat-ngu.md)
 {% endcontent-ref %}
 {% endcolumn %}
 {% endcolumns %}
 
 {% hint style="info" %}
-**Need help?** Liên hệ Exam Coordinator nếu bạn cần hỗ trợ.
+Need help? Liên hệ Exam Coordinator nếu bạn cần hỗ trợ.
 {% endhint %}
