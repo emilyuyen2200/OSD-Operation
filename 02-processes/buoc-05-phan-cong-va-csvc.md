@@ -1,42 +1,96 @@
+---
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: false
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Bước 5 — Phân công nhân sự & Chuẩn bị cơ sở vật chất
 
-## Dùng để làm gì
+Đảm bảo toàn bộ nhân sự, hồ sơ, thiết bị và phòng thi đã sẵn sàng trước ngày tổ chức kỳ thi.
 
-Đảm bảo phòng thi, thiết bị và nhân sự hỗ trợ sẵn sàng trước ngày thi.
+{% columns %}
+{% column %}
+📅 **Thời điểm** Từ 5 ngày trước kỳ thi
+{% endcolumn %}
 
-## Khi nào cần dùng
+{% column %}
+👤 **Phụ trách** Quyết định & kế hoạch: [Exam Operations Officer](../03-roles/exam-operations-officer.md) · Điều phối: [Exam Coordinator](../03-roles/exam-coordinator.md)
+{% endcolumn %}
 
-Trước kỳ thi 1 tuần.
+{% column %}
+✅ **Phê duyệt** [Exam Director](../03-roles/exam-director.md)
+{% endcolumn %}
+{% endcolumns %}
 
-## Ai chịu trách nhiệm
+***
 
-**Quyết định & lập kế hoạch:** [Exam Operations Officer](../03-roles/exam-operations-officer.md). **Thực hiện:** [Exam Coordinator](../03-roles/exam-coordinator.md). Hỗ trợ: [Bộ phận Kỹ thuật](../03-roles/ho-tro-ky-thuat.md).
+### 👥 Vai trò & Trách nhiệm
 
-## Cách thực hiện
+| Vai trò | Trách nhiệm |
+| --- | --- |
+| [Exam Operations Officer](../03-roles/exam-operations-officer.md) | Quyết định phương án, lập kế hoạch chuẩn bị. |
+| [Exam Coordinator](../03-roles/exam-coordinator.md) | Điều phối thực hiện. |
+| [Bộ phận Kỹ thuật](../03-roles/ho-tro-ky-thuat.md) | Chuẩn bị thiết bị, phần mềm. |
+| Các bộ phận liên quan | Thực hiện theo phân công. |
+| [Exam Director](../03-roles/exam-director.md) | Phê duyệt kế hoạch cuối cùng. |
 
-- Họp phân công và thông báo nhân sự hỗ trợ kỳ thi.
-- Tạo sơ đồ phòng thi.
-- Sắp xếp giám thị và báo cáo Exam Director.
-- Chuẩn bị và in tài liệu: sơ đồ phòng, giấy nháp, kế hoạch kỳ thi, tờ phân loại đề thi, danh sách check-in, danh sách giữ đồ, danh sách thi các kỹ năng, Protokol.
-- Chuẩn bị vật dụng kỳ thi (văn phòng phẩm...).
-- Kiểm tra và bố trí phòng thi (máy tính, bàn ghế, điện, mạng) — trước 2 ngày.
-- Kiểm tra thiết bị chính thức và thiết bị dự phòng (sạc pin...).
-- Cài đặt và cấu hình phần mềm thi.
-- Chạy thử nghiệm hệ thống.
+***
 
-## Kết quả cần đạt
+## 📋 Các hạng mục cần chuẩn bị
 
-Phòng thi, thiết bị và nhân sự đã sẵn sàng cho ngày thi.
+| Hạng mục | Nội dung | Checklist liên quan |
+| --- | --- | --- |
+| 1. Nhân sự | Phân công nhiệm vụ · Xác nhận lịch làm việc · Thông báo nhân sự | Checklist Phân công Nhân sự *(cần soạn)* |
+| 2. Hồ sơ, biểu mẫu | In ấn · Biểu mẫu · Hồ sơ phòng thi | Checklist Hồ sơ & Biểu mẫu Phòng thi *(cần soạn)* |
+| 3. Thiết bị | Laptop · Tai nghe · Internet · iPad | Checklist Thiết bị *(cần soạn)* |
+| 4. Phòng thi | Setup · Layout · Biển chỉ dẫn | Checklist Setup Phòng thi *(cần soạn)* |
+| 5. Kỹ thuật | Phần mềm · Recording · Login | Checklist Phần mềm & Hệ thống *(cần soạn)* |
 
-## Ngoại lệ
+{% hint style="warning" %}
+5 checklist trên hiện **chưa có nội dung chi tiết** — mới chỉ liệt kê tên trong [Danh mục mẫu biểu](../04-templates-checklists/danh-muc-mau-bieu.md). Cần đội vận hành bổ sung nội dung form thật trước khi áp dụng chính thức.
+{% endhint %}
 
-Nếu phát hiện sự cố về điện, mạng, hoặc phần mềm trong lúc chuẩn bị, xem [Danh mục rủi ro & phương án xử lý](../05-risk-management/risk-register.md).
+{% hint style="success" %}
+### Hoàn thành khi
 
-## Tài liệu liên quan
+Hoàn thành toàn bộ 5 checklist trên trước khi chuyển sang [Bước 6 — Chuẩn bị đề thi](./buoc-06-chuan-bi-de-thi.md).
+{% endhint %}
 
-- [Danh mục mẫu biểu](../04-templates-checklists/danh-muc-mau-bieu.md)
-- [Bước tiếp theo: Chuẩn bị đề thi](./buoc-06-chuan-bi-de-thi.md)
+***
 
-## Lịch sử thay đổi
+## 📎 Tài liệu liên quan
 
-- 2026-07-24: Biên soạn lại theo văn phong nội bộ PNE.
+{% columns %}
+{% column %}
+{% content-ref url="buoc-04-tiep-nhan-de-thi.md" %}
+[Bước trước: Tiếp nhận đề thi](buoc-04-tiep-nhan-de-thi.md)
+{% endcontent-ref %}
+{% endcolumn %}
+
+{% column %}
+{% content-ref url="buoc-06-chuan-bi-de-thi.md" %}
+[Bước tiếp theo: Chuẩn bị đề thi](buoc-06-chuan-bi-de-thi.md)
+{% endcontent-ref %}
+{% endcolumn %}
+
+{% column %}
+{% content-ref url="../04-templates-checklists/danh-muc-mau-bieu.md" %}
+[Danh mục mẫu biểu & Checklist](../04-templates-checklists/danh-muc-mau-bieu.md)
+{% endcontent-ref %}
+{% endcolumn %}
+{% endcolumns %}
