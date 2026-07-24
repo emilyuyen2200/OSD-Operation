@@ -22,7 +22,7 @@ layout:
     visible: true
 ---
 
-# Bước 7 — Tổ chức kỳ thi
+# Bước 7 — Tổ chức Kỳ thi
 
 {% columns %}
 {% column %}
@@ -44,11 +44,11 @@ Trong suốt thời gian diễn ra kỳ thi
 
 ### 👥 Vai trò & Trách nhiệm
 
-| Vai trò | Trách nhiệm |
-| --- | --- |
-| [Exam Coordinator](../../03-roles/exam-coordinator.md) | Điều phối toàn bộ hoạt động trong ngày thi. |
-| [Exam Operations Officer](../../03-roles/exam-operations-officer.md) | Giám sát vận hành và hỗ trợ xử lý các tình huống phát sinh. |
-| Các vị trí vận hành | Thực hiện công việc theo Role Guide và SOP tương ứng — xem mục [Role Guide](#role-guide) bên dưới. |
+| Vai trò                                                              | Trách nhiệm                                                                                          |
+| -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| [Exam Coordinator](../../03-roles/exam-coordinator.md)               | Điều phối toàn bộ hoạt động trong ngày thi.                                                          |
+| [Exam Operations Officer](../../03-roles/exam-operations-officer.md) | Giám sát vận hành và hỗ trợ xử lý các tình huống phát sinh.                                          |
+| Các vị trí vận hành                                                  | Thực hiện công việc theo Role Guide và SOP tương ứng — xem mục [Role Guide](./#role-guide) bên dưới. |
 
 ### 📋 Chuẩn bị
 
@@ -101,12 +101,7 @@ flowchart TD
     class A,B,C,D,E,F step
 ```
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody>
-<tr><td><h3>🪪</h3></td><td><h4><strong>07-01. Tiếp nhận thí sinh</strong></h4></td><td>Welcome · Check-in · Gửi đồ · An ninh · Khu vực chờ · Vào phòng thi</td><td><a href="07-01-quy-trinh-tiep-nhan-thi-sinh.md">07-01-quy-trinh-tiep-nhan-thi-sinh.md</a></td></tr>
-<tr><td><h3>✍️</h3></td><td><h4><strong>07-02. Phòng thi Viết</strong></h4></td><td>Điều phối và tổ chức phòng thi Viết theo đúng quy chế</td><td><a href="07-02-quy-trinh-phong-thi-Viet.md">07-02-quy-trinh-phong-thi-Viet.md</a></td></tr>
-<tr><td><h3>🎙️</h3></td><td><h4><strong>07-03. Phòng thi Nói</strong></h4></td><td>Điều phối và tổ chức phòng thi Nói theo từng ca thi</td><td><a href="07-03-quy-trinh-phong-thi-Noi.md">07-03-quy-trinh-phong-thi-Noi.md</a></td></tr>
-<tr><td><h3>📦</h3></td><td><h4><strong>07-04. Thu bài & Bàn giao</strong></h4></td><td>Thu bài, kiểm đếm, đối soát và bàn giao hồ sơ sau mỗi buổi thi</td><td><a href="07-04-quy-trinh-thu-bai-va-ban-giao.md">07-04-quy-trinh-thu-bai-va-ban-giao.md</a></td></tr>
-</tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h3>🪪</h3></td><td><h4><strong>07-01. Tiếp nhận thí sinh</strong></h4></td><td>Welcome · Check-in · Gửi đồ · An ninh · Khu vực chờ · Vào phòng thi</td><td><a href="07-01-quy-trinh-tiep-nhan-thi-sinh.md">07-01-quy-trinh-tiep-nhan-thi-sinh.md</a></td></tr><tr><td><h3>✍️</h3></td><td><h4><strong>07-02. Phòng thi Viết</strong></h4></td><td>Điều phối và tổ chức phòng thi Viết theo đúng quy chế</td><td><a href="07-02-quy-trinh-phong-thi-Viet.md">07-02-quy-trinh-phong-thi-Viet.md</a></td></tr><tr><td><h3>🎙️</h3></td><td><h4><strong>07-03. Phòng thi Nói</strong></h4></td><td>Điều phối và tổ chức phòng thi Nói theo từng ca thi</td><td><a href="07-03-quy-trinh-phong-thi-Noi.md">07-03-quy-trinh-phong-thi-Noi.md</a></td></tr><tr><td><h3>📦</h3></td><td><h4><strong>07-04. Thu bài &#x26; Bàn giao</strong></h4></td><td>Thu bài, kiểm đếm, đối soát và bàn giao hồ sơ sau mỗi buổi thi</td><td><a href="07-04-quy-trinh-thu-bai-va-ban-giao.md">07-04-quy-trinh-thu-bai-va-ban-giao.md</a></td></tr></tbody></table>
 
 ***
 
@@ -115,7 +110,7 @@ flowchart TD
 
 * Toàn bộ các buổi thi kết thúc theo đúng kế hoạch.
 * Bài thi và hồ sơ được bàn giao đầy đủ.
-* Sẵn sàng chuyển sang [Bước 8 — Đối soát bài thi & Đề thi](../buoc-08-doi-soat/README.md).
+* Sẵn sàng chuyển sang [Bước 8 — Đối soát bài thi & Đề thi](../buoc-08-doi-soat/).
 {% endhint %}
 
 ***
@@ -127,72 +122,63 @@ flowchart TD
 {% columns %}
 {% column %}
 {% content-ref url="07-01-quy-trinh-tiep-nhan-thi-sinh.md" %}
-[07-01. Quy trình tiếp nhận thí sinh](07-01-quy-trinh-tiep-nhan-thi-sinh.md)
+[07-01-quy-trinh-tiep-nhan-thi-sinh.md](07-01-quy-trinh-tiep-nhan-thi-sinh.md)
 {% endcontent-ref %}
 {% endcolumn %}
 
 {% column %}
-{% content-ref url="07-02-quy-trinh-phong-thi-written.md" %}
-[07-02. Quy trình phòng thi Viết](07-02-quy-trinh-phong-thi-Viet.md)
+{% content-ref url="../../quy-trinh-to-chuc-thi-osd/buoc-07-to-chuc-ky-thi/07-02.-quy-trinh-phong-thi-written.md" %}
+[07-02.-quy-trinh-phong-thi-written.md](../../quy-trinh-to-chuc-thi-osd/buoc-07-to-chuc-ky-thi/07-02.-quy-trinh-phong-thi-written.md)
 {% endcontent-ref %}
 {% endcolumn %}
 
 {% column %}
-{% content-ref url="07-03-quy-trinh-phong-thi-speaking.md" %}
-[07-03. Quy trình phòng thi Nói](07-03-quy-trinh-phong-thi-Noi.md)
+{% content-ref url="../../quy-trinh-to-chuc-thi-osd/buoc-07-to-chuc-ky-thi/07-03.-quy-trinh-phong-thi-speaking.md" %}
+[07-03.-quy-trinh-phong-thi-speaking.md](../../quy-trinh-to-chuc-thi-osd/buoc-07-to-chuc-ky-thi/07-03.-quy-trinh-phong-thi-speaking.md)
 {% endcontent-ref %}
 {% endcolumn %}
 
 {% column %}
 {% content-ref url="07-04-quy-trinh-thu-bai-va-ban-giao.md" %}
-[07-04. Quy trình thu bài & bàn giao](07-04-quy-trinh-thu-bai-va-ban-giao.md)
+[07-04-quy-trinh-thu-bai-va-ban-giao.md](07-04-quy-trinh-thu-bai-va-ban-giao.md)
 {% endcontent-ref %}
 {% endcolumn %}
 {% endcolumns %}
 
 **Role Guide**
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody>
-<tr><td><h4>Welcome Officer</h4></td><td><a href="../../03-roles/welcome-officer.md">../../03-roles/welcome-officer.md</a></td></tr>
-<tr><td><h4>Check-in Officer</h4></td><td><a href="../../03-roles/check-in-officer.md">../../03-roles/check-in-officer.md</a></td></tr>
-<tr><td><h4>Locker Officer</h4></td><td><a href="../../03-roles/locker-officer.md">../../03-roles/locker-officer.md</a></td></tr>
-<tr><td><h4>Security Officer</h4></td><td><a href="../../03-roles/security-officer.md">../../03-roles/security-officer.md</a></td></tr>
-<tr><td><h4>Giám thị</h4></td><td><a href="../../03-roles/giam-thi.md">../../03-roles/giam-thi.md</a></td></tr>
-<tr><td><h4>Giám khảo</h4></td><td><a href="../../03-roles/giam-khao.md">../../03-roles/giam-khao.md</a></td></tr>
-<tr><td><h4>Room Coordinator</h4></td><td><a href="../../03-roles/room-coordinator.md">../../03-roles/room-coordinator.md</a></td></tr>
-<tr><td><h4>Exam Coordinator</h4></td><td><a href="../../03-roles/exam-coordinator.md">../../03-roles/exam-coordinator.md</a></td></tr>
-</tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4>Welcome Officer</h4></td><td><a href="../../03-roles/welcome-officer.md">welcome-officer.md</a></td></tr><tr><td><h4>Check-in Officer</h4></td><td><a href="../../03-roles/check-in-officer.md">check-in-officer.md</a></td></tr><tr><td><h4>Locker Officer</h4></td><td><a href="../../03-roles/locker-officer.md">locker-officer.md</a></td></tr><tr><td><h4>Security Officer</h4></td><td><a href="../../03-roles/security-officer.md">security-officer.md</a></td></tr><tr><td><h4>Giám thị</h4></td><td><a href="../../03-roles/giam-thi.md">giam-thi.md</a></td></tr><tr><td><h4>Giám khảo</h4></td><td><a href="../../03-roles/giam-khao.md">giam-khao.md</a></td></tr><tr><td><h4>Room Coordinator</h4></td><td><a href="../../03-roles/room-coordinator.md">room-coordinator.md</a></td></tr><tr><td><h4>Exam Coordinator</h4></td><td><a href="../../03-roles/exam-coordinator.md">exam-coordinator.md</a></td></tr></tbody></table>
 
 **Checklist**
 
 {% columns %}
 {% column %}
 {% content-ref url="../../04-templates-checklists/checklist-check-in.md" %}
-[Checklist Check-in](../../04-templates-checklists/checklist-check-in.md)
+[checklist-check-in.md](../../04-templates-checklists/checklist-check-in.md)
 {% endcontent-ref %}
 {% endcolumn %}
 
 {% column %}
 {% content-ref url="../../04-templates-checklists/checklist-phong-thi-Viet.md" %}
-[Checklist phòng thi Viết](../../04-templates-checklists/checklist-phong-thi-viet.md)
+[checklist-phong-thi-Viet.md](../../04-templates-checklists/checklist-phong-thi-Viet.md)
 {% endcontent-ref %}
 {% endcolumn %}
 
 {% column %}
 {% content-ref url="../../04-templates-checklists/checklist-phong-thi-Noi.md" %}
-[Checklist phòng thi Nói](../../04-templates-checklists/checklist-phong-thi-Noi.md)
+[checklist-phong-thi-Noi.md](../../04-templates-checklists/checklist-phong-thi-Noi.md)
 {% endcontent-ref %}
 {% endcolumn %}
 
 {% column %}
 {% content-ref url="../../04-templates-checklists/checklist-thu-bai-va-ban-giao.md" %}
-[Checklist Thu bài & Bàn giao](../../04-templates-checklists/checklist-thu-bai-va-ban-giao.md)
+[checklist-thu-bai-va-ban-giao.md](../../04-templates-checklists/checklist-thu-bai-va-ban-giao.md)
 {% endcontent-ref %}
 {% endcolumn %}
 {% endcolumns %}
 
 **Bước tiếp theo**
 
-{% content-ref url="../buoc-08-doi-soat/README.md" %}
-[Bước 8 — Đối soát bài thi & Đề thi](../buoc-08-doi-soat/README.md)
+{% content-ref url="../buoc-08-doi-soat/" %}
+[buoc-08-doi-soat](../buoc-08-doi-soat/)
 {% endcontent-ref %}

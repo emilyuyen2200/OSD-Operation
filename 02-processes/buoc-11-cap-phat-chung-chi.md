@@ -1,4 +1,3 @@
-
 # Bước 11 — Cấp phát chứng chỉ
 
 ## Dùng để làm gì
@@ -11,7 +10,7 @@ Khoảng 2 tuần sau khi có kết quả thi.
 
 ## Ai chịu trách nhiệm
 
-**Phụ trách chính:** [Exam Operations Officer](../03-roles/exam-operations-officer.md). Hỗ trợ: [Exam Coordinator](../03-roles/exam-coordinator.md).
+**Phụ trách chính:** [Exam Operations Officer](/broken/pages/CxKI1Ow9nmr8134TC1vh). Hỗ trợ: [Exam Coordinator](../03-roles/exam-coordinator.md).
 
 ## Cách thực hiện
 
@@ -32,8 +31,8 @@ Chưa có hướng dẫn xử lý ngoại lệ chính thức cho bước này.
 
 ## Tài liệu liên quan
 
-- [Bước tiếp theo: Lưu trữ, tổng kết & cải tiến](./buoc-12-luu-tru-tong-ket.md)
+* [Bước tiếp theo: Lưu trữ, tổng kết & cải tiến](buoc-12-luu-tru-tong-ket.md)
 
 ## Lịch sử thay đổi
 
-- 2026-07-24: Biên soạn lại theo văn phong nội bộ PNE. Sửa Kết quả cần đạt cho đúng với nội dung bước này (bản trước ghi trùng với Bước 10).
+* 2026-07-24: Biên soạn lại theo văn phong nội bộ PNE. Sửa Kết quả cần đạt cho đúng với nội dung bước này (bản trước ghi trùng với Bước 10).

@@ -34,7 +34,7 @@ Trước ngày thi 2–3 tuần
 {% column width="33.33333333333333%" %}
 #### 👤 **Phụ trách**&#x20;
 
-[Exam Operations Officer](../03-roles/exam-operations-officer.md) ·&#x20;
+[Exam Operations Officer](/broken/pages/CxKI1Ow9nmr8134TC1vh) ·&#x20;
 {% endcolumn %}
 
 {% column %}
@@ -48,10 +48,10 @@ Trước ngày thi 2–3 tuần
 
 ### 👥 Vai trò & Trách nhiệm
 
-| Vai trò                                                           | Trách nhiệm                                                                       |
-| ----------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| [Exam Operations Officer](../03-roles/exam-operations-officer.md) | Theo dõi, tiếp nhận và lưu trữ lô đề thi.                                         |
-| [Exam Director](../03-roles/exam-director.md)                     | Theo dõi tiến độ, phê duyệt việc mở niêm phong và xử lý các tình huống phát sinh. |
+| Vai trò                                                       | Trách nhiệm                                                                       |
+| ------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| [Exam Operations Officer](/broken/pages/CxKI1Ow9nmr8134TC1vh) | Theo dõi, tiếp nhận và lưu trữ lô đề thi.                                         |
+| [Exam Director](../03-roles/exam-director.md)                 | Theo dõi tiến độ, phê duyệt việc mở niêm phong và xử lý các tình huống phát sinh. |
 
 {% hint style="info" %}
 ### Chuẩn bị&#x20;
@@ -80,7 +80,7 @@ Trước ngày thi 2–3 tuần
 {% hint style="info" %}
 ### 🔐 Quy định bảo mật
 
-**Ai được tiếp cận** Chỉ [Exam Operations Officer](../03-roles/exam-operations-officer.md) và [Exam Director](../03-roles/exam-director.md).
+**Ai được tiếp cận** Chỉ [Exam Operations Officer](/broken/pages/CxKI1Ow9nmr8134TC1vh) và [Exam Director](../03-roles/exam-director.md).
 
 **Chìa khóa / Phòng lưu trữ** Đề thi lưu trong phòng kho, trang bị 02 két sắt. Chỉ 03 nhân sự Exam Operations Team được biết chìa khóa và mật khẩu.
 
