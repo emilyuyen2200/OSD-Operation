@@ -1,9 +1,9 @@
 ---
-title: Checklist phòng thi Written
-description: Checklist tổ chức phòng thi Written — Bước 7.
+title: Checklist phòng thi Viết
+description: Checklist tổ chức phòng thi Viết — Bước 7.
 ---
 
-# Checklist phòng thi Written
+# Checklist phòng thi Viết
 
 - [ ] Đã nhận đúng đề thi được phân cho phòng.
 - [ ] Đã hướng dẫn thí sinh vào phòng và ổn định chỗ ngồi.
@@ -15,6 +15,6 @@ description: Checklist tổ chức phòng thi Written — Bước 7.
 
 ## Tài liệu liên quan
 
-{% content-ref url="../02-processes/buoc-07-to-chuc-ky-thi/07-02-quy-trinh-phong-thi-written.md" %}
-[07-02. Quy trình phòng thi Written](../02-processes/buoc-07-to-chuc-ky-thi/07-02-quy-trinh-phong-thi-written.md)
+{% content-ref url="../02-processes/buoc-07-to-chuc-ky-thi/07-02-quy-trinh-phong-thi-Viet.md" %}
+[07-02. Quy trình phòng thi Viết](../02-processes/buoc-07-to-chuc-ky-thi/07-02-quy-trinh-phong-thi-Viet.md)
 {% endcontent-ref %}
