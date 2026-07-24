@@ -21,7 +21,7 @@ layout:
 
 # 07-01. Quy trình tiếp nhận thí sinh
 
-Tiếp nhận và điều phối thí sinh từ khi đến điểm thi đến khi vào đúng phòng thi, đảm bảo quy trình diễn ra thống nhất, đúng thời gian và đúng quy chế.
+Tiếp nhận và điều phối thí sinh từ khi đến điểm thi đến khi vào đúng phòng thi, đảm bảo quy trình diễn ra thống nhất, đúng thời gian và đúng quy chế của ÖSD.
 
 {% columns %}
 {% column %}
@@ -51,13 +51,13 @@ Exam Director
 
 | Vai trò | Trách nhiệm |
 | --- | --- |
-| [Exam Coordinator](../03-roles/exam-coordinator.md) | Điều phối toàn bộ quy trình tiếp nhận thí sinh. |
-| [Welcome Officer](../03-roles/welcome-officer.md) | Đón tiếp và hướng dẫn thí sinh tại điểm thi. |
-| [Check-in Officer](../03-roles/check-in-officer.md) | Xác nhận thông tin và hoàn tất thủ tục Check-in. |
-| [Locker Officer](../03-roles/locker-officer.md) | Hướng dẫn gửi đồ cá nhân. |
-| [Security Officer](../03-roles/security-officer.md) | Kiểm tra an ninh trước khi vào khu vực thi. |
-| [Room Coordinator](../03-roles/room-coordinator.md) | Điều phối thí sinh tại khu vực chờ. |
-| [Invigilator](../03-roles/invigilator.md) | Gọi thí sinh và hướng dẫn vào phòng thi. |
+| Exam Coordinator | Điều phối toàn bộ quy trình tiếp nhận thí sinh. |
+| Welcome Officer | Đón tiếp và hướng dẫn thí sinh. |
+| Check-in Officer | Xác nhận thông tin dự thi. |
+| Locker Officer | Hướng dẫn gửi đồ cá nhân. |
+| Security Officer | Kiểm tra an ninh trước khi vào khu vực thi. |
+| Room Coordinator | Điều phối thí sinh tại khu vực chờ. |
+| Invigilator | Gọi tên và hướng dẫn thí sinh vào phòng thi. |
 
 ### 📋 Chuẩn bị
 
@@ -75,8 +75,8 @@ Exam Director
 {% hint style="danger" %}
 ### Điều phối thí sinh
 
-- Thí sinh thực hiện theo đúng trình tự của quy trình tiếp nhận.
-- Chỉ chuyển sang bước tiếp theo khi đã hoàn thành bước hiện tại.
+- Thí sinh thực hiện đầy đủ các bước của quy trình tiếp nhận.
+- Chỉ chuyển sang khu vực tiếp theo khi đã hoàn thành bước hiện tại.
 - Điều phối số lượng thí sinh phù hợp với sức chứa của từng khu vực.
 {% endhint %}
 
@@ -95,17 +95,13 @@ Exam Director
 {% step %}
 ### Đón tiếp thí sinh
 
-Hướng dẫn thí sinh đến khu vực tiếp nhận và chuẩn bị thực hiện các thủ tục trước khi vào khu vực thi.
+Đón tiếp và hướng dẫn thí sinh đến khu vực Check-in.
 
-**Role Guide**
+👤 **Phụ trách:** Welcome Officer
 
-[Welcome Officer](../03-roles/welcome-officer.md)
-
-{% hint style="info" %}
-**Đầu ra**
-
-Thí sinh được hướng dẫn đến đúng khu vực Check-in.
-{% endhint %}
+> **Đầu ra**
+>
+> Thí sinh đến đúng khu vực Check-in và sẵn sàng thực hiện thủ tục dự thi.
 {% endstep %}
 
 {% step %}
@@ -113,15 +109,11 @@ Thí sinh được hướng dẫn đến đúng khu vực Check-in.
 
 Xác nhận thông tin dự thi và hoàn tất thủ tục Check-in.
 
-**Role Guide**
+👤 **Phụ trách:** Check-in Officer
 
-[Check-in Officer](../03-roles/check-in-officer.md)
-
-{% hint style="info" %}
-**Đầu ra**
-
-Thông tin dự thi của thí sinh đã được xác nhận.
-{% endhint %}
+> **Đầu ra**
+>
+> Thông tin dự thi của thí sinh đã được xác nhận.
 {% endstep %}
 
 {% step %}
@@ -129,15 +121,11 @@ Thông tin dự thi của thí sinh đã được xác nhận.
 
 Hướng dẫn thí sinh gửi các vật dụng không được phép mang vào phòng thi.
 
-**Role Guide**
+👤 **Phụ trách:** Locker Officer
 
-[Locker Officer](../03-roles/locker-officer.md)
-
-{% hint style="info" %}
-**Đầu ra**
-
-Thí sinh chỉ mang theo các vật dụng được phép vào khu vực thi.
-{% endhint %}
+> **Đầu ra**
+>
+> Thí sinh chỉ mang theo các vật dụng được phép vào khu vực thi.
 {% endstep %}
 
 {% step %}
@@ -145,47 +133,35 @@ Thí sinh chỉ mang theo các vật dụng được phép vào khu vực thi.
 
 Kiểm tra an ninh trước khi thí sinh vào khu vực chờ.
 
-**Role Guide**
+👤 **Phụ trách:** Security Officer
 
-[Security Officer](../03-roles/security-officer.md)
-
-{% hint style="info" %}
-**Đầu ra**
-
-Thí sinh hoàn tất kiểm tra an ninh và đủ điều kiện vào khu vực chờ.
-{% endhint %}
+> **Đầu ra**
+>
+> Thí sinh đủ điều kiện vào khu vực chờ.
 {% endstep %}
 
 {% step %}
 ### Điều phối vào khu vực chờ
 
-Điều phối thí sinh đến khu vực chờ theo lịch thi.
+Điều phối thí sinh theo lịch thi tại khu vực chờ.
 
-**Role Guide**
+👤 **Phụ trách:** Room Coordinator
 
-[Room Coordinator](../03-roles/room-coordinator.md)
-
-{% hint style="info" %}
-**Đầu ra**
-
-Thí sinh được điều phối đến đúng khu vực chờ.
-{% endhint %}
+> **Đầu ra**
+>
+> Thí sinh được điều phối đúng khu vực chờ và đúng thứ tự dự thi.
 {% endstep %}
 
 {% step %}
 ### Điều phối vào phòng thi
 
-Giám thị gọi tên và hướng dẫn thí sinh vào đúng phòng thi.
+Gọi tên và hướng dẫn thí sinh vào đúng phòng thi theo lịch.
 
-**Role Guide**
+👤 **Phụ trách:** Invigilator
 
-[Invigilator](../03-roles/invigilator.md)
-
-{% hint style="info" %}
-**Đầu ra**
-
-Toàn bộ thí sinh đã vào đúng phòng thi theo lịch.
-{% endhint %}
+> **Đầu ra**
+>
+> Toàn bộ thí sinh đã vào đúng phòng thi và sẵn sàng bắt đầu kỳ thi.
 {% endstep %}
 {% endstepper %}
 
@@ -196,12 +172,12 @@ Toàn bộ thí sinh đã vào đúng phòng thi theo lịch.
 {% hint style="info" %}
 ### Checklist hoàn thành
 
-- [ ] Đã đón tiếp thí sinh.
+- [ ] Đã đón tiếp toàn bộ thí sinh.
 - [ ] Đã hoàn tất Check-in.
 - [ ] Đã hướng dẫn gửi đồ cá nhân.
 - [ ] Đã hoàn tất kiểm tra an ninh.
 - [ ] Đã điều phối thí sinh vào khu vực chờ.
-- [ ] Đã điều phối thí sinh vào đúng phòng thi.
+- [ ] Đã điều phối toàn bộ thí sinh vào đúng phòng thi.
 {% endhint %}
 {% endcolumn %}
 
@@ -209,7 +185,7 @@ Toàn bộ thí sinh đã vào đúng phòng thi theo lịch.
 {% hint style="success" %}
 ### Hoàn thành khi
 
-- Toàn bộ thí sinh đã vào đúng phòng thi theo lịch.
+- Toàn bộ thí sinh đã vào đúng phòng thi.
 - Không còn thí sinh tại khu vực tiếp nhận hoặc khu vực chờ.
 - Sẵn sàng triển khai quy trình phòng thi.
 {% endhint %}
@@ -219,8 +195,8 @@ Toàn bộ thí sinh đã vào đúng phòng thi theo lịch.
 {% hint style="warning" %}
 ### Lưu ý
 
-- Quy trình này chỉ mô tả luồng tiếp nhận thí sinh.
-- Mỗi vị trí thực hiện công việc theo **Role Guide** tương ứng.
+- Quy trình này mô tả luồng tiếp nhận thí sinh.
+- Hướng dẫn chi tiết của từng vị trí được trình bày trong **Role Guide** tương ứng.
 - Các tình huống phát sinh được xử lý theo quy định của Hội đồng thi.
 {% endhint %}
 
@@ -240,28 +216,13 @@ Toàn bộ thí sinh đã vào đúng phòng thi theo lịch.
 {% endcolumn %}
 
 {% column %}
-{% content-ref url="../03-roles/welcome-officer.md" %}
-[welcome-officer.md](../03-roles/welcome-officer.md)
-{% endcontent-ref %}
+**Role Guide**
 
-{% content-ref url="../03-roles/check-in-officer.md" %}
-[check-in-officer.md](../03-roles/check-in-officer.md)
-{% endcontent-ref %}
-
-{% content-ref url="../03-roles/locker-officer.md" %}
-[locker-officer.md](../03-roles/locker-officer.md)
-{% endcontent-ref %}
-
-{% content-ref url="../03-roles/security-officer.md" %}
-[security-officer.md](../03-roles/security-officer.md)
-{% endcontent-ref %}
-
-{% content-ref url="../03-roles/room-coordinator.md" %}
-[room-coordinator.md](../03-roles/room-coordinator.md)
-{% endcontent-ref %}
-
-{% content-ref url="../03-roles/invigilator.md" %}
-[invigilator.md](../03-roles/invigilator.md)
-{% endcontent-ref %}
+- Welcome Officer
+- Check-in Officer
+- Locker Officer
+- Security Officer
+- Room Coordinator
+- Invigilator
 {% endcolumn %}
 {% endcolumns %}
