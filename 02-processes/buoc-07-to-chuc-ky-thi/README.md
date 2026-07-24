@@ -90,14 +90,14 @@ Trong suốt thời gian diễn ra kỳ thi
 
 * Tuân thủ đúng quy chế thi của ÖSD.
 * Chỉ sử dụng đúng đề thi đã được phân cho từng phòng.
-* Mọi sự cố phải được báo ngay cho Exam Coordinator.
+* Mọi sự cố phải được báo ngay cho Exam Coordinator và Exam Director.
 {% endhint %}
 
 **Check-in**
 
 * Chỉ thí sinh có giấy tờ hợp lệ mới được tham gia kỳ thi.
 * Mỗi thí sinh chỉ được check-in một lần.
-* Chỉ hướng dẫn thí sinh vào khu vực chờ sau khi hoàn tất kiểm tra.
+* Chỉ hướng dẫn thí sinh vào khu vực chờ sau khi hoàn tất kiểm tra hồ sơ và kiểm tra an ninh.
 
 **Written**
 
