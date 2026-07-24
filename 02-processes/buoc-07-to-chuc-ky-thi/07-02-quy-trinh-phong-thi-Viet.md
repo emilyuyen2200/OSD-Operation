@@ -1,8 +1,8 @@
 ---
-description: Nhận đề, hướng dẫn thí sinh, phát đề, giám sát phòng thi, thu bài và kiểm đếm cho phòng thi Written.
+description: Nhận đề, hướng dẫn thí sinh, phát đề, giám sát phòng thi, thu bài và kiểm đếm cho phòng thi Viết.
 ---
 
-# 07-02. Quy trình phòng thi Nói
+# 07-02. Quy trình phòng thi Viết
 
 {% hint style="warning" %}
 Trang này mới có khung tóm tắt — cần Giám thị/Exam Coordinator bổ sung nội dung chi tiết từng bước trước khi áp dụng chính thức.
@@ -10,7 +10,7 @@ Trang này mới có khung tóm tắt — cần Giám thị/Exam Coordinator b�
 
 ## Tóm tắt
 
-Thực hiện toàn bộ quy trình vận hành đối với các phòng thi Written, bao gồm:
+Thực hiện toàn bộ quy trình vận hành đối với các phòng thi Viết, bao gồm:
 
 * Nhận đề.
 * Hướng dẫn thí sinh.
@@ -28,7 +28,7 @@ Thực hiện toàn bộ quy trình vận hành đối với các phòng thi Wri
 
 ## Checklist liên quan
 
-{% content-ref url="../../04-templates-checklists/checklist-phong-thi-written.md" %}
+{% content-ref url="../../04-templates-checklists/checklist-phong-thi-Viet.md" %}
 [Checklist phòng thi Written](../../04-templates-checklists/checklist-phong-thi-written.md)
 {% endcontent-ref %}
 
