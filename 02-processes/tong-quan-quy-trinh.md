@@ -30,13 +30,11 @@ layout:
 
 # Tổng quan quy trình
 
-Tài liệu này mô tả toàn bộ quy trình tổ chức một kỳ thi ÖSD tại Phuong Nam Education, từ giai đoạn lập kế hoạch đến lưu trữ và cải tiến sau kỳ thi.
-
-Đây là tài liệu giúp người đọc hiểu trình tự thực hiện của từng giai đoạn trước khi đi vào các bước chi tiết.
-
 {% hint style="info" %}
-Tài liệu này giúp xác định bước tiếp theo trước khi tham khảo hướng dẫn chi tiết của từng bước.
+Tài liệu này mô tả toàn bộ quy trình tổ chức một kỳ thi ÖSD tại Phuong Nam Education, từ giai đoạn lập kế hoạch đến lưu trữ và cải tiến sau kỳ thi.
 {% endhint %}
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 {% columns %}
 {% column %}
