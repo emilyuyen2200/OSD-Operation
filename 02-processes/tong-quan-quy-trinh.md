@@ -15,106 +15,93 @@ description: >-
 Tài liệu này mô tả toàn bộ quy trình tổ chức một kỳ thi ÖSD tại Phuong Nam Education, từ giai đoạn lập kế hoạch đến lưu trữ và cải tiến sau kỳ thi.
 
 ## 12 bước trong quy trình
-
 {% stepper %}
 {% step %}
-1. <mark style="color:$primary;">**Lập kế hoạch & đăng ký kỳ thi**</mark>
+## [**1. Lập kế hoạch & đăng ký kỳ thi**](./buoc-01-lap-ke-hoach-dang-ky.md)
 
-Thời gian: Trước 1,5–2 tháng Phụ trách: Exam Director
-
-Xem chi tiết →
+**Thời gian:** Trước 1,5–2 tháng
+**Phụ trách:** [Exam Director](../03-roles/exam-director.md)
 {% endstep %}
 
 {% step %}
-2. <mark style="color:$primary;">**Quản lý đăng ký & Truyền thông kỳ thi (song song)**</mark>
+## [**2. Quản lý đăng ký & Truyền thông kỳ thi (song song)**](./buoc-02-quan-ly-va-truyen-thong.md)
 
-Thời gian: Trước 1,5–2 tháng Phụ trách: Exam Coordinator (2a) / Marketing Team (2b)
-
-Xem chi tiết →
+**Thời gian:** Trước 1,5–2 tháng
+**Phụ trách:** [Exam Coordinator](../03-roles/exam-coordinator.md) (2a) / [Marketing Team](../03-roles/marketing.md) (2b)
 {% endstep %}
 
 {% step %}
-3. <mark style="color:$primary;">**Sắp xếp lịch thi**</mark>
+## [**3. Sắp xếp lịch thi**](./buoc-03-sap-xep-lich-thi.md)
 
-Thời gian: Trước 5–7 ngày Phụ trách: Exam Coordinator
-
-Xem chi tiết →
+**Thời gian:** Trước 5–7 ngày
+**Phụ trách:** [Exam Coordinator](../03-roles/exam-coordinator.md)
 {% endstep %}
 
 {% step %}
-4. <mark style="color:$primary;">**Tiếp nhận đề thi**</mark>
+## [**4. Tiếp nhận đề thi**](./buoc-04-tiep-nhan-de-thi.md)
 
-Thời gian: Trước 2–3 tuần Phụ trách: Exam Operations Officer (quyết định) / Exam Coordinator (thực hiện)
-
-Xem chi tiết →
+**Thời gian:** Trước 2–3 tuần
+**Phụ trách:** [Exam Operations Officer](../03-roles/exam-operations-officer.md) (quyết định) / [Exam Coordinator](../03-roles/exam-coordinator.md) (thực hiện)
 {% endstep %}
 
 {% step %}
-5. <mark style="color:$primary;">**Phân công nhân sự & chuẩn bị CSVC**</mark>
+## [**5. Phân công nhân sự & chuẩn bị CSVC**](./buoc-05-phan-cong-va-csvc.md)
 
-Thời gian: Trước 1 tuần Phụ trách: Exam Operations Officer (quyết định) / Exam Coordinator (thực hiện)
-
-Xem chi tiết →
+**Thời gian:** Trước 1 tuần
+**Phụ trách:** [Exam Operations Officer](../03-roles/exam-operations-officer.md) (quyết định) / [Exam Coordinator](../03-roles/exam-coordinator.md) (thực hiện)
 {% endstep %}
 
 {% step %}
-6. <mark style="color:$primary;">**Chuẩn bị đề thi**</mark>
+## [**6. Chuẩn bị đề thi**](./buoc-06-chuan-bi-de-thi.md)
 
-Thời gian: Trước 1 ngày Phụ trách: Exam Operations Officer (quyết định) / Exam Coordinator (thực hiện)
-
-Xem chi tiết →
+**Thời gian:** Trước 1 ngày
+**Phụ trách:** [Exam Operations Officer](../03-roles/exam-operations-officer.md) (quyết định) / [Exam Coordinator](../03-roles/exam-coordinator.md) (thực hiện)
 {% endstep %}
 
 {% step %}
-7. <mark style="color:$primary;">**Tổ chức kỳ thi**</mark>
+## [**7. Tổ chức kỳ thi**](./buoc-07-to-chuc-ky-thi.md)
 
-Thời gian: Trong suốt kỳ thi Phụ trách: Exam Coordinator
-
-Xem chi tiết →
+**Thời gian:** Trong suốt kỳ thi
+**Phụ trách:** [Exam Coordinator](../03-roles/exam-coordinator.md)
 {% endstep %}
 
 {% step %}
-8. <mark style="color:$primary;">**Đối soát bài thi**</mark>
+## [**8. Đối soát bài thi**](./buoc-08-doi-soat.md)
 
-Thời gian: Sau mỗi buổi thi & sau ngày cuối Phụ trách: Exam Coordinator
-
-Xem chi tiết →
+**Thời gian:** Sau mỗi buổi thi & sau ngày cuối
+**Phụ trách:** [Exam Coordinator](../03-roles/exam-coordinator.md)
 {% endstep %}
 
 {% step %}
-9. <mark style="color:$primary;">**Đóng gói & bàn giao**</mark>
+## [**9. Đóng gói & bàn giao**](./buoc-09-dong-goi-ban-giao.md)
 
-Thời gian: Sau ngày thi cuối Phụ trách: Exam Coordinator
-
-Xem chi tiết →
+**Thời gian:** Sau ngày thi cuối
+**Phụ trách:** [Exam Coordinator](../03-roles/exam-coordinator.md)
 {% endstep %}
 
 {% step %}
-10. <mark style="color:$primary;">**Công bố kết quả**</mark>
+## [**10. Công bố kết quả**](./buoc-10-cong-bo-ket-qua.md)
 
-Thời gian: Sau kỳ thi 4–6 tuần Phụ trách: Exam Coordinator
-
-Xem chi tiết →
+**Thời gian:** Sau kỳ thi 4–6 tuần
+**Phụ trách:** [Exam Coordinator](../03-roles/exam-coordinator.md)
 {% endstep %}
 
 {% step %}
-11. <mark style="color:$primary;">**Cấp phát chứng chỉ**</mark>
+## [**11. Cấp phát chứng chỉ**](./buoc-11-cap-phat-chung-chi.md)
 
-Thời gian: Khoảng 2 tuần sau khi có kết quả Phụ trách: Exam Operations Team
-
-Xem chi tiết →
+**Thời gian:** Khoảng 2 tuần sau khi có kết quả
+**Phụ trách:** [Exam Operations Team](../03-roles/exam-operations-officer.md)
 {% endstep %}
 
 {% step %}
-12. <mark style="color:$primary;">**Lưu trữ, tổng kết & cải tiến**</mark>
+## [**12. Lưu trữ, tổng kết & cải tiến**](./buoc-12-luu-tru-tong-ket.md)
 
-Thời gian: Sau kỳ thi 2–4 tuần Phụ trách: Exam Coordinator
-
-Xem chi tiết →
+**Thời gian:** Sau kỳ thi 2–4 tuần
+**Phụ trách:** [Exam Coordinator](../03-roles/exam-coordinator.md)
 {% endstep %}
 {% endstepper %}
 
-{% hint style="info" %}
+
 **Lưu ý**
 
 * Một số hoạt động có thể được triển khai song song tùy theo kế hoạch của từng kỳ thi.
