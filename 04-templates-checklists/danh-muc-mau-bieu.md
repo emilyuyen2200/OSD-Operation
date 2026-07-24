@@ -14,19 +14,19 @@
 
 | Mẫu biểu | Dùng ở đâu | Trạng thái |
 | --- | --- | --- |
-| Sơ đồ phòng thi | Bước 5 | Cần soạn |
-| Giấy nháp thi | Bước 6 | Cần soạn |
-| Kế hoạch kỳ thi | Bước 1 | Cần soạn |
-| Tờ phân loại đề thi | Bước 6 | Cần soạn |
-| Danh sách check-in | Bước 7 | Cần soạn |
-| Danh sách giữ đồ | Bước 7 | Cần soạn |
-| Danh sách thi các kỹ năng | Bước 3 | Cần soạn |
-| Protokol | Bước 7, 9 | Cần soạn |
-| Checklist Phân công Nhân sự | Bước 5 | [Xem](./checklist-phan-cong-nhan-su.md)|
-| Checklist Hồ sơ & Biểu mẫu Phòng thi | Bước 5 | [Xem](./checklist-ho-so-bieu-mau-phong-thi.md)|
-| Checklist Thiết bị | Bước 5 | [Xem](./checklist-thiet-bi.md) |
-| Checklist Setup Phòng thi | Bước 5 | [Xem](./checklist-setup-phong-thi.md) |
-| Checklist Phần mềm & Hệ thống | Bước 5 | [Xem](./checklist-phan-mem-va-he-thong.md) |
+| [Sơ đồ phòng thi](./so-do-phong-thi.md) | Bước 5 | Bản nháp |
+| [Giấy nháp thi](./giay-nhap-thi.md) | Bước 6 | Bản nháp |
+| [Kế hoạch kỳ thi](./ke-hoach-ky-thi.md) | Bước 1 | Bản nháp |
+| [Tờ phân loại đề thi](./to-phan-loai-de-thi.md) | Bước 6 | Bản nháp |
+| [Danh sách check-in](./danh-sach-check-in.md) | Bước 7 | Bản nháp |
+| [Danh sách giữ đồ](./danh-sach-giu-do.md) | Bước 7 | Bản nháp |
+| [Danh sách thi các kỹ năng](./danh-sach-thi-cac-ky-nang.md) | Bước 3 | Bản nháp |
+| [Protokol](./protokol.md) | Bước 7, 9 | Bản nháp |
+| Checklist Phân công Nhân sự | Bước 5 | [Xem](./checklist-phan-cong-nhan-su.md) — bản nháp |
+| Checklist Hồ sơ & Biểu mẫu Phòng thi | Bước 5 | [Xem](./checklist-ho-so-bieu-mau-phong-thi.md) — bản nháp |
+| Checklist Thiết bị | Bước 5 | [Xem](./checklist-thiet-bi.md) — bản nháp |
+| Checklist Setup Phòng thi | Bước 5 | [Xem](./checklist-setup-phong-thi.md) — bản nháp |
+| Checklist Phần mềm & Hệ thống | Bước 5 | [Xem](./checklist-phan-mem-va-he-thong.md) — bản nháp |
 
 ## Nhóm 3 — Ngày thi & Bàn giao
 
