@@ -67,37 +67,52 @@ Xác định thời gian tổ chức, trình độ mở thi và hoàn tất đă
 
 {% columns %}
 {% column valign="middle" %}
-### ① Xác định thời gian   tổ chức
+{% hint style="info" icon="1" %}
+### Xác định thời gian tổ chức
+{% endhint %}
 
 * Trao đổi với Exam Director để thống nhất thời gian tổ chức.
 * Kiểm tra lịch các kỳ thi đã lên kế hoạch.
 * Xác nhận ngày thi phù hợp với lịch hoạt động của trung tâm.
-
-{% hint style="info" %}
-**Kết quả:** Có ngày tổ chức kỳ thi được xác định.
-{% endhint %}
 {% endcolumn %}
 
-{% column %}
-### ② Xác định trình độ mở thi
+{% column width="33.33333333333333%" %}
+{% hint style="info" icon="2" %}
+### Xác định trình độ mở thi
+{% endhint %}
 
 * Xác định các trình độ sẽ tổ chức.
 * Kiểm tra nhu cầu đăng ký dự kiến.
 * Thống nhất danh sách trình độ với Exam Director.
-*
+{% endcolumn %}
 
+{% column width="33.33333333333333%" %}
+{% hint style="info" icon="3" %}
+### Đăng ký kỳ thi với ÖSD
+{% endhint %}
+
+* Chuẩn bị thông tin theo yêu cầu của ÖSD.
+* Gửi đăng ký theo quy định.
+* Lưu thông tin xác nhận sau khi đăng ký thành công.
+{% endcolumn %}
+{% endcolumns %}
+
+{% columns %}
+{% column valign="middle" %}
+{% hint style="info" %}
+**Kết quả:** Có ngày tổ chức kỳ thi được xác định.
+{% endhint %}
+
+
+{% endcolumn %}
+
+{% column %}
 {% hint style="info" %}
 **Kết quả:** Danh sách trình độ được phê duyệt.
 {% endhint %}
 {% endcolumn %}
 
 {% column %}
-### ③ Đăng ký kỳ thi với ÖSD
-
-* Chuẩn bị thông tin theo yêu cầu của ÖSD.
-* Gửi đăng ký theo quy định.
-* Lưu thông tin xác nhận sau khi đăng ký thành công.
-
 {% hint style="info" %}
 **Kết quả:** Nhận xác nhận đăng ký từ ÖSD.
 {% endhint %}
@@ -126,18 +141,12 @@ Xác định thời gian tổ chức, trình độ mở thi và hoàn tất đă
 * Kế hoạch kỳ thi được Exam Director phê duyệt.
 * Kỳ thi được đăng ký thành công với ÖSD.
 * Sẵn sàng triển khai bước **Quản lý đăng ký kỳ thi**.
-
-
-
-
 {% endhint %}
-
-
 {% endcolumn %}
 {% endcolumns %}
 
 {% hint style="warning" %}
-### &#x20;Lưu ý
+### Lưu ý
 
 * Chỉ công bố thông tin kỳ thi sau khi nhận xác nhận từ ÖSD.
 * Lưu toàn bộ email và tài liệu xác nhận để đối chiếu khi cần.

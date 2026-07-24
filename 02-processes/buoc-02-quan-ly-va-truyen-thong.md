@@ -56,28 +56,26 @@ Bắt đầu ngay sau khi hoàn thành [Bước 1. Lập kế hoạch kỳ thi](
 
 
 {% columns %}
-{% column %}
+{% column width="50%" %}
 {% hint style="info" %}
 ### Chuẩn bị
+{% endhint %}
 
 * Kế hoạch kỳ thi đã được phê duyệt.
 * Thông tin kỳ thi đã sẵn sàng để mở đăng ký.
 * Cổng đăng ký hoạt động bình thường.
-{% endhint %}
 {% endcolumn %}
 
-{% column %}
+{% column width="50%" %}
 {% hint style="info" %}
 ### **Chuẩn bị**
+{% endhint %}
 
 * Kế hoạch kỳ thi đã được phê duyệt.
 * Thông tin kỳ thi đã được xác nhận.
 * Nội dung truyền thông đã sẵn sàng.
-{% endhint %}
 {% endcolumn %}
 {% endcolumns %}
-
-
 
 {% columns %}
 {% column %}
