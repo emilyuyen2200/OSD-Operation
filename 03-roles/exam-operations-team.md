@@ -1,4 +1,3 @@
-
 # Vai trò: Exam Operations Team
 
 ## Vị trí
@@ -7,7 +6,7 @@ Phụ trách chính cho các công việc hậu cần: tiếp nhận đề thi, 
 
 ## Gồm các vị trí
 
-* [Bộ phận Kỹ thuật](./ho-tro-ky-thuat.md)
+* [Technical Team](./technical-team.md)
 * [Welcome Officer](./welcome-officer.md)
 * [Check-in Officer](./check-in-officer.md)
 * [Locker Officer](./locker-officer.md)
