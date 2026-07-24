@@ -1,4 +1,7 @@
 ---
+description: >-
+  Kiểm tra, phân loại và chuẩn bị đề thi theo đúng ngày thi, buổi thi, phòng thi
+  và số lượng thí sinh trước khi tổ chức kỳ thi.
 layout:
   width: wide
   title:
@@ -21,17 +24,15 @@ layout:
 
 # Bước 6 — Chuẩn bị đề thi
 
-Kiểm tra, phân loại và chuẩn bị đề thi theo đúng ngày thi, buổi thi, phòng thi và số lượng thí sinh trước khi tổ chức kỳ thi.
-
 {% columns %}
 {% column %}
-### 📅 Thời điểm
+#### 📅 Thời điểm
 
 Thực hiện 1 ngày trước kỳ thi
 {% endcolumn %}
 
 {% column %}
-### 👤 Phụ trách
+#### 👤 Phụ trách
 
 [Exam Operations Officer](../03-roles/exam-operations-officer.md)
 
@@ -39,7 +40,7 @@ Thực hiện 1 ngày trước kỳ thi
 {% endcolumn %}
 
 {% column %}
-### ✅ Phê duyệt
+#### ✅ Phê duyệt
 
 [Exam Director](../03-roles/exam-director.md)
 {% endcolumn %}
@@ -49,11 +50,11 @@ Thực hiện 1 ngày trước kỳ thi
 
 ### 👥 Vai trò & Trách nhiệm
 
-| Vai trò | Trách nhiệm |
-| --- | --- |
+| Vai trò                                                           | Trách nhiệm                                        |
+| ----------------------------------------------------------------- | -------------------------------------------------- |
 | [Exam Operations Officer](../03-roles/exam-operations-officer.md) | Lập kế hoạch và giám sát công tác chuẩn bị đề thi. |
-| [Exam Coordinator](../03-roles/exam-coordinator.md) | Kiểm tra, phân loại, đóng gói và chuẩn bị đề thi. |
-| [Exam Director](../03-roles/exam-director.md) | Giám sát việc mở niêm phong đề thi theo quy định. |
+| [Exam Coordinator](../03-roles/exam-coordinator.md)               | Kiểm tra, phân loại, đóng gói và chuẩn bị đề thi.  |
+| [Exam Director](../03-roles/exam-director.md)                     | Giám sát việc mở niêm phong đề thi theo quy định.  |
 
 ### 📋 Chuẩn bị
 
@@ -90,48 +91,61 @@ Thực hiện 1 ngày trước kỳ thi
 * Không sao chép, chụp ảnh hoặc lưu trữ đề thi dưới bất kỳ hình thức nào ngoài quy định.
 {% endhint %}
 
+{% hint style="danger" %}
 ### Phân loại đề thi
 
-Thực hiện theo thứ tự: **Ngày thi → Buổi thi → Phòng thi → Trình độ → Kỹ năng**
-
+* Thực hiện theo thứ tự: **Ngày thi → Buổi thi → Phòng thi → Trình độ → Kỹ năng**
 * Không để lẫn đề thi giữa các phòng.
 * Không để lẫn đề giữa các trình độ hoặc kỹ năng.
 * Mỗi phòng thi được chuẩn bị thành một bộ đề riêng.
+{% endhint %}
 
+{% hint style="danger" %}
 ### Đối chiếu số lượng
 
 * Kiểm tra số lượng đề theo danh sách ÖSD.
 * Đối chiếu với số lượng thí sinh của từng phòng.
 * Kiểm tra đầy đủ các kỹ năng của từng trình độ.
+{% endhint %}
 
+{% hint style="danger" %}
 ### File nghe
 
 * Mỗi trình độ sử dụng đúng file nghe tương ứng.
 * Kiểm tra khả năng phát trước khi đóng gói.
 * Lưu file nghe đúng thư mục theo từng trình độ.
+{% endhint %}
 
+{% hint style="danger" %}
 ### Đóng gói
 
-Mỗi bộ đề phải ghi rõ: Ngày thi · Buổi thi · Phòng thi · Trình độ · Kỹ năng.
+* Mỗi bộ đề phải ghi rõ: Ngày thi · Buổi thi · Phòng thi · Trình độ · Kỹ năng.
+{% endhint %}
 
 ***
 
 ## 📖 Hướng dẫn thực hiện
 
-### 1. Kiểm tra lô đề thi
+{% stepper %}
+{% step %}
+### Kiểm tra lô đề thi
 
 1. Mở niêm phong theo đúng quy định.
 2. Kiểm tra số lượng đề theo danh sách ÖSD.
 3. Đối chiếu trình độ và kỹ năng.
 4. Xác nhận tình trạng của từng bộ đề.
+{% endstep %}
 
+{% step %}
 ### 2. Chuẩn bị file nghe
 
 1. Tải file nghe từ hệ thống ÖSD.
 2. Kiểm tra khả năng phát của từng file.
 3. Đối chiếu đúng trình độ và kỹ năng.
 4. Lưu file theo đúng cấu trúc thư mục.
+{% endstep %}
 
+{% step %}
 ### 3. Phân loại đề thi
 
 1. Phân loại theo ngày thi.
@@ -139,14 +153,33 @@ Mỗi bộ đề phải ghi rõ: Ngày thi · Buổi thi · Phòng thi · Trình
 3. Phân loại theo phòng thi.
 4. Phân loại theo trình độ.
 5. Phân loại theo kỹ năng.
+{% endstep %}
 
+{% step %}
 ### 4. Đóng gói đề thi
 
-Chuẩn bị riêng cho từng phòng thi. Mỗi bộ đề gồm: đề thi, file nghe tương ứng (nếu có), tài liệu đi kèm theo quy định. Dán nhãn và niêm phong sau khi hoàn tất.
+* Chuẩn bị riêng cho từng phòng thi.&#x20;
+* Mỗi bộ đề gồm:&#x20;
+  * Đề thi
+  * file nghe tương ứng (nếu có)
+  * Tài liệu đi kèm theo quy định.&#x20;
+* Dán nhãn và niêm phong sau khi hoàn tất.
+{% endstep %}
 
-### 5. Kiểm tra lần cuối
+{% step %}
+### Kiểm tra lần cuối
 
-Xác nhận: đúng ngày thi · đúng buổi thi · đúng phòng thi · đúng trình độ · đúng kỹ năng · đúng số lượng đề · đúng file nghe.
+Xác nhận số lượng đề đủ, đúng với:
+
+* [ ] ngày thi
+* [ ] buổi thi
+* [ ] phòng thi
+* [ ] trình độ
+* [ ] kỹ năng
+* [ ] số lượng đề
+* [ ] file nghe.
+{% endstep %}
+{% endstepper %}
 
 {% hint style="info" %}
 Sau khi hoàn tất, chuyển toàn bộ đề thi về khu vực lưu trữ an toàn cho đến khi bàn giao.
@@ -199,13 +232,13 @@ Sau khi hoàn tất, chuyển toàn bộ đề thi về khu vực lưu trữ an 
 {% columns %}
 {% column %}
 {% content-ref url="buoc-05-phan-cong-va-csvc.md" %}
-[Bước trước: Phân công nhân sự & Chuẩn bị CSVC](buoc-05-phan-cong-va-csvc.md)
+[buoc-05-phan-cong-va-csvc.md](buoc-05-phan-cong-va-csvc.md)
 {% endcontent-ref %}
 {% endcolumn %}
 
 {% column %}
-{% content-ref url="buoc-07-to-chuc-ky-thi/README.md" %}
-[Bước tiếp theo: Tổ chức kỳ thi](buoc-07-to-chuc-ky-thi/README.md)
+{% content-ref url="buoc-07-to-chuc-ky-thi/" %}
+[buoc-07-to-chuc-ky-thi](buoc-07-to-chuc-ky-thi/)
 {% endcontent-ref %}
 {% endcolumn %}
 {% endcolumns %}

@@ -22,8 +22,8 @@
 
 ## Quy trình Tổ chức thi ÖSD
 
-* [Tổng quan quy trình](02-processes/00-tong-quan.md)
-* [Bảng phân công](02-processes/bang-phan-cong.md)
+* [Tổng quan quy trình](quy-trinh-to-chuc-thi-osd/tong-quan-quy-trinh.md)
+* [Bảng phân công](quy-trinh-to-chuc-thi-osd/bang-phan-cong.md)
 * [Bước 1 — Lập kế hoạch & đăng ký](02-processes/buoc-01-lap-ke-hoach-dang-ky.md)
 * [Bước 2 — Quản lý đăng ký & Truyền thông kỳ thi](02-processes/buoc-02-quan-ly-va-truyen-thong.md)
 * [Bước 3 — Sắp xếp lịch thi chi tiết](02-processes/buoc-03-sap-xep-lich-thi.md)
@@ -48,8 +48,8 @@
 * [Giấy nháp thi](04-templates-checklists/giay-nhap-thi.md)
 * [Kế hoạch kỳ thi](04-templates-checklists/ke-hoach-ky-thi.md)
 * [Tờ phân loại đề thi](04-templates-checklists/to-phan-loai-de-thi.md)
-* [Danh sách check-in](04-templates-checklists/danh-sach-check-in.md)
-* [Danh sách giữ đồ](04-templates-checklists/danh-sach-giu-do.md)
+* [Danh sách check-in](mau-bieu-and-checklist/danh-sach-check-in.md)
+* [Danh sách giữ đồ](mau-bieu-and-checklist/danh-sach-giu-do.md)
 * [Danh sách thi các kỹ năng](04-templates-checklists/danh-sach-thi-cac-ky-nang.md)
 * [Protokol](04-templates-checklists/protokol.md)
 * [Checklist Phân công Nhân sự](04-templates-checklists/checklist-phan-cong-nhan-su.md)
