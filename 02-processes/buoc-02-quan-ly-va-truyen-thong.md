@@ -1,9 +1,11 @@
+---
+description: >-
+  Bước này gồm hai hoạt động được triển khai song song ngay sau khi kế hoạch kỳ
+  thi được phê duyệt: 2A. Quản lý đăng ký kỳ thi — Exam Coordinator phụ trách.
+  2B. Truyền thông kỳ thi — Phòng Marketing phụ
+---
+
 # Bước 2 — Quản lý đăng ký và truyền thông cho kỳ thi
-
-Bước này gồm hai hoạt động được triển khai **song song** ngay sau khi kế hoạch kỳ thi được phê duyệt:
-
-* **2A. Quản lý đăng ký kỳ thi** — Exam Coordinator phụ trách.
-* **2B. Truyền thông kỳ thi** — Phòng Marketing phụ trách.
 
 {% columns %}
 {% column %}
@@ -28,8 +30,6 @@ Bắt đầu ngay sau khi hoàn thành [Bước 1. Lập kế hoạch kỳ thi](
 {% endcolumns %}
 
 ***
-
-## Hai hoạt động triển khai song song
 
 {% columns %}
 {% column %}

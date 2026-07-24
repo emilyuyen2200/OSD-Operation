@@ -25,15 +25,21 @@ Xác định thời gian tổ chức, trình độ mở thi và hoàn tất đă
 
 {% columns %}
 {% column %}
-📅 **Thời điểm** Trước ngày thi 1,5–2 tháng
+### 📅 **Thời điểm**&#x20;
+
+Trước ngày thi 1,5–2 tháng
 {% endcolumn %}
 
-{% column %}
-👤 **Phụ trách** [Exam Coordinator](../03-roles/exam-coordinator.md)
+{% column width="33.33333333333333%" %}
+### 👤 **Phụ trách**&#x20;
+
+[Exam Coordinator](../03-roles/exam-coordinator.md)
 {% endcolumn %}
 
-{% column %}
-✅ **Phê duyệt** [Exam Director](../03-roles/exam-director.md)
+{% column width="33.33333333333333%" %}
+### ✅ **Phê duyệt**&#x20;
+
+[Exam Director](../03-roles/exam-director.md)
 {% endcolumn %}
 {% endcolumns %}
 
