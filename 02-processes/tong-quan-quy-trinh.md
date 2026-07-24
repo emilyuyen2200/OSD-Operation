@@ -1,57 +1,88 @@
 ---
-description: >-
-  Cho bạn thấy toàn bộ 12 bước tổ chức một kỳ thi ÖSD, ai phụ trách bước nào, và
-  bước nào đi trước bước nào.
+title: Tổng quan quy trình tổ chức kỳ thi
+description: Tổng quan các giai đoạn trong quy trình tổ chức kỳ thi ÖSD tại Phuong Nam Education.
+owner: Exam Director
+reviewer: Exam Coordinator
+version: "2.1"
+status: Active
+last_updated: 2026-07-24
 ---
 
-# Tổng quan quy trình
+# Tổng quan quy trình tổ chức kỳ thi
 
-## Quy trình tổ chức 12 bước
+Tài liệu này mô tả toàn bộ quy trình tổ chức một kỳ thi ÖSD tại Phuong Nam Education, từ giai đoạn lập kế hoạch đến lưu trữ và cải tiến sau kỳ thi.
 
-<table><thead><tr><th width="123.8541259765625" align="center">#</th><th width="225.760498046875">Bước</th><th width="210.963623046875">Phụ trách chính</th><th width="266.546875">Thời điểm</th><th>Chi tiết</th></tr></thead><tbody><tr><td align="center">1</td><td>Lập kế hoạch &#x26; đăng ký kỳ thi</td><td>Exam Coordinator</td><td>Trước 1.5–2 tháng</td><td><a href="buoc-01-lap-ke-hoach-dang-ky.md">Xem</a></td></tr><tr><td align="center">2.1</td><td>Quản lý đăng ký kỳ thi</td><td>Exam Coordinator</td><td>Trước 1.5–2 tháng</td><td><a href="buoc-02-1-quan-ly-dang-ky.md">Xem</a></td></tr><tr><td align="center">2.2</td><td>Truyền thông cho kỳ thi</td><td>Phòng Marketing</td><td>Trước 1.5–2 tháng (song song với 2.1)</td><td><a href="buoc-02-2-truyen-thong.md">Xem</a></td></tr><tr><td align="center">3</td><td>Sắp xếp lịch thi chi tiết</td><td>Exam Coordinator</td><td>Trước 5–7 ngày</td><td><a href="buoc-03-sap-xep-lich-thi.md">Xem</a></td></tr><tr><td align="center">4</td><td>Tiếp nhận đề thi</td><td>Exam Operations Officer</td><td>Trước 2–3 tuần</td><td><a href="buoc-04-tiep-nhan-de-thi.md">Xem</a></td></tr><tr><td align="center">5</td><td>Phân công nhân sự &#x26; chuẩn bị cơ sở vật chất</td><td>Exam Operations Officer</td><td>Trước 1 tuần</td><td><a href="buoc-05-phan-cong-va-csvc.md">Xem</a></td></tr><tr><td align="center">6</td><td>Chuẩn bị đề thi</td><td>Exam Operations Officer</td><td>1 ngày trước thi</td><td><a href="buoc-06-chuan-bi-de-thi.md">Xem</a></td></tr><tr><td align="center">7</td><td>Tổ chức kỳ thi</td><td>Exam Coordinator</td><td>Trong suốt kỳ thi</td><td><a href="buoc-07-to-chuc-ky-thi.md">Xem</a></td></tr><tr><td align="center">8</td><td>Đối soát bài thi – đề thi</td><td>Exam Coordinator</td><td>Sau mỗi buổi thi &#x26; sau ngày cuối</td><td><a href="buoc-08-doi-soat.md">Xem</a></td></tr><tr><td align="center">9</td><td>Đóng gói &#x26; bàn giao bài thi</td><td>Exam Coordinator</td><td>Sau ngày thi cuối</td><td><a href="buoc-09-dong-goi-ban-giao.md">Xem</a></td></tr><tr><td align="center">10</td><td>Công bố kết quả thi</td><td>Exam Coordinator</td><td>4–6 tuần sau thi</td><td><a href="buoc-10-cong-bo-ket-qua.md">Xem</a></td></tr><tr><td align="center">11</td><td>Cấp phát chứng chỉ</td><td>Exam Operations Officer</td><td>~2 tuần sau khi có kết quả</td><td><a href="buoc-11-cap-phat-chung-chi.md">Xem</a></td></tr><tr><td align="center">12</td><td>Lưu trữ, tổng kết &#x26; cải tiến</td><td>Exam Coordinator</td><td>2–4 tuần sau thi</td><td><a href="buoc-12-luu-tru-tong-ket.md">Xem</a></td></tr></tbody></table>
+Đây là tài liệu giúp người đọc hiểu trình tự thực hiện của từng giai đoạn trước khi đi vào các bước chi tiết.
 
-## Bảng phân công chi tiết (ai làm chính, ai hỗ trợ, ai duyệt)
+{% hint style="info" %}
+Tài liệu này giúp xác định bước tiếp theo trước khi tham khảo hướng dẫn chi tiết của từng bước.
+{% endhint %}
 
-| Bước                    | Phụ trách chính      | Đội hỗ trợ                                  | Người duyệt      |
-| ----------------------- | -------------------- | ------------------------------------------- | ---------------- |
-| 1                       | Exam Coordinator     | Exam Operations Team                        | Exam Director    |
-| 2.1                     | Exam Coordinator     | Exam Operations Team                        | Exam Director    |
-| 2.2                     | Phòng Marketing      | Exam Operations Team                        | Exam Director    |
-| 3                       | Exam Coordinator     | Exam Operations Team                        | Exam Director    |
-| 4                       | Exam Coordinator     | Exam Operations Team                        | Exam Director    |
-| 5                       | Exam Coordinator     | Exam Operations Team / Bộ phận Kỹ thuật     | Exam Director    |
-| 6                       | Exam Coordinator     | Exam Operations Team                        | Exam Director    |
-| 7                       | Exam Coordinator     | Giám thị / Giám khảo / Exam Operations Team | Exam Director    |
-| 7.1 Check-in thí sinh   | Exam Operations Team | Giám thị                                    | Exam Coordinator |
-| 7.2 Điều phối phòng thi | Exam Coordinator     | Giám thị / Giám khảo                        | Exam Director    |
-| 7.3 Thu bài & bàn giao  | Exam Coordinator     | Exam Operations Team / Giám thị             | Exam Director    |
-| 8                       | Exam Coordinator     | Exam Operations Team                        | Exam Director    |
-| 9                       | Exam Coordinator     | Exam Operations Team                        | Exam Director    |
-| 10                      | Exam Coordinator     | Exam Operations Team                        | Exam Director    |
-| 11                      | Exam Operations Team | Exam Coordinator                            | Exam Director    |
-| 12                      | Exam Coordinator     | Exam Operations Team                        | Exam Director    |
+{% columns %}
+{% column %}
+### Phạm vi áp dụng
 
-## Cần xác nhận trước khi áp dụng chính thức
+✅ Áp dụng cho toàn bộ quá trình tổ chức kỳ thi ÖSD tại Phuong Nam Education.
+{% endcolumn %}
 
-Tài liệu gốc có 2 điểm chưa thống nhất giữa mô tả từng bước và bảng phân công tổng. Cần Exam Director xác nhận trước khi coi bảng này là chuẩn cuối cùng:
+{% column %}
+### Điều kiện trước khi bắt đầu
 
-1. **Bước 1** — người phụ trách chính là Exam Coordinator hay Quản lý kỳ thi?
-2. **Bước 4–6** — người phụ trách chính là Exam Operations Officer hay Exam Coordinator?
+✅ Quy chế tổ chức kỳ thi đã được ban hành.
 
-Cho đến khi có xác nhận, các trang chi tiết từng bước dùng theo mô tả cụ thể của bước đó (không dùng theo bảng phân công tổng ở trên cho hai điểm này).
+✅ Kỳ thi đã được phê duyệt và mở đăng ký.
+{% endcolumn %}
+{% endcolumns %}
 
-## Ngoại lệ
+## 12 bước trong quy trình
 
-Không có ngoại lệ nào được ghi nhận ở cấp tổng quan. Xử lý ngoại lệ theo từng bước cụ thể.
+| Bước | Hoạt động | Thời điểm | Ghi chú |
+| ---: | --- | --- | --- |
+| 1 | Lập kế hoạch & đăng ký kỳ thi | Trước 1,5–2 tháng | [Xem chi tiết](buoc-01-lap-ke-hoach-dang-ky.md) |
+| 2.1 | Quản lý đăng ký kỳ thi | Trước 1,5–2 tháng | [Xem chi tiết](buoc-02-1-quan-ly-dang-ky.md) |
+| 2.2 | Truyền thông kỳ thi | Song song với bước 2.1 | [Xem chi tiết](buoc-02-2-truyen-thong.md) |
+| 3 | Sắp xếp lịch thi chi tiết | Trước 5–7 ngày | [Xem chi tiết](buoc-03-sap-xep-lich-thi.md) |
+| 4 | Tiếp nhận đề thi | Trước 2–3 tuần | [Xem chi tiết](buoc-04-tiep-nhan-de-thi.md) |
+| 5 | Phân công nhân sự & chuẩn bị cơ sở vật chất | Trước 1 tuần | [Xem chi tiết](buoc-05-phan-cong-va-csvc.md) |
+| 6 | Chuẩn bị đề thi | Trước 1 ngày | [Xem chi tiết](buoc-06-chuan-bi-de-thi.md) |
+| 7 | Tổ chức kỳ thi | Trong suốt kỳ thi | [Xem chi tiết](buoc-07-to-chuc-ky-thi.md) |
+| 8 | Đối soát đề thi và bài thi | Sau mỗi buổi thi | [Xem chi tiết](buoc-08-doi-soat.md) |
+| 9 | Đóng gói & bàn giao bài thi | Sau ngày thi cuối | [Xem chi tiết](buoc-09-dong-goi-ban-giao.md) |
+| 10 | Công bố kết quả | Sau kỳ thi 4–6 tuần | [Xem chi tiết](buoc-10-cong-bo-ket-qua.md) |
+| 11 | Cấp phát chứng chỉ | Khoảng 2 tuần sau khi có kết quả | [Xem chi tiết](buoc-11-cap-phat-chung-chi.md) |
+| 12 | Lưu trữ, tổng kết & cải tiến | Sau kỳ thi 2–4 tuần | [Xem chi tiết](buoc-12-luu-tru-tong-ket.md) |
+
+## Trình tự thực hiện
+
+| 🚀 | 📝 | 📅 | 📥 | ⚙️ | 🧑‍💼 |
+| --- | --- | --- | --- | --- | --- |
+| Lập kế hoạch | Đăng ký | Lịch thi | Tiếp nhận đề thi | Chuẩn bị | Tổ chức thi |
+
+| ✅ | 📦 | 📢 | 🎓 | 🗄️ |
+| --- | --- | --- | --- | --- |
+| Đối soát | Bàn giao bài thi | Công bố kết quả | Cấp chứng chỉ | Lưu trữ & tổng kết |
+
+{% hint style="warning" %}
+**Lưu ý**
+
+- Mỗi giai đoạn được hướng dẫn chi tiết trong tài liệu tương ứng.
+- Một số hoạt động có thể được triển khai song song theo kế hoạch của kỳ thi.
+- Thời gian thực hiện có thể được điều chỉnh tùy theo quy mô kỳ thi.
+{% endhint %}
 
 ## Tài liệu liên quan
 
-* [Quy chế thi](../01-policies/ban-hanh-quy-che.md)
-* [Danh mục mẫu biểu](../04-templates-checklists/danh-muc-mau-bieu.md)
-* [Danh mục rủi ro & phương án xử lý](../05-risk-management/risk-register.md)
-* [Vai trò & Phân quyền](../03-roles/)
+{% content-ref url="bang-phan-cong.md" %}
+[Bảng phân công](bang-phan-cong.md)
+{% endcontent-ref %}
 
-## Lịch sử thay đổi
+- Danh mục SOP *(chưa có tài liệu riêng)*
+- Danh mục Work Instruction *(chưa có tài liệu riêng)*
 
-* 2026-07-24: Biên soạn lại theo văn phong nội bộ PNE. Gộp 2 điểm mâu thuẫn RACI (trước đây lặp ở 3 nơi khác nhau) vào đúng một mục duy nhất tại đây.
-* 2026-07-23: Khởi tạo từ tài liệu gốc.
+## Lịch sử cập nhật
+
+| Phiên bản | Ngày | Nội dung |
+| --- | --- | --- |
+| 2.1 | 24/07/2026 | Cập nhật thiết kế: thêm hint, bảng 2 cột Phạm vi/Điều kiện, chuỗi icon Trình tự thực hiện. Đổi "RACI" thành "Bảng phân công" cho nhất quán. |
+| 2.0 | 24/07/2026 | Tách "Bảng phân công" thành file riêng. Biên soạn lại theo văn phong nội bộ PNE. |
+| 1.0 | 23/07/2026 | Khởi tạo tài liệu. |
