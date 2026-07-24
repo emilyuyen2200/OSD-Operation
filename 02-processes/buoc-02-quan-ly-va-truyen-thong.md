@@ -7,51 +7,75 @@ Bước này gồm hai hoạt động được triển khai **song song** ngay s
 
 {% columns %}
 {% column %}
-📅 **Thời điểm**&#x20;
-
-Bắt đầu ngay sau khi hoàn thành [Bước 1. Lập kế hoạch kỳ thi](buoc-01-lap-ke-hoach-dang-ky.md) và kết thúc khi đóng đăng ký.
+📅 **Thời điểm** Bắt đầu ngay sau khi hoàn thành [Bước 1. Lập kế hoạch kỳ thi](buoc-01-lap-ke-hoach-dang-ky.md) và kết thúc khi đóng đăng ký.
 {% endcolumn %}
 
 {% column %}
-👤 **Phụ trách**&#x20;
-
-2A: [Exam Coordinator](../03-roles/exam-coordinator.md)&#x20;
-
-2B: [Phòng Marketing](../03-roles/marketing.md)
+👤 **Phụ trách** 2A: [Exam Coordinator](../03-roles/exam-coordinator.md) 2B: [Phòng Marketing](../03-roles/marketing.md)
 {% endcolumn %}
 
 {% column %}
-✅ **Phê duyệt**&#x20;
-
-[Exam Director](../03-roles/exam-director.md)
+✅ **Phê duyệt** [Exam Director](../03-roles/exam-director.md)
 {% endcolumn %}
 {% endcolumns %}
 
 ***
 
+## Hai hoạt động triển khai song song
+
 {% columns %}
 {% column %}
 ### 2A · Quản lý đăng ký kỳ thi
+{% endcolumn %}
 
-**Vai trò**
+{% column %}
+### 2B · Truyền thông kỳ thi
+{% endcolumn %}
+{% endcolumns %}
 
+{% columns %}
+{% column %}
 | Vai trò                                             | Trách nhiệm                                                                             |
 | --------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | [Exam Coordinator](../03-roles/exam-coordinator.md) | Quản lý đăng ký, xử lý hồ sơ, đối soát thanh toán và lập danh sách thí sinh chính thức. |
+{% endcolumn %}
 
-|   |   |   |
-| - | - | - |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+{% column %}
+<table><thead><tr><th width="141.9296875">Vai trò</th><th>Trách nhiệm</th></tr></thead><tbody><tr><td><a href="../03-roles/marketing.md">Phòng Marketing</a></td><td>Triển khai truyền thông và theo dõi hiệu quả đăng ký.</td></tr></tbody></table>
+{% endcolumn %}
+{% endcolumns %}
 
-**Chuẩn bị**
+
+
+{% columns %}
+{% column %}
+{% hint style="info" %}
+### Chuẩn bị
 
 * Kế hoạch kỳ thi đã được phê duyệt.
 * Thông tin kỳ thi đã sẵn sàng để mở đăng ký.
 * Cổng đăng ký hoạt động bình thường.
+{% endhint %}
+{% endcolumn %}
 
-**Hướng dẫn thực hiện**
+{% column %}
+{% hint style="info" %}
+### **Chuẩn bị**
+
+* Kế hoạch kỳ thi đã được phê duyệt.
+* Thông tin kỳ thi đã được xác nhận.
+* Nội dung truyền thông đã sẵn sàng.
+{% endhint %}
+{% endcolumn %}
+{% endcolumns %}
+
+
+
+{% columns %}
+{% column %}
+{% hint style="info" %}
+### Hướng dẫn thực hiện
+{% endhint %}
 
 1. **Mở đăng ký kỳ thi** — Mở cổng đăng ký tại `https://osd.phuongnameducation.com/`. Kiểm tra trạng thái hoạt động của biểu mẫu và thông tin hiển thị.
 2. **Tiếp nhận hồ sơ đăng ký** — Tiếp nhận hồ sơ từ thí sinh, theo dõi danh sách đăng ký trong suốt thời gian mở cổng.
@@ -65,9 +89,26 @@ Bắt đầu ngay sau khi hoàn thành [Bước 1. Lập kế hoạch kỳ thi](
 7. **Báo cáo lịch thi** — Báo cáo dự kiến phân bổ phòng thi và thời gian thi cho Exam Director.
 8. **Đóng đăng ký** — Đóng cổng đăng ký theo kế hoạch.
 9. **Lập danh sách thí sinh chính thức** — Tổng hợp và hoàn thiện danh sách thí sinh đủ điều kiện.
+{% endcolumn %}
 
+{% column %}
 {% hint style="info" %}
-**Checklist hoàn thành**
+### Hướng dẫn thực hiện
+{% endhint %}
+
+1. **Cập nhật thông tin kỳ thi** trên website: lịch thi, lệ phí, địa điểm, hạn đăng ký.
+2. **Mở đăng ký** — Mở cổng đăng ký và cổng thanh toán.
+3. **Triển khai truyền thông** trên các kênh của công ty: Facebook, Zalo, tin nhắn đến học viên.
+4. **Theo dõi hiệu quả** — Theo dõi số lượng đăng ký trong suốt thời gian diễn ra chiến dịch.
+{% endcolumn %}
+{% endcolumns %}
+
+###
+
+{% columns %}
+{% column %}
+{% hint style="info" %}
+### Checklist hoàn thành
 
 * [ ] Cổng đăng ký đã được mở.
 * [ ] Tất cả hồ sơ đã được kiểm tra.
@@ -78,57 +119,56 @@ Bắt đầu ngay sau khi hoàn thành [Bước 1. Lập kế hoạch kỳ thi](
 * [ ] Đăng ký đã được đóng.
 * [ ] Danh sách thí sinh chính thức đã hoàn thành.
 {% endhint %}
-
-{% hint style="success" %}
-**Hoàn thành khi:** Danh sách thí sinh chính thức đầy đủ, chính xác, và hoàn tất công tác đăng ký trước ngày thi.
-{% endhint %}
-
-{% hint style="warning" %}
-**Lưu ý:** Theo dõi hồ sơ và thanh toán xuyên suốt thời gian mở đăng ký. Cập nhật tiến độ đúng tần suất để Exam Director theo dõi tình hình.
-{% endhint %}
 {% endcolumn %}
 
 {% column %}
-### 2B · Truyền thông kỳ thi
-
-**Vai trò**
-
-| Vai trò                                     | Trách nhiệm                                           |
-| ------------------------------------------- | ----------------------------------------------------- |
-| [Phòng Marketing](../03-roles/marketing.md) | Triển khai truyền thông và theo dõi hiệu quả đăng ký. |
-
-
-
-**Chuẩn bị**
-
-* Kế hoạch kỳ thi đã được phê duyệt.
-* Thông tin kỳ thi đã được xác nhận.
-* Nội dung truyền thông đã sẵn sàng.
-
-
-
-**Hướng dẫn thực hiện**
-
-1. **Cập nhật thông tin kỳ thi** trên website: lịch thi, lệ phí, địa điểm, hạn đăng ký.
-2. **Mở đăng ký** — Mở cổng đăng ký và cổng thanh toán.
-3. **Triển khai truyền thông** trên các kênh của công ty: Facebook, Zalo, tin nhắn đến học viên.
-4. **Theo dõi hiệu quả** — Theo dõi số lượng đăng ký trong suốt thời gian diễn ra chiến dịch.
-
 {% hint style="info" %}
-**Checklist hoàn thành**
+### Checklist hoàn thành
 
 * [ ] Thông tin kỳ thi đã được cập nhật.
 * [ ] Cổng đăng ký và thanh toán đã hoạt động.
 * [ ] Chiến dịch truyền thông đã triển khai.
 * [ ] Số lượng đăng ký được theo dõi và cập nhật.
 {% endhint %}
+{% endcolumn %}
+{% endcolumns %}
 
+{% columns %}
+{% column %}
 {% hint style="success" %}
-**Hoàn thành khi:** Thông tin kỳ thi được công bố trên các kênh truyền thông, chiến dịch truyền thông được triển khai theo kế hoạch.
-{% endhint %}
+### Hoàn thành khi
 
+* Danh sách thí sinh chính thức đầy đủ, chính xác.
+* Hoàn tất công tác đăng ký trước ngày thi.
+{% endhint %}
+{% endcolumn %}
+
+{% column %}
+{% hint style="success" %}
+### Hoàn thành khi
+
+* Thông tin kỳ thi được công bố trên các kênh truyền thông.
+* Chiến dịch truyền thông được triển khai theo kế hoạch.
+{% endhint %}
+{% endcolumn %}
+{% endcolumns %}
+
+{% columns %}
+{% column %}
 {% hint style="warning" %}
-**Lưu ý:** Đảm bảo thông tin trên mọi kênh thống nhất, chính xác. Phối hợp với Exam Coordinator khi có thay đổi lịch thi hoặc thời gian đăng ký.
+### Lưu ý
+
+* Theo dõi hồ sơ và thanh toán xuyên suốt thời gian mở đăng ký.
+* Cập nhật tiến độ đúng tần suất để Exam Director theo dõi tình hình.
+{% endhint %}
+{% endcolumn %}
+
+{% column %}
+{% hint style="warning" %}
+### Lưu ý
+
+* Đảm bảo thông tin trên mọi kênh thống nhất, chính xác.
+* Phối hợp với Exam Coordinator khi có thay đổi lịch thi hoặc thời gian đăng ký.
 {% endhint %}
 {% endcolumn %}
 {% endcolumns %}
