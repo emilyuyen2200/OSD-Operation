@@ -14,26 +14,10 @@ description: >-
 
 Tài liệu này mô tả toàn bộ quy trình tổ chức một kỳ thi ÖSD tại Phuong Nam Education, từ giai đoạn lập kế hoạch đến lưu trữ và cải tiến sau kỳ thi.
 
-{% columns %}
-{% column %}
-### Phạm vi áp dụng
-
-✅ Áp dụng cho toàn bộ quá trình tổ chức kỳ thi ÖSD tại Phuong Nam Education.
-{% endcolumn %}
-
-{% column %}
-### Điều kiện trước khi bắt đầu
-
-✅ Quy chế tổ chức kỳ thi đã được ban hành.
-
-✅ Kỳ thi đã được phê duyệt và mở đăng ký.
-{% endcolumn %}
-{% endcolumns %}
 
 ## 12 bước trong quy trình
 
-<figure><img src="../.gitbook/assets/Trinh Tu Thuc Hien-selection.png" alt=""><figcaption></figcaption></figure>
-
+<figure><img src="../.gitbook/assets/Trinh Tu Thuc Hien-selection.png" alt="" width="100%"><figcaption></figcaption></figure>
 ### 🔵 Giai đoạn 1 — Chuẩn bị kỳ thi
 
 <table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4>① Lập kế hoạch &#x26; Đăng ký kỳ thi</h4></td><td>📅 Trước 1,5–2 tháng<br>Xây dựng kế hoạch kỳ thi, đăng ký với ÖSD và xác nhận lịch.<br><strong>Phụ trách:</strong> Exam Director</td><td><a href="buoc-01-lap-ke-hoach-dang-ky.md">buoc-01-lap-ke-hoach-dang-ky.md</a></td></tr><tr><td><h4>② Quản lý đăng ký &#x26; Truyền thông</h4></td><td>📅 Trước 1,5–2 tháng<br>Tiếp nhận hồ sơ, mở đăng ký, truyền thông và theo dõi số lượng.<br><strong>Phụ trách:</strong> Exam Coordinator (2a) / Marketing Team (2b)</td><td><a href="buoc-02-quan-ly-va-truyen-thong.md">buoc-02-quan-ly-va-truyen-thong.md</a></td></tr><tr><td><h4>③ Sắp xếp lịch thi</h4></td><td>📅 Trước 5–7 ngày<br>Phân chia buổi thi, phòng thi và lịch thi.<br><strong>Phụ trách:</strong> Exam Coordinator</td><td><a href="buoc-03-sap-xep-lich-thi.md">buoc-03-sap-xep-lich-thi.md</a></td></tr><tr><td><h4>④ Tiếp nhận đề thi</h4></td><td>📅 Trước 2–3 tuần<br>Nhận đề thi từ ÖSD và xác nhận tình trạng.<br><strong>Phụ trách:</strong> Exam Operations Officer (quyết định) / Exam Coordinator (thực hiện)</td><td><a href="buoc-04-tiep-nhan-de-thi.md">buoc-04-tiep-nhan-de-thi.md</a></td></tr><tr><td><h4>⑤ Phân công nhân sự &#x26; CSVC</h4></td><td>📅 Trước 1 tuần<br>Phân công giám thị, chuẩn bị thiết bị và phòng thi.<br><strong>Phụ trách:</strong> Exam Operations Officer (quyết định) / Exam Coordinator (thực hiện)</td><td><a href="buoc-05-phan-cong-va-csvc.md">buoc-05-phan-cong-va-csvc.md</a></td></tr><tr><td><h4>⑥ Chuẩn bị đề thi</h4></td><td>📅 Trước 1 ngày<br>Kiểm tra đề, tài liệu và niêm phong.<br><strong>Phụ trách:</strong> Exam Operations Officer (quyết định) / Exam Coordinator (thực hiện)</td><td><a href="buoc-06-chuan-bi-de-thi.md">buoc-06-chuan-bi-de-thi.md</a></td></tr></tbody></table>
