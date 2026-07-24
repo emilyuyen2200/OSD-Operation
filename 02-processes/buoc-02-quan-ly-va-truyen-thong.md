@@ -9,13 +9,13 @@ description: >-
 
 {% columns %}
 {% column %}
-### 📅 **Thời điểm**&#x20;
+#### 📅 **Thời điểm**&#x20;
 
 Bắt đầu ngay sau khi hoàn thành [Bước 1. Lập kế hoạch kỳ thi](buoc-01-lap-ke-hoach-dang-ky.md) và kết thúc khi đóng đăng ký.
 {% endcolumn %}
 
 {% column width="33.33333333333333%" %}
-### 👤 **Phụ trách**&#x20;
+#### 👤 **Phụ trách**&#x20;
 
 2A: [Exam Coordinator](../03-roles/exam-coordinator.md)&#x20;
 
@@ -23,7 +23,7 @@ Bắt đầu ngay sau khi hoàn thành [Bước 1. Lập kế hoạch kỳ thi](
 {% endcolumn %}
 
 {% column width="33.33333333333333%" %}
-### ✅ **Phê duyệt**&#x20;
+#### ✅ **Phê duyệt**&#x20;
 
 [Exam Director](../03-roles/exam-director.md)
 {% endcolumn %}

@@ -25,19 +25,19 @@ Lập lịch thi chi tiết cho từng kỹ năng, phân công nhân sự và ph
 
 {% columns %}
 {% column %}
-📅 **Thời điểm**&#x20;
+#### 📅 **Thời điểm**&#x20;
 
 Trước ngày thi 5–7 ngày
 {% endcolumn %}
 
 {% column %}
-👤 **Phụ trách**&#x20;
+#### 👤 **Phụ trách**&#x20;
 
 [Exam Coordinator](../03-roles/exam-coordinator.md)
 {% endcolumn %}
 
 {% column %}
-✅ **Phê duyệt**&#x20;
+#### ✅ **Phê duyệt**&#x20;
 
 [Exam Director](../03-roles/exam-director.md)
 {% endcolumn %}
