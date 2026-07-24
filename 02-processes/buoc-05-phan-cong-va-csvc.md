@@ -55,14 +55,14 @@ layout:
 
 | Hạng mục | Nội dung | Checklist liên quan |
 | --- | --- | --- |
-| 1. Nhân sự | Phân công nhiệm vụ · Xác nhận lịch làm việc · Thông báo nhân sự | Checklist Phân công Nhân sự *(cần soạn)* |
-| 2. Hồ sơ, biểu mẫu | In ấn · Biểu mẫu · Hồ sơ phòng thi | Checklist Hồ sơ & Biểu mẫu Phòng thi *(cần soạn)* |
-| 3. Thiết bị | Laptop · Tai nghe · Internet · iPad | Checklist Thiết bị *(cần soạn)* |
-| 4. Phòng thi | Setup · Layout · Biển chỉ dẫn | Checklist Setup Phòng thi *(cần soạn)* |
-| 5. Kỹ thuật | Phần mềm · Recording · Login | Checklist Phần mềm & Hệ thống *(cần soạn)* |
+| 1. Nhân sự | Phân công nhiệm vụ · Xác nhận lịch làm việc · Thông báo nhân sự | [Checklist Phân công Nhân sự](../04-templates-checklists/checklist-phan-cong-nhan-su.md) |
+| 2. Hồ sơ, biểu mẫu | In ấn · Biểu mẫu · Hồ sơ phòng thi | [Checklist Hồ sơ & Biểu mẫu Phòng thi](../04-templates-checklists/checklist-ho-so-bieu-mau-phong-thi.md) |
+| 3. Thiết bị | Laptop · Tai nghe · Internet · iPad | [Checklist Thiết bị](../04-templates-checklists/checklist-thiet-bi.md) |
+| 4. Phòng thi | Setup · Layout · Biển chỉ dẫn | [Checklist Setup Phòng thi](../04-templates-checklists/checklist-setup-phong-thi.md) |
+| 5. Kỹ thuật | Phần mềm · Recording · Login | [Checklist Phần mềm & Hệ thống](../04-templates-checklists/checklist-phan-mem-va-he-thong.md) |
 
 {% hint style="warning" %}
-5 checklist trên hiện **chưa có nội dung chi tiết** — mới chỉ liệt kê tên trong [Danh mục mẫu biểu](../04-templates-checklists/danh-muc-mau-bieu.md). Cần đội vận hành bổ sung nội dung form thật trước khi áp dụng chính thức.
+5 checklist trên là **bản nháp ban đầu** — cần đội vận hành rà soát và điều chỉnh nội dung trước khi áp dụng chính thức.
 {% endhint %}
 
 {% hint style="success" %}
