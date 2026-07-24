@@ -7,16 +7,19 @@ Bước này gồm hai hoạt động được triển khai **song song** ngay s
 
 {% columns %}
 {% column %}
-🎯 **Mục đích**
-
-- Tiếp nhận và quản lý đăng ký kỳ thi đến khi chốt danh sách thí sinh chính thức.
-- Triển khai truyền thông để tiếp cận thí sinh và thúc đẩy đăng ký trong thời gian mở cổng.
+📅 **Thời điểm**
+Bắt đầu ngay sau khi hoàn thành [Bước 1. Lập kế hoạch kỳ thi](./buoc-01-lap-ke-hoach-dang-ky.md) và kết thúc khi đóng đăng ký.
 {% endcolumn %}
 
 {% column %}
-📅 **Thời điểm**
+👤 **Phụ trách**
+2A: [Exam Coordinator](../03-roles/exam-coordinator.md)
+2B: [Phòng Marketing](../03-roles/marketing.md)
+{% endcolumn %}
 
-Bắt đầu ngay sau khi hoàn thành [Bước 1. Lập kế hoạch kỳ thi](./buoc-01-lap-ke-hoach-dang-ky.md) và kết thúc khi đóng đăng ký.
+{% column %}
+✅ **Phê duyệt**
+[Exam Director](../03-roles/exam-director.md)
 {% endcolumn %}
 {% endcolumns %}
 
@@ -55,6 +58,7 @@ Bắt đầu ngay sau khi hoàn thành [Bước 1. Lập kế hoạch kỳ thi](
 8. **Đóng đăng ký** — Đóng cổng đăng ký theo kế hoạch.
 9. **Lập danh sách thí sinh chính thức** — Tổng hợp và hoàn thiện danh sách thí sinh đủ điều kiện.
 
+{% hint style="info" %}
 **Checklist hoàn thành**
 
 - [ ] Cổng đăng ký đã được mở.
@@ -65,6 +69,7 @@ Bắt đầu ngay sau khi hoàn thành [Bước 1. Lập kế hoạch kỳ thi](
 - [ ] Báo cáo tiến độ đã gửi Exam Director.
 - [ ] Đăng ký đã được đóng.
 - [ ] Danh sách thí sinh chính thức đã hoàn thành.
+{% endhint %}
 
 {% hint style="success" %}
 **Hoàn thành khi:** Danh sách thí sinh chính thức đầy đủ, chính xác, và hoàn tất công tác đăng ký trước ngày thi.
@@ -97,12 +102,14 @@ Bắt đầu ngay sau khi hoàn thành [Bước 1. Lập kế hoạch kỳ thi](
 3. **Triển khai truyền thông** trên các kênh của công ty: Facebook, Zalo, tin nhắn đến học viên.
 4. **Theo dõi hiệu quả** — Theo dõi số lượng đăng ký trong suốt thời gian diễn ra chiến dịch.
 
+{% hint style="info" %}
 **Checklist hoàn thành**
 
 - [ ] Thông tin kỳ thi đã được cập nhật.
 - [ ] Cổng đăng ký và thanh toán đã hoạt động.
 - [ ] Chiến dịch truyền thông đã triển khai.
 - [ ] Số lượng đăng ký được theo dõi và cập nhật.
+{% endhint %}
 
 {% hint style="success" %}
 **Hoàn thành khi:** Thông tin kỳ thi được công bố trên các kênh truyền thông, chiến dịch truyền thông được triển khai theo kế hoạch.
@@ -137,7 +144,3 @@ Bắt đầu ngay sau khi hoàn thành [Bước 1. Lập kế hoạch kỳ thi](
 {% endcontent-ref %}
 {% endcolumn %}
 {% endcolumns %}
-
-## Lịch sử thay đổi
-
-- 2026-07-24: Thiết kế lại theo bố cục 2 cột song song (2A/2B), bổ sung nội dung chi tiết từng bước và checklist.
