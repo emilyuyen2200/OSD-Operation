@@ -1,4 +1,7 @@
 ---
+description: >-
+  Đảm bảo toàn bộ nhân sự, hồ sơ, thiết bị và phòng thi đã sẵn sàng trước ngày
+  tổ chức kỳ thi.
 layout:
   width: wide
   title:
@@ -20,8 +23,6 @@ layout:
 ---
 
 # Bước 5 — Phân công nhân sự & CSVC
-
-Đảm bảo toàn bộ nhân sự, hồ sơ, thiết bị và phòng thi đã sẵn sàng trước ngày tổ chức kỳ thi.
 
 {% columns %}
 {% column %}

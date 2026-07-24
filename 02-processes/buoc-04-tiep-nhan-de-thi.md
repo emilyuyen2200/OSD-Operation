@@ -1,4 +1,7 @@
 ---
+description: >-
+  Tiếp nhận, kiểm tra và lưu trữ an toàn lô đề thi từ ÖSD cho đến ngày tổ chức
+  kỳ thi.
 layout:
   width: wide
   title:
@@ -20,8 +23,6 @@ layout:
 ---
 
 # Bước 4 — Tiếp nhận đề thi
-
-Tiếp nhận, kiểm tra và lưu trữ an toàn lô đề thi từ ÖSD cho đến ngày tổ chức kỳ thi.
 
 {% columns %}
 {% column width="33.33333333333333%" %}
