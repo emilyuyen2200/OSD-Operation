@@ -57,9 +57,33 @@ Xác định thời gian tổ chức, trình độ mở thi và hoàn tất đă
 
 ## 🔀 Luồng thực hiện
 
-| ①                             | ②                           | ③                  | ④                         |
-| ----------------------------- | --------------------------- | ------------------ | ------------------------- |
-| 📅 Xác định thời gian tổ chức | 📋 Xác định trình độ mở thi | ✏️ Đăng ký với ÖSD | ✉️ Lưu thông tin xác nhận |
+{% columns %}
+{% column width="25%" %}
+{% hint style="info" icon="1" %}
+### Xác định thời gian tổ chức
+{% endhint %}
+{% endcolumn %}
+
+{% column width="24.999999999999993%" %}
+{% hint style="info" icon="2" %}
+### Xác định trình độ mở thi.
+{% endhint %}
+
+
+{% endcolumn %}
+
+{% column width="25%" %}
+{% hint style="info" icon="3" %}
+### Đăng ký kỳ thi với ÖSD
+{% endhint %}
+{% endcolumn %}
+
+{% column width="24.999999999999993%" %}
+{% hint style="info" icon="4" %}
+### Đăng ký kỳ thi với ÖSD
+{% endhint %}
+{% endcolumn %}
+{% endcolumns %}
 
 ***
 
