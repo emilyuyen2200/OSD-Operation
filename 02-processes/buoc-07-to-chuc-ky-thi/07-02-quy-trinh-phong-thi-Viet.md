@@ -21,21 +21,19 @@ layout:
 
 # 07-02. Quy trình phòng thi Viết
 
-Điều phối và tổ chức phòng thi Viết theo đúng quy chế ÖSD, đảm bảo kỳ thi diễn ra đúng thời gian, đúng quy trình và an toàn.
+Tổ chức và điều phối phòng thi Viết theo đúng quy chế ÖSD, đảm bảo kỳ thi diễn ra đúng quy trình, đúng thời gian và an toàn.
 
 {% columns %}
 {% column %}
 #### 📅 Thời điểm
 
-Áp dụng cho từng phòng thi Viết trong suốt thời gian diễn ra buổi thi.
+Trong suốt thời gian diễn ra buổi thi Viết.
 {% endcolumn %}
 
 {% column %}
 #### 👤 Phụ trách
 
 Invigilator
-
-Exam Coordinator
 {% endcolumn %}
 
 {% column %}
@@ -51,17 +49,16 @@ Exam Director
 
 | Vai trò | Trách nhiệm |
 | --- | --- |
-| Exam Coordinator | Điều phối chung các phòng thi Viết. |
-| Invigilator | Tổ chức và giám sát phòng thi theo quy chế ÖSD. |
+| Invigilator | Điều phối và giám sát toàn bộ hoạt động của phòng thi Viết. |
 
 ### 📋 Chuẩn bị
 
-- 📄 Đề thi đã được phân loại theo phòng.
+- 📄 Đề thi theo từng kỹ năng.
 - 📄 Attendance List.
 - 📄 Protokoll.
-- 📄 Danh sách thí sinh.
-- 🎧 File nghe của bài thi Listening.
-- 🏫 Phòng thi và thiết bị đã sẵn sàng.
+- 📄 Phiếu trả lời và giấy nháp.
+- 🎧 File nghe và thiết bị phát âm thanh.
+- 🏫 Phòng thi đã hoàn tất setup.
 
 ***
 
@@ -70,89 +67,63 @@ Exam Director
 {% hint style="danger" %}
 ### Đề thi
 
-- Chỉ mở đề thi theo đúng thời điểm quy định.
+- Chỉ mở đề theo đúng thời điểm quy định.
 - Chỉ phát đúng đề cho đúng phòng thi.
-- Không để đề thi ngoài phạm vi kiểm soát của giám thị.
+- Không giải thích nội dung đề thi cho thí sinh.
 {% endhint %}
 
 {% hint style="danger" %}
-### Phòng thi
+### Điều hành phòng thi
 
-- Chỉ cho phép thí sinh đã hoàn tất quy trình tiếp nhận vào phòng thi.
-- Thực hiện đúng lịch thi và thời lượng từng kỹ năng.
-- Giám sát phòng thi trong toàn bộ thời gian làm bài.
+- Chỉ sử dụng tiếng Đức trong suốt buổi thi.
+- Giám sát liên tục trong thời gian làm bài.
+- Ghi nhận và báo cáo các tình huống phát sinh theo quy định.
 {% endhint %}
 
 {% hint style="danger" %}
-### Bài thi
+### Kết thúc buổi thi
 
-- Thu đầy đủ bài thi trước khi thí sinh rời phòng.
-- Kiểm đếm bài thi trước khi bàn giao.
+- Thu đầy đủ bài thi và tài liệu liên quan trước khi thí sinh rời phòng.
+- Kiểm đếm và hoàn tất hồ sơ trước khi bàn giao.
 {% endhint %}
 
 ***
 
-## 📖 Quy trình
+## 📖 Hướng dẫn thực hiện
 
-<details>
+{% stepper %}
 
-<summary><strong>① Chuẩn bị phòng thi</strong></summary>
+{% step %}
+### Chuẩn bị phòng thi
 
-Tiếp nhận đề thi, kiểm tra hồ sơ và xác nhận phòng thi sẵn sàng trước giờ đón thí sinh.
+Tiếp nhận đề thi, kiểm tra hồ sơ, thiết bị và hoàn tất công tác chuẩn bị trước giờ thi.
+{% endstep %}
 
-**👤 Phụ trách:** Invigilator
+{% step %}
+### Đón thí sinh vào phòng
 
-</details>
+Gọi tên, kiểm tra thông tin và hướng dẫn thí sinh vào đúng vị trí theo sơ đồ phòng thi.
+{% endstep %}
 
-<details>
+{% step %}
+### Tổ chức buổi thi
 
-<summary><strong>② Đón thí sinh vào phòng</strong></summary>
+Phổ biến quy định, phát đề và điều phối các kỹ năng theo đúng thời gian quy định.
+{% endstep %}
 
-Điều phối thí sinh vào đúng vị trí và ổn định phòng thi trước giờ bắt đầu.
+{% step %}
+### Giám sát phòng thi
 
-**👤 Phụ trách:** Invigilator
+Theo dõi toàn bộ quá trình làm bài và xử lý các tình huống phát sinh theo quy chế.
+{% endstep %}
 
-</details>
+{% step %}
+### Kết thúc buổi thi
 
-<details>
+Thu bài, kiểm đếm hồ sơ và bàn giao cho quy trình thu bài & đối soát.
+{% endstep %}
 
-<summary><strong>③ Hướng dẫn trước khi thi</strong></summary>
-
-Phổ biến quy định, hướng dẫn điền thông tin và chuẩn bị bắt đầu bài thi.
-
-**👤 Phụ trách:** Invigilator
-
-</details>
-
-<details>
-
-<summary><strong>④ Tổ chức thi</strong></summary>
-
-Phát đề, giám sát phòng thi và điều phối các phần thi theo đúng thời gian quy định.
-
-**👤 Phụ trách:** Invigilator
-
-</details>
-
-<details>
-
-<summary><strong>⑤ Kết thúc buổi thi</strong></summary>
-
-Thông báo hết giờ, thu bài và kiểm đếm bài thi.
-
-**👤 Phụ trách:** Invigilator
-
-</details>
-
-<details>
-
-<summary><strong>⑥ Bàn giao bài thi</strong></summary>
-
-Bàn giao bài thi và hồ sơ cho Exam Coordinator để tiếp tục quy trình đối soát.
-
-**👤 Phụ trách:** Invigilator
-
-</details>
+{% endstepper %}
 
 ***
 
@@ -161,12 +132,11 @@ Bàn giao bài thi và hồ sơ cho Exam Coordinator để tiếp tục quy trì
 {% hint style="info" %}
 ### Checklist hoàn thành
 
-- [ ] Đã chuẩn bị phòng thi.
-- [ ] Đã đón thí sinh vào phòng.
-- [ ] Đã phổ biến hướng dẫn trước khi thi.
-- [ ] Đã tổ chức buổi thi theo đúng quy định.
-- [ ] Đã thu đầy đủ bài thi.
-- [ ] Đã bàn giao bài thi và hồ sơ.
+- [ ] Phòng thi đã sẵn sàng.
+- [ ] Thí sinh đã vào đúng vị trí.
+- [ ] Đã phổ biến quy định và phát đề.
+- [ ] Buổi thi diễn ra đúng quy chế.
+- [ ] Đã thu và kiểm đếm đầy đủ bài thi.
 {% endhint %}
 {% endcolumn %}
 
@@ -174,9 +144,8 @@ Bàn giao bài thi và hồ sơ cho Exam Coordinator để tiếp tục quy trì
 {% hint style="success" %}
 ### Hoàn thành khi
 
-- Toàn bộ bài thi đã được thu và kiểm đếm.
-- Hồ sơ đã được bàn giao cho Exam Coordinator.
-- Sẵn sàng thực hiện **07-04. Quy trình thu bài & bàn giao**.
+- Toàn bộ bài thi và hồ sơ của phòng thi đã được kiểm đếm.
+- Hoàn tất bàn giao cho quy trình **07-04. Thu bài & bàn giao**.
 {% endhint %}
 {% endcolumn %}
 {% endcolumns %}
@@ -184,30 +153,14 @@ Bàn giao bài thi và hồ sơ cho Exam Coordinator để tiếp tục quy trì
 {% hint style="warning" %}
 ### Lưu ý
 
-- Quy trình này chỉ mô tả luồng tổ chức phòng thi Viết.
-- Hướng dẫn chi tiết của từng vị trí được trình bày trong **Role Guide** tương ứng.
-- Các tình huống phát sinh được xử lý theo quy định của Hội đồng thi.
+- Quy trình này chỉ mô tả luồng vận hành của phòng thi Viết.
+- Hướng dẫn thao tác chi tiết được trình bày trong **Role Guide – Invigilator**.
 {% endhint %}
 
 ***
 
 ## 📎 Tài liệu liên quan
 
-{% columns %}
-{% column %}
-{% content-ref url="01-tiep-nhan-thi-sinh.md" %}
-[01-tiep-nhan-thi-sinh.md](01-tiep-nhan-thi-sinh.md)
-{% endcontent-ref %}
-
 {% content-ref url="04-thu-bai-ban-giao.md" %}
 [04-thu-bai-ban-giao.md](04-thu-bai-ban-giao.md)
 {% endcontent-ref %}
-{% endcolumn %}
-
-{% column %}
-**Role Guide**
-
-- Invigilator
-- Exam Coordinator
-{% endcolumn %}
-{% endcolumns %}
