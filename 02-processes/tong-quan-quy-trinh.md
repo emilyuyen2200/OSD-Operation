@@ -11,49 +11,102 @@ last_updated: 2026-07-24
 # Tổng quan quy trình tổ chức kỳ thi
 
 Tài liệu này mô tả toàn bộ quy trình tổ chức một kỳ thi ÖSD tại Phuong Nam Education, từ giai đoạn lập kế hoạch đến lưu trữ và cải tiến sau kỳ thi.
- 
 
-## 12 bước trong quy trình
+{% stepper %} {% step %}
 
-### 🔵 Giai đoạn 1 — Chuẩn bị kỳ thi
+1. Lập kế hoạch & đăng ký kỳ thi
 
-| STT | Tên bước | Thời gian | Phụ trách |
-| ---: | --- | --- | --- |
-| 1 | [Lập kế hoạch & đăng ký kỳ thi](buoc-01-lap-ke-hoach-dang-ky.md) | Trước 1,5–2 tháng | [Exam Director](../03-roles/exam-director.md) |
-| 2 | [Quản lý đăng ký & Truyền thông kỳ thi](buoc-02-quan-ly-va-truyen-thong.md) | Trước 1,5–2 tháng | [Exam Coordinator](../03-roles/exam-coordinator.md) (2a)<br>[Marketing Team](../03-roles/marketing.md) (2b) |
-| 3 | [Sắp xếp lịch thi](buoc-03-sap-xep-lich-thi.md) | Trước 5–7 ngày | [Exam Coordinator](../03-roles/exam-coordinator.md) |
-| 4 | [Tiếp nhận đề thi](buoc-04-tiep-nhan-de-thi.md) | Trước 2–3 tuần | [Exam Operations Officer](../03-roles/exam-operations-officer.md) (quyết định)<br>[Exam Coordinator](../03-roles/exam-coordinator.md) (thực hiện) |
-| 5 | [Phân công nhân sự & chuẩn bị CSVC](buoc-05-phan-cong-va-csvc.md) | Trước 1 tuần | [Exam Operations Officer](../03-roles/exam-operations-officer.md) (quyết định)<br>[Exam Coordinator](../03-roles/exam-coordinator.md) (thực hiện) |
-| 6 | [Chuẩn bị đề thi](buoc-06-chuan-bi-de-thi.md) | Trước 1 ngày | [Exam Operations Officer](../03-roles/exam-operations-officer.md) (quyết định)<br>[Exam Coordinator](../03-roles/exam-coordinator.md) (thực hiện) |
+Thời gian: Trước 1,5–2 tháng Phụ trách: Exam Director
 
-### 🟢 Giai đoạn 2 — Tổ chức kỳ thi
+Xem chi tiết → {% endstep %}
 
-| STT | Tên bước | Thời gian | Phụ trách |
-| ---: | --- | --- | --- |
-| 7 | [Tổ chức kỳ thi](buoc-07-to-chuc-ky-thi.md) | Trong suốt kỳ thi | [Exam Coordinator](../03-roles/exam-coordinator.md) |
+{% step %}
 
-### 🟣 Giai đoạn 3 — Sau kỳ thi
+2. Quản lý đăng ký & Truyền thông kỳ thi (song song)
 
-| STT | Tên bước | Thời gian | Phụ trách |
-| ---: | --- | --- | --- |
-| 8 | [Đối soát bài thi](buoc-08-doi-soat.md) | Sau mỗi buổi thi & sau ngày cuối | [Exam Coordinator](../03-roles/exam-coordinator.md) |
-| 9 | [Đóng gói & bàn giao](buoc-09-dong-goi-ban-giao.md) | Sau ngày thi cuối | [Exam Coordinator](../03-roles/exam-coordinator.md) |
-| 10 | [Công bố kết quả](buoc-10-cong-bo-ket-qua.md) | Sau kỳ thi 4–6 tuần | [Exam Coordinator](../03-roles/exam-coordinator.md) |
-| 11 | [Cấp phát chứng chỉ](buoc-11-cap-phat-chung-chi.md) | Khoảng 2 tuần sau khi có kết quả | [Exam Operations Team](../03-roles/exam-operations-officer.md) |
-| 12 | [Lưu trữ, tổng kết & cải tiến](buoc-12-luu-tru-tong-ket.md) | Sau kỳ thi 2–4 tuần | [Exam Coordinator](../03-roles/exam-coordinator.md) |
+Thời gian: Trước 1,5–2 tháng Phụ trách: Exam Coordinator (2a) / Marketing Team (2b)
 
-*Bảng trên chỉ hiển thị người phụ trách chính. Xem đầy đủ vai trò R/A/C/I của mọi bộ phận tại [Ma trận phân công trách nhiệm (RACI Matrix)](bang-phan-cong.md).*
+Xem chi tiết → {% endstep %}
 
-## Trình tự thực hiện
+{% step %}
 
-| 🚀 | 📝 | 📅 | 📥 | ⚙️ | 🧑‍💼 |
-| --- | --- | --- | --- | --- | --- |
-| Lập kế hoạch | Đăng ký | Lịch thi | Tiếp nhận đề thi | Chuẩn bị | Tổ chức thi |
+3. Sắp xếp lịch thi
 
-| ✅ | 📦 | 📢 | 🎓 | 🗄️ |
-| --- | --- | --- | --- | --- |
-| Đối soát | Bàn giao bài thi | Công bố kết quả | Cấp chứng chỉ | Lưu trữ & tổng kết |
+Thời gian: Trước 5–7 ngày Phụ trách: Exam Coordinator
 
+Xem chi tiết → {% endstep %}
+
+{% step %}
+
+4. Tiếp nhận đề thi
+
+Thời gian: Trước 2–3 tuần Phụ trách: Exam Operations Officer (quyết định) / Exam Coordinator (thực hiện)
+
+Xem chi tiết → {% endstep %}
+
+{% step %}
+
+5. Phân công nhân sự & chuẩn bị CSVC
+
+Thời gian: Trước 1 tuần Phụ trách: Exam Operations Officer (quyết định) / Exam Coordinator (thực hiện)
+
+Xem chi tiết → {% endstep %}
+
+{% step %}
+
+6. Chuẩn bị đề thi
+
+Thời gian: Trước 1 ngày Phụ trách: Exam Operations Officer (quyết định) / Exam Coordinator (thực hiện)
+
+Xem chi tiết → {% endstep %}
+
+{% step %}
+
+7. Tổ chức kỳ thi
+
+Thời gian: Trong suốt kỳ thi Phụ trách: Exam Coordinator
+
+Xem chi tiết → {% endstep %}
+
+{% step %}
+
+8. Đối soát bài thi
+
+Thời gian: Sau mỗi buổi thi & sau ngày cuối Phụ trách: Exam Coordinator
+
+Xem chi tiết → {% endstep %}
+
+{% step %}
+
+9. Đóng gói & bàn giao
+
+Thời gian: Sau ngày thi cuối Phụ trách: Exam Coordinator
+
+Xem chi tiết → {% endstep %}
+
+{% step %}
+
+10. Công bố kết quả
+
+Thời gian: Sau kỳ thi 4–6 tuần Phụ trách: Exam Coordinator
+
+Xem chi tiết → {% endstep %}
+
+{% step %}
+
+11. Cấp phát chứng chỉ
+
+Thời gian: Khoảng 2 tuần sau khi có kết quả Phụ trách: Exam Operations Team
+
+Xem chi tiết → {% endstep %}
+
+{% step %}
+
+12. Lưu trữ, tổng kết & cải tiến
+
+Thời gian: Sau kỳ thi 2–4 tuần Phụ trách: Exam Coordinator
+
+Xem chi tiết → {% endstep %} {% endstepper %}
 {% hint style="info" %}
 **Lưu ý**
 
