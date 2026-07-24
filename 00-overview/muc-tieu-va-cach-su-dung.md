@@ -25,9 +25,33 @@ layout:
 
 # Mục tiêu & Cách sử dụng
 
-## Mục&#x20;
+## Mục tiêu &#x20;
 
-<table data-card-wrap="false" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-type="content-ref"></th></tr></thead><tbody><tr><td><h3>🎯</h3></td><td><h4><strong>Chuẩn hóa quy trình</strong></h4></td><td>Đảm bảo mọi kỳ thi được vận hành thống nhất theo tiêu chuẩn của PNE.</td><td><a href="../vai-tro-and-phan-quyen/00-tong-quan.md">00-tong-quan.md</a></td></tr><tr><td><h3>👥</h3></td><td><h4><strong>Hướng dẫn nhân sự</strong></h4></td><td>Giúp nhân sự nắm rõ vai trò và nhiệm vụ trong từng giai đoạn.</td><td><a href="../03-roles/exam-director.md">exam-director.md</a></td></tr><tr><td><h3>📋</h3></td><td><h4><strong>Tra cứu nhanh chóng</strong></h4></td><td>Dễ dàng tìm đúng quy trình, biểu mẫu và hướng dẫn khi cần.</td><td><a href="../04-templates-checklists/danh-muc-mau-bieu.md">danh-muc-mau-bieu.md</a></td></tr><tr><td><h3>🛡️</h3></td><td><h4><strong>Quản lý chất lượng</strong></h4></td><td>Hỗ trợ kiểm soát chất lượng và giảm thiểu rủi ro trong kỳ thi.</td><td><a href="../05-risk-management/risk-register.md">risk-register.md</a></td></tr></tbody></table>
+{% columns %}
+{% column %}
+🎯 **Chuẩn hóa quy trình**
+ 
+Đảm bảo mọi kỳ thi được vận hành thống nhất theo tiêu chuẩn của PNE.
+{% endcolumn %}
+ 
+{% column %}
+👥 **Hướng dẫn nhân sự**
+ 
+Giúp nhân sự nắm rõ vai trò và nhiệm vụ trong từng giai đoạn.
+{% endcolumn %}
+ 
+{% column %}
+📋 **Tra cứu nhanh chóng**
+ 
+Dễ dàng tìm đúng quy trình, biểu mẫu và hướng dẫn khi cần.
+{% endcolumn %}
+ 
+{% column %}
+🛡️ **Quản lý chất lượng**
+ 
+Hỗ trợ kiểm soát chất lượng và giảm thiểu rủi ro trong kỳ thi.
+{% endcolumn %}
+{% endcolumns %}
 
 ## Bắt đầu từ đâu?
 
@@ -35,11 +59,11 @@ Gợi ý thứ tự đọc dành cho người dùng mới.
 
 {% stepper %}
 {% step %}
-### Tổng quan quy trình
+### Vai trò & Bảng phân công
 {% endstep %}
 
 {% step %}
-### Vai trò & Bảng phân công
+### Tổng quan quy trình
 {% endstep %}
 
 {% step %}
