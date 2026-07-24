@@ -1,9 +1,9 @@
 ---
 title: Checklist phòng thi Speaking
-description: Checklist tổ chức phòng thi Speaking — Bước 7.
+description: Checklist tổ chức phòng thi Nói — Bước 7.
 ---
 
-# Checklist phòng thi Speaking
+# Checklist phòng thi Nói
 
 - [ ] Đã điều phối thí sinh đúng theo từng slot.
 - [ ] Đã kiểm tra thiết bị ghi âm hoạt động trước khi bắt đầu.
@@ -14,6 +14,6 @@ description: Checklist tổ chức phòng thi Speaking — Bước 7.
 
 ## Tài liệu liên quan
 
-{% content-ref url="../02-processes/buoc-07-to-chuc-ky-thi/07-03-quy-trinh-phong-thi-speaking.md" %}
-[07-03. Quy trình phòng thi Speaking](../02-processes/buoc-07-to-chuc-ky-thi/07-03-quy-trinh-phong-thi-speaking.md)
+{% content-ref url="../02-processes/buoc-07-to-chuc-ky-thi/07-03-quy-trinh-phong-thi-Noi.md" %}
+[07-03. Quy trình phòng thi Nói](../02-processes/buoc-07-to-chuc-ky-thi/07-03-quy-trinh-phong-thi-Noi.md)
 {% endcontent-ref %}
