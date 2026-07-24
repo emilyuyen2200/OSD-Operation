@@ -17,11 +17,6 @@ Trước ngày thi 1,5–2 tháng
 ✅ **Phê duyệt**
 [Exam Director](../03-roles/exam-director.md)
 {% endcolumn %}
-
-{% column %}
-⏱️ **Thời lượng ước tính**
-30–60 phút
-{% endcolumn %}
 {% endcolumns %}
 
 ---
@@ -144,7 +139,3 @@ Trước ngày thi 1,5–2 tháng
 Quy định đăng ký kỳ thi của ÖSD *(tài liệu bên ngoài — chưa có link nội bộ)*
 {% endcolumn %}
 {% endcolumns %}
-
-## Lịch sử thay đổi
-
-- 2026-07-24: Thiết kế lại theo bố cục trực quan (badge thông tin, luồng thực hiện, hướng dẫn 3 cột kèm kết quả).
