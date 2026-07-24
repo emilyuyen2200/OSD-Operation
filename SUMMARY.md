@@ -27,8 +27,8 @@
 
 ## Quy trình Tổ chức thi ÖSD
 
-* [Tổng quan quy trình](quy-trinh-to-chuc-thi-osd/tong-quan-quy-trinh.md)
-* [Bảng phân công](quy-trinh-to-chuc-thi-osd/bang-phan-cong.md)
+* [Tổng quan quy trình](02-processes/tong-quan-quy-trinh.md)
+* [Bảng phân công](02-processes/bang-phan-cong.md)
 * [Bước 1 — Lập kế hoạch & đăng ký](02-processes/buoc-01-lap-ke-hoach-dang-ky.md)
 * [Bước 2 — Quản lý đăng ký & Truyền thông kỳ thi](02-processes/buoc-02-quan-ly-va-truyen-thong.md)
 * [Bước 3 — Sắp xếp lịch thi chi tiết](02-processes/buoc-03-sap-xep-lich-thi.md)
@@ -70,9 +70,9 @@
 * [Checklist phòng thi Written](mau-bieu-and-checklist/checklist-phong-thi-written.md)
 * [Checklist phòng thi Speaking](mau-bieu-and-checklist/checklist-phong-thi-speaking.md)
 * [Checklist Thu bài & Bàn giao](04-templates-checklists/checklist-thu-bai-va-ban-giao.md)
-* [Checklist đối soát bài thi](mau-bieu-and-checklist/checklist-doi-soat-bai-thi.md)
-* [Checklist hồ sơ Express Result](mau-bieu-and-checklist/checklist-ho-so-express-result.md)
-* [Checklist hoàn tất kỳ thi](mau-bieu-and-checklist/checklist-hoan-tat-ky-thi.md)
+* [Checklist đối soát bài thi](04-templates-checklists/checklist-doi-soat-bai-thi.md)
+* [Checklist hồ sơ Express Result](04-templates-checklists/checklist-ho-so-express-result.md)
+* [Checklist hoàn tất kỳ thi](04-templates-checklists/checklist-hoan-tat-ky-thi.md)
 
 ## Quản lý rủi ro
 
