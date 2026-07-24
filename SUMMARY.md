@@ -1,4 +1,4 @@
-# Danh mục
+# Table of contents
 
 * [Trang chủ](README.md)
 
@@ -22,8 +22,8 @@
 
 ## Quy trình Tổ chức thi ÖSD
 
-* [Tổng quan quy trình](02-processes/00-tong-quan.md)
-* [Bảng phân công](02-processes/bang-phan-cong.md)
+* [Tổng quan quy trình](quy-trinh-to-chuc-thi-osd/tong-quan-quy-trinh.md)
+* [Bảng phân công](quy-trinh-to-chuc-thi-osd/bang-phan-cong.md)
 * [Bước 1 — Lập kế hoạch & đăng ký](02-processes/buoc-01-lap-ke-hoach-dang-ky.md)
 * [Bước 2 — Quản lý đăng ký & Truyền thông kỳ thi](02-processes/buoc-02-quan-ly-va-truyen-thong.md)
 * [Bước 3 — Sắp xếp lịch thi chi tiết](02-processes/buoc-03-sap-xep-lich-thi.md)
@@ -40,19 +40,19 @@
 ## Mẫu biểu & Checklist
 
 * [Danh mục mẫu biểu](04-templates-checklists/danh-muc-mau-bieu.md)
-* [Sơ đồ phòng thi](04-templates-checklists/so-do-phong-thi.md)
-* [Giấy nháp thi](04-templates-checklists/giay-nhap-thi.md)
-* [Kế hoạch kỳ thi](04-templates-checklists/ke-hoach-ky-thi.md)
-* [Tờ phân loại đề thi](04-templates-checklists/to-phan-loai-de-thi.md)
-* [Danh sách check-in](04-templates-checklists/danh-sach-check-in.md)
-* [Danh sách giữ đồ](04-templates-checklists/danh-sach-giu-do.md)
-* [Danh sách thi các kỹ năng](04-templates-checklists/danh-sach-thi-cac-ky-nang.md)
-* [Protokol](04-templates-checklists/protokol.md)
-* [Checklist Phân công Nhân sự](04-templates-checklists/checklist-phan-cong-nhan-su.md)
-* [Checklist Hồ sơ & Biểu mẫu Phòng thi](04-templates-checklists/checklist-ho-so-bieu-mau-phong-thi.md)
-* [Checklist Thiết bị](04-templates-checklists/checklist-thiet-bi.md)
-* [Checklist Setup Phòng thi](04-templates-checklists/checklist-setup-phong-thi.md)
-* [Checklist Phần mềm & Hệ thống](04-templates-checklists/checklist-phan-mem-va-he-thong.md)
+* [Sơ đồ phòng thi](mau-bieu-and-checklist/so-do-phong-thi.md)
+* [Giấy nháp thi](mau-bieu-and-checklist/giay-nhap-thi.md)
+* [Kế hoạch kỳ thi](mau-bieu-and-checklist/ke-hoach-ky-thi.md)
+* [Tờ phân loại đề thi](mau-bieu-and-checklist/to-phan-loai-de-thi.md)
+* [Danh sách check-in](mau-bieu-and-checklist/danh-sach-check-in.md)
+* [Danh sách giữ đồ](mau-bieu-and-checklist/danh-sach-giu-do.md)
+* [Danh sách thi các kỹ năng](mau-bieu-and-checklist/danh-sach-thi-cac-ky-nang.md)
+* [Protokol](mau-bieu-and-checklist/protokol.md)
+* [Checklist Phân công Nhân sự](mau-bieu-and-checklist/checklist-phan-cong-nhan-su.md)
+* [Checklist Hồ sơ & Biểu mẫu Phòng thi](mau-bieu-and-checklist/checklist-ho-so-and-bieu-mau-phong-thi.md)
+* [Checklist Thiết bị](mau-bieu-and-checklist/checklist-thiet-bi.md)
+* [Checklist Setup Phòng thi](mau-bieu-and-checklist/checklist-setup-phong-thi.md)
+* [Checklist Phần mềm & Hệ thống](mau-bieu-and-checklist/checklist-phan-mem-and-he-thong.md)
 
 ## Quản lý rủi ro
 

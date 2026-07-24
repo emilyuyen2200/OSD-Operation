@@ -76,8 +76,16 @@ Trước ngày thi 2–3 tuần
 
 ***
 
-{% columns %}
-{% column %}
+{% hint style="info" %}
+### 🔐 Quy định bảo mật
+
+**Ai được tiếp cận** Chỉ [Exam Operations Officer](../03-roles/exam-operations-officer.md) và [Exam Director](../03-roles/exam-director.md).
+
+**Chìa khóa / Phòng lưu trữ** Đề thi lưu trong phòng kho, trang bị 02 két sắt. Chỉ 03 nhân sự Exam Operations Team được biết chìa khóa và mật khẩu.
+
+**Mở niêm phong** Chỉ mở niêm phong khi có Exam Director trực tiếp giám sát và cho phép.
+{% endhint %}
+
 ## 📖 Hướng dẫn thực hiện
 
 {% hint style="info" icon="1" %}
@@ -121,18 +129,6 @@ Nếu phát hiện bất thường, thực hiện theo hướng dẫn tại mụ
 * Chuyển lô đề thi vào phòng lưu trữ, bảo quản trong két sắt theo quy định.
 * Giữ nguyên tình trạng niêm phong.
 * Ghi nhận thời gian tiếp nhận và lưu trữ.
-{% endcolumn %}
-
-{% column %}
-{% hint style="info" %}
-### 🔐 Quy định bảo mật
-
-**Ai được tiếp cận** Chỉ [Exam Operations Officer](../03-roles/exam-operations-officer.md) và [Exam Director](../03-roles/exam-director.md).
-
-**Chìa khóa / Phòng lưu trữ** Đề thi lưu trong phòng kho, trang bị 02 két sắt. Chỉ 03 nhân sự Exam Operations Team được biết chìa khóa và mật khẩu.
-
-**Mở niêm phong** Chỉ mở niêm phong khi có Exam Director trực tiếp giám sát và cho phép.
-{% endhint %}
 
 {% hint style="danger" %}
 ### ⚠️ Xử lý tình huống
@@ -143,8 +139,6 @@ Nếu phát hiện bất thường, thực hiện theo hướng dẫn tại mụ
 
 **Giao hàng trễ** Chủ động liên hệ DHL cập nhật tiến độ → thúc đẩy giao hàng → báo cáo Exam Director đến khi nhận thành công.
 {% endhint %}
-{% endcolumn %}
-{% endcolumns %}
 
 ***
 
