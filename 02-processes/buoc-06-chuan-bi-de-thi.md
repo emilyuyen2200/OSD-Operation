@@ -204,8 +204,8 @@ Sau khi hoàn tất, chuyển toàn bộ đề thi về khu vực lưu trữ an 
 {% endcolumn %}
 
 {% column %}
-{% content-ref url="buoc-07-to-chuc-ky-thi.md" %}
-[Bước tiếp theo: Tổ chức kỳ thi](buoc-07-to-chuc-ky-thi.md)
+{% content-ref url="buoc-07-to-chuc-ky-thi/README.md" %}
+[Bước tiếp theo: Tổ chức kỳ thi](buoc-07-to-chuc-ky-thi/README.md)
 {% endcontent-ref %}
 {% endcolumn %}
 {% endcolumns %}
