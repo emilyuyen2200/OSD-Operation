@@ -2,93 +2,275 @@
 layout:
   width: wide
   title:
-    visible: true
+    visible: false
   description:
-    visible: true
+    visible: false
   tableOfContents:
-    visible: true
+    visible: false
   outline:
-    visible: true
+    visible: false
   pagination:
-    visible: true
+    visible: false
   metadata:
-    visible: true
+    visible: false
   tags:
-    visible: true
+    visible: false
   actions:
-    visible: true
+    visible: false
 ---
 
-# Trang chủ
+# Operation Handbook
+
+<h3 align="center">Quy trình tổ chức kỳ thi ÖSD</h3>
+
+<p align="center">
+Chuẩn hóa quy trình · Thống nhất vận hành · Đào tạo nhân sự · Lưu trữ tri thức
+</p>
 
 {% hint style="success" %}
-**Đang áp dụng chính thức** — Đây là nguồn thông tin duy nhất về quy trình vận hành của doanh nghiệp.
+### 📘 Handbook chính thức
+
+Đây là nguồn tài liệu chính thức phục vụ công tác tổ chức và vận hành kỳ thi ÖSD tại PNE.
 {% endhint %}
 
-## Mục đích
+---
 
-Operation Handbook được xây dựng nhằm:
+# 🚀 Bạn muốn bắt đầu từ đâu?
 
-* Chuẩn hóa quy trình tổ chức kỳ thi theo tiêu chuẩn của PNE.
-* Thống nhất cách phối hợp giữa các bộ phận trong toàn bộ quá trình vận hành.
-* Hướng dẫn nhân sự thực hiện đúng quy trình theo từng vai trò và nhiệm vụ.
-* Lưu trữ và cập nhật kinh nghiệm vận hành giữa các kỳ thi.
-* Hỗ trợ đào tạo, hướng dẫn và bàn giao công việc cho nhân sự mới.
+<table data-view="cards">
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th data-hidden data-card-target data-type="content-ref"></th>
+</tr>
+</thead>
 
-<h2 align="center">Bạn cần tìm gì?</h2>
+<tbody>
 
-<p align="center">Chọn nhóm bên dưới, hoặc dùng ô tìm kiếm (Ctrl+K / Cmd+K) để tra nhanh theo từ khóa.</p>
+<tr>
+<td>🗂️</td>
+<td>
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h3>🌱</h3></td><td><h4><strong>Tổng quan</strong></h4></td><td>Mục tiêu &#x26; cách dùng handbook</td><td><a href="00-overview/muc-tieu-va-cach-su-dung.md">muc-tieu-va-cach-su-dung.md</a></td></tr><tr><td><h3>📜</h3></td><td><h4><strong>Quy chế</strong></h4></td><td>Khung quy định nền tảng</td><td><a href="01-policies/ban-hanh-quy-che.md">ban-hanh-quy-che.md</a></td></tr><tr><td><h3>🗂️</h3></td><td><h4><strong>Quy trình Tổ chức thi</strong></h4></td><td>12 bước, từ lập kế hoạch tới tổng kết</td><td><a href="02-processes/00-tong-quan.md">00-tong-quan.md</a></td></tr><tr><td><h3>👥</h3></td><td><h4><strong>Vai trò &#x26; Phân quyền</strong></h4></td><td>Ai chịu trách nhiệm việc gì</td><td><a href="03-roles/exam-director.md">exam-director.md</a></td></tr><tr><td><h3>📋</h3></td><td><h4><strong>Mẫu biểu &#x26; Checklist</strong></h4></td><td>Biên bản, Protokol, sơ đồ phòng thi...</td><td><a href="04-templates-checklists/danh-muc-mau-bieu.md">danh-muc-mau-bieu.md</a></td></tr><tr><td><h3>⚠️</h3></td><td><h4><strong>Rủi ro &#x26; Dự phòng</strong></h4></td><td>Mất điện, lỗi phần mềm, sự cố đề thi...</td><td><a href="05-risk-management/risk-register.md">risk-register.md</a></td></tr><tr><td><h3>📖</h3></td><td><h4><strong>Thuật ngữ</strong></h4></td><td>PIC, RACI, Protokol, KQN...</td><td><a href="06-glossary/thuat-ngu.md">thuat-ngu.md</a></td></tr></tbody></table>
+## Quy trình tổ chức kỳ thi
 
-***
+12 bước vận hành từ lập kế hoạch đến tổng kết kỳ thi.
+
+</td>
+<td>
+<a href="quy-trinh-to-chuc-thi-osd/tong-quan-quy-trinh.md">tong-quan-quy-trinh.md</a>
+</td>
+</tr>
+
+<tr>
+<td>👥</td>
+<td>
+
+## Vai trò & Phân quyền
+
+Tra cứu trách nhiệm của từng vị trí trong kỳ thi.
+
+</td>
+<td>
+<a href="03-roles/exam-director.md">exam-director.md</a>
+</td>
+</tr>
+
+<tr>
+<td>📋</td>
+<td>
+
+## Mẫu biểu & Checklist
+
+Biểu mẫu, checklist và tài liệu sử dụng trong toàn bộ quy trình.
+
+</td>
+<td>
+<a href="04-templates-checklists/danh-muc-mau-bieu.md">danh-muc-mau-bieu.md</a>
+</td>
+</tr>
+
+<tr>
+<td>⚠️</td>
+<td>
+
+## Quản lý rủi ro
+
+Các tình huống phát sinh và phương án xử lý.
+
+</td>
+<td>
+<a href="05-risk-management/risk-register.md">risk-register.md</a>
+</td>
+</tr>
+
+</tbody>
+</table>
+
+---
+
+# 🧭 Quy trình tổ chức kỳ thi
 
 {% columns %}
+
 {% column %}
-### 🚀 Đang chuẩn bị kỳ thi?
+
+{% hint style="info" %}
+### 🟦 Giai đoạn 1
+
+**Lập kế hoạch**
+
+① Lập kế hoạch & đăng ký
+
+② Quản lý đăng ký
+
+③ Sắp xếp lịch thi
+{% endhint %}
+
+{% endcolumn %}
+
+{% column %}
+
+{% hint style="warning" %}
+### 🟨 Giai đoạn 2
+
+**Chuẩn bị**
+
+④ Tiếp nhận đề thi
+
+⑤ Phân công nhân sự & CSVC
+
+⑥ Chuẩn bị đề thi
+{% endhint %}
+
+{% endcolumn %}
+
+{% endcolumns %}
+
+↓
+
+{% hint style="success" %}
+### 🟩 Giai đoạn 3
+
+**Tổ chức kỳ thi**
+
+⑦ Tổ chức kỳ thi
+{% endhint %}
+
+↓
+
+{% hint style="danger" %}
+### 🟥 Giai đoạn 4
+
+**Sau kỳ thi**
+
+⑧ Đối soát bài thi & Đề thi
+
+⑨ Đóng gói & Bàn giao bài thi
+
+⑩ Công bố kết quả
+
+⑪ Cấp phát chứng chỉ
+
+⑫ Lưu trữ, tổng kết & cải tiến
+{% endhint %}
+
+---
+
+# ⚡ Truy cập nhanh
+
+{% columns %}
+
+{% column %}
+
+### 📅 Chuẩn bị kỳ thi
 
 {% content-ref url="02-processes/buoc-05-phan-cong-va-csvc.md" %}
 [buoc-05-phan-cong-va-csvc.md](02-processes/buoc-05-phan-cong-va-csvc.md)
 {% endcontent-ref %}
 
-{% content-ref url="02-processes/buoc-07-to-chuc-ky-thi.md" %}
-[buoc-07-to-chuc-ky-thi.md](02-processes/buoc-07-to-chuc-ky-thi.md)
+{% content-ref url="02-processes/buoc-06-chuan-bi-de-thi.md" %}
+[buoc-06-chuan-bi-de-thi.md](02-processes/buoc-06-chuan-bi-de-thi.md)
+{% endcontent-ref %}
+
+{% endcolumn %}
+
+{% column %}
+
+### 🎯 Trong ngày thi
+
+{% content-ref url="02-processes/buoc-07-to-chuc-ky-thi/README.md" %}
+[README.md](02-processes/buoc-07-to-chuc-ky-thi/README.md)
 {% endcontent-ref %}
 
 {% content-ref url="05-risk-management/risk-register.md" %}
 [risk-register.md](05-risk-management/risk-register.md)
 {% endcontent-ref %}
+
 {% endcolumn %}
 
 {% column %}
-### 👤 Vai trò của bạn
+
+### 📦 Sau kỳ thi
+
+{% content-ref url="02-processes/buoc-08-doi-soat/README.md" %}
+[README.md](02-processes/buoc-08-doi-soat/README.md)
+{% endcontent-ref %}
+
+{% content-ref url="02-processes/buoc-09-dong-goi-ban-giao.md" %}
+[buoc-09-dong-goi-ban-giao.md](02-processes/buoc-09-dong-goi-ban-giao.md)
+{% endcontent-ref %}
+
+{% endcolumn %}
+
+{% endcolumns %}
+
+---
+
+# 👤 Tra cứu theo vai trò
+
+{% columns %}
+
+{% column %}
+
+{% content-ref url="03-roles/exam-director.md" %}
+[exam-director.md](03-roles/exam-director.md)
+{% endcontent-ref %}
 
 {% content-ref url="03-roles/exam-coordinator.md" %}
 [exam-coordinator.md](03-roles/exam-coordinator.md)
 {% endcontent-ref %}
 
-{% content-ref url="03-roles/exam-operations-team.md" %}
-[exam-operations-team.md](03-roles/exam-operations-team.md)
-{% endcontent-ref %}
+{% endcolumn %}
+
+{% column %}
 
 {% content-ref url="03-roles/invigilator.md" %}
 [invigilator.md](03-roles/invigilator.md)
 {% endcontent-ref %}
+
+{% content-ref url="03-roles/examiner.md" %}
+[examiner.md](03-roles/examiner.md)
+{% endcontent-ref %}
+
 {% endcolumn %}
 
 {% column %}
-### 🆕 Mới nhất
 
-{% content-ref url="02-processes/tong-quan-quy-trinh.md" %}
-[tong-quan-quy-trinh.md](02-processes/tong-quan-quy-trinh.md)
+{% content-ref url="vai-tro-and-phan-quyen/exam-operations-team/README.md" %}
+[README.md](vai-tro-and-phan-quyen/exam-operations-team/README.md)
 {% endcontent-ref %}
 
-{% content-ref url="04-templates-checklists/danh-muc-mau-bieu.md" %}
-[danh-muc-mau-bieu.md](04-templates-checklists/danh-muc-mau-bieu.md)
-{% endcontent-ref %}
 {% endcolumn %}
+
 {% endcolumns %}
 
-***
+---
 
-> 📌 Muốn hiểu cách handbook này được tổ chức (quy ước đặt tên, metadata...)? Xem [Hệ thống](99-he-thong/frontmatter-schema.md).
+{% hint style="info" %}
+### 💡 Mẹo sử dụng
+
+- Sử dụng **Ctrl + K** (Windows) hoặc **⌘ + K** (macOS) để tìm kiếm nhanh.
+- Nếu lần đầu sử dụng handbook, hãy bắt đầu từ **Tổng quan quy trình**.
+- Mỗi quy trình đều liên kết trực tiếp tới các biểu mẫu, checklist và tài liệu liên quan.
+{% endhint %}
