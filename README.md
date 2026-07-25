@@ -21,21 +21,19 @@ layout:
 
 # Operation Handbook
 
-<h3 align="center">Quy trình tổ chức kỳ thi ÖSD</h3>
+## Quy trình tổ chức kỳ thi ÖSD
 
 <p align="center">
 Chuẩn hóa quy trình · Thống nhất vận hành · Đào tạo nhân sự · Lưu trữ tri thức
 </p>
 
 {% hint style="success" %}
-### 📘 Handbook chính thức
-
-Đây là nguồn tài liệu chính thức phục vụ công tác tổ chức và vận hành kỳ thi ÖSD tại PNE.
+Đây là nguồn tài liệu chính thức về quy trình tổ chức kỳ thi ÖSD tại PNE.
 {% endhint %}
 
 ---
 
-# 🚀 Bạn muốn bắt đầu từ đâu?
+# 🚀 Bắt đầu
 
 <table data-view="cards">
 <thead>
@@ -52,9 +50,9 @@ Chuẩn hóa quy trình · Thống nhất vận hành · Đào tạo nhân sự 
 <td>🗂️</td>
 <td>
 
-## Quy trình tổ chức kỳ thi
+### Quy trình tổ chức kỳ thi
 
-12 bước vận hành từ lập kế hoạch đến tổng kết kỳ thi.
+Xem toàn bộ quy trình theo từng bước.
 
 </td>
 <td>
@@ -66,9 +64,9 @@ Chuẩn hóa quy trình · Thống nhất vận hành · Đào tạo nhân sự 
 <td>👥</td>
 <td>
 
-## Vai trò & Phân quyền
+### Vai trò & Phân quyền
 
-Tra cứu trách nhiệm của từng vị trí trong kỳ thi.
+Tra cứu nhiệm vụ theo từng vị trí.
 
 </td>
 <td>
@@ -80,9 +78,9 @@ Tra cứu trách nhiệm của từng vị trí trong kỳ thi.
 <td>📋</td>
 <td>
 
-## Mẫu biểu & Checklist
+### Mẫu biểu & Checklist
 
-Biểu mẫu, checklist và tài liệu sử dụng trong toàn bộ quy trình.
+Biểu mẫu và checklist sử dụng trong kỳ thi.
 
 </td>
 <td>
@@ -94,7 +92,7 @@ Biểu mẫu, checklist và tài liệu sử dụng trong toàn bộ quy trình.
 <td>⚠️</td>
 <td>
 
-## Quản lý rủi ro
+### Quản lý rủi ro
 
 Các tình huống phát sinh và phương án xử lý.
 
@@ -109,71 +107,55 @@ Các tình huống phát sinh và phương án xử lý.
 
 ---
 
-# 🧭 Quy trình tổ chức kỳ thi
+# 📍 Quy trình tổ chức kỳ thi
 
 {% columns %}
 
 {% column %}
 
 {% hint style="info" %}
-### 🟦 Giai đoạn 1
+## 🔵 Trước kỳ thi
 
-**Lập kế hoạch**
+**Bước 1** — Lập kế hoạch & đăng ký
 
-① Lập kế hoạch & đăng ký
+**Bước 2** — Quản lý đăng ký & Truyền thông
 
-② Quản lý đăng ký
+**Bước 3** — Sắp xếp lịch thi
 
-③ Sắp xếp lịch thi
+**Bước 4** — Tiếp nhận đề thi
+
+**Bước 5** — Phân công nhân sự & CSVC
+
+**Bước 6** — Chuẩn bị đề thi
 {% endhint %}
 
 {% endcolumn %}
 
 {% column %}
 
+{% hint style="success" %}
+## 🟢 Trong kỳ thi
+
+**Bước 7** — Tổ chức kỳ thi
+{% endhint %}
+
 {% hint style="warning" %}
-### 🟨 Giai đoạn 2
+## 🟠 Sau kỳ thi
 
-**Chuẩn bị**
+**Bước 8** — Đối soát bài thi & Đề thi
 
-④ Tiếp nhận đề thi
+**Bước 9** — Đóng gói & Bàn giao bài thi
 
-⑤ Phân công nhân sự & CSVC
+**Bước 10** — Công bố kết quả
 
-⑥ Chuẩn bị đề thi
+**Bước 11** — Cấp phát chứng chỉ
+
+**Bước 12** — Lưu trữ, tổng kết & cải tiến
 {% endhint %}
 
 {% endcolumn %}
 
 {% endcolumns %}
-
-↓
-
-{% hint style="success" %}
-### 🟩 Giai đoạn 3
-
-**Tổ chức kỳ thi**
-
-⑦ Tổ chức kỳ thi
-{% endhint %}
-
-↓
-
-{% hint style="danger" %}
-### 🟥 Giai đoạn 4
-
-**Sau kỳ thi**
-
-⑧ Đối soát bài thi & Đề thi
-
-⑨ Đóng gói & Bàn giao bài thi
-
-⑩ Công bố kết quả
-
-⑪ Cấp phát chứng chỉ
-
-⑫ Lưu trữ, tổng kết & cải tiến
-{% endhint %}
 
 ---
 
@@ -183,7 +165,7 @@ Các tình huống phát sinh và phương án xử lý.
 
 {% column %}
 
-### 📅 Chuẩn bị kỳ thi
+### 🔵 Trước kỳ thi
 
 {% content-ref url="02-processes/buoc-05-phan-cong-va-csvc.md" %}
 [buoc-05-phan-cong-va-csvc.md](02-processes/buoc-05-phan-cong-va-csvc.md)
@@ -197,21 +179,17 @@ Các tình huống phát sinh và phương án xử lý.
 
 {% column %}
 
-### 🎯 Trong ngày thi
+### 🟢 Trong kỳ thi
 
 {% content-ref url="02-processes/buoc-07-to-chuc-ky-thi/README.md" %}
 [README.md](02-processes/buoc-07-to-chuc-ky-thi/README.md)
-{% endcontent-ref %}
-
-{% content-ref url="05-risk-management/risk-register.md" %}
-[risk-register.md](05-risk-management/risk-register.md)
 {% endcontent-ref %}
 
 {% endcolumn %}
 
 {% column %}
 
-### 📦 Sau kỳ thi
+### 🟠 Sau kỳ thi
 
 {% content-ref url="02-processes/buoc-08-doi-soat/README.md" %}
 [README.md](02-processes/buoc-08-doi-soat/README.md)
@@ -271,6 +249,6 @@ Các tình huống phát sinh và phương án xử lý.
 ### 💡 Mẹo sử dụng
 
 - Sử dụng **Ctrl + K** (Windows) hoặc **⌘ + K** (macOS) để tìm kiếm nhanh.
-- Nếu lần đầu sử dụng handbook, hãy bắt đầu từ **Tổng quan quy trình**.
-- Mỗi quy trình đều liên kết trực tiếp tới các biểu mẫu, checklist và tài liệu liên quan.
+- Nếu bạn mới sử dụng Handbook, hãy bắt đầu từ **Tổng quan quy trình**.
+- Mỗi quy trình đều liên kết trực tiếp đến các vai trò, checklist và biểu mẫu liên quan.
 {% endhint %}
